@@ -12,7 +12,7 @@ pool:
 steps:
   - task: AzureStaticWebApp@0
     inputs:
-      app_location: "/" 
+      app_location: "/pages" 
       api_location: ""
       output_location: ""
       is_static_export: true # For running Static Next.js file - optional
