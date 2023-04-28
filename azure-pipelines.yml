@@ -14,7 +14,7 @@ steps:
     inputs:
       app_location: "/" 
       api_location: ""
-      output_location: ""
+      output_location: "out"
       #is_static_export: true # For running Static Next.js file - optional
 
     env:
