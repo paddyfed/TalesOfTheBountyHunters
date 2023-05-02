@@ -13,8 +13,8 @@ steps:
   - task: AzureStaticWebApp@0
     inputs:
       app_location: "/" 
-      output_location: ""
-      is_static_export: true # For running Static Next.js file - optional
+      output_location: "build/server/pages"
+      #is_static_export: true # For running Static Next.js file - optional
 
     env:
       azure_static_web_apps_api_token: $(deployment_token)
