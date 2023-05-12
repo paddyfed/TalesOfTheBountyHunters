@@ -4,10 +4,12 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 export default function About() {
+
+    const title = `${siteTitle} : About`
     return (
         <Layout about>
             <Head>
-                <title>{siteTitle} : About</title>
+                <title>{title}</title>
             </Head>
             <section>
                 <p>This is the About page</p>
