@@ -4,6 +4,8 @@ import Head from 'next/head';
 import TweetDateTime from '../../components/tweetdatetime';
 import Date from '../../components/date';
 import utilStyles from '../../styles/utils.module.css';
+import Link from 'next/link';
+
 
 export async function getStaticProps({ params }) {
   const postData = await getPostData(params.id);
@@ -57,6 +59,11 @@ export default function Post({ postData }) {
           </article>
         </>
       )}
+      
+      <div className={utilStyles.articleNavigation}>
+        {postData.prevArticle ? (<Link href={`/posts/${postData.prevArticle}`}>Previous</Link>) : (<span>Previous</span>)}
+        {postData.nextArticle ? (<Link href={`/posts/${postData.nextArticle}`}>Next</Link>) : (<span>Next</span>)}
+      </div>
 
     </Layout>
   );
