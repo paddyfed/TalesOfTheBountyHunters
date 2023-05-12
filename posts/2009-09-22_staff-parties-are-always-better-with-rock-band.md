@@ -1,6 +1,8 @@
 ---
 title: "Staff parties are always better with Rock Band"
 date: "2009-09-22"
+prevArticle: '2009-09-12_the-blues-are-back-in-town'
+nextArticle: '2009-09-25_so-closeleading-at-half-timebut-so-far'
 ---
 So we did go for our walk round the track in Glaslough and it really wasn't that tough but it would fairly keep you fit. We headed back into town and undid all our work by getting a pizza for dinner. We headed back to Glaslough and sat and watched TV for the evening. Nice and relaxing which was a welcome change! On Sunday most of Paulas ones came over for dinner and we sat and watched the [Italian Grand Prix](http://www.rte.ie/sport/motorsport/2009/0913/formula1.html). We went out to her Granny's house to inspect the work and we also got a nosy around Ted and Eileens house. Paula left me back to the flat and I went out home for my dinner.
 

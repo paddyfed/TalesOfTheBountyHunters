@@ -1,6 +1,8 @@
 ---
 title: "A lazy panto weekend"
 date: "2010-01-31"
+prevArticle: '2010-01-29_new-header-image'
+nextArticle: '2010-02-02_the-three-little-bops'
 ---
 I was working on Friday but I was finished when Paula was back in town. So we went to the shops and got food and went back to the flat to make it. We decided on beef curry as it's something we can both eat. So we made that and it was fantastic and we then just lazed about the flat for the rest of the evening. I did get a call from Devaney who was down in Monaghan for the evening but neither of us were in the mood to move. Instead we watched the Inbetweeners.
 

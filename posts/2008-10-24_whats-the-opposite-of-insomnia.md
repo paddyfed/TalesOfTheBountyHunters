@@ -1,6 +1,8 @@
 ---
 title: "Whats the opposite of insomnia?"
 date: "2008-10-24"
+prevArticle: '2008-10-21_8-days-to-go'
+nextArticle: '2008-10-28_the-last-day-of-the-claw'
 ---
 ![Garfield asleep](/images/Sleep.jpg "I love my kip")
 

@@ -1,6 +1,8 @@
 ---
 title: "A new toy to play with!"
 date: "2010-07-22"
+prevArticle: '2010-07-18_great-wedding-disappointing-match'
+nextArticle: '2010-07-27_another-bad-match-and-a-soaking'
 ---
 I wasn't working on Monday and Paula left me back into town in the morning. I sat around the flat all day and played a bit of 'God of War' and we went to football in the evening. I'm really not enjoying football though. I thought a few weeks off would do me good and I'd want to get back into it but that didn't seem to work. To top off a crappy day Paula had to go to the doctor because she had a swelling under her chin.
 

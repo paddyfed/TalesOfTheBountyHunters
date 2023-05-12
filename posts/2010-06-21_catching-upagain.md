@@ -1,6 +1,8 @@
 ---
 title: "Catching up...again..."
 date: "2010-06-21"
+prevArticle: '2010-05-18_gavins-stag-liverpool-take-2'
+nextArticle: '2010-07-05_england-france-italy-argentina-and-brazil-all-out'
 ---
 Yet again I let the blog slip a bit but I was still keeping notes so here's a round-up of the previous few weeks.
 

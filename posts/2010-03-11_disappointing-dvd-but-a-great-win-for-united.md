@@ -1,6 +1,8 @@
 ---
 title: "Disappointing DVD but a great win for United"
 date: "2010-03-11"
+prevArticle: '2010-03-08_star-wars-in-concert-and-a-60th-party'
+nextArticle: '2010-03-15_yet-another-birthday-party'
 ---
 On Tuesday we planned to have some food in the flat and to get Fantastic Mr. Fox out on DVD so that's what we did. We got the DVD and made our curry dinner, which was absolutely delicious, and then put the DVD in to watch it while we ate. Unfortunately the DVD they had given us was scratched to bits. So although we couldn't watch it then we did go back and got a different copy of the movie. After all that though it was a very disappointing movie. We also had some ice cream for dessert but that actually made Paula a bit sick. So even though it was still a good night, it was by no means perfect.
 

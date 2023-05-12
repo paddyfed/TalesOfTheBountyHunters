@@ -1,6 +1,8 @@
 ---
 title: "A whole week to catch up on..."
 date: "2009-06-25"
+prevArticle: '2009-06-15_not-the-best-party-in-the-world'
+nextArticle: '2009-06-29_a-great-night-out-with-the-gang'
 ---
 I didn't do much on Tuesday apart from work and play Sega Superstar Tennis for a while. On Wednesday Paula found out that the MMR injection that she got didn't work as planned and so she has to go back and get another one. So as you can imagine she was a bit upset about it. I have to say I wasn't too happy about it either but we'll soldier on. We went home to pick up my Zodac figure and to say hello to the folks and that didn't work out too well either. We went back to the flat and watched Top Secret to try to cheer ourselves up. I think it worked too.
 

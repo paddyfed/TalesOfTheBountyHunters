@@ -1,6 +1,8 @@
 ---
 title: "Come with us now on a journey through time and space...."
 date: "2009-01-07"
+prevArticle: '2009-01-01_merry-christmas-and-a-happy-new-year'
+nextArticle: '2009-01-19_the-cake-is-a-lie'
 ---
 To the world of The Mighty Boosh....
 

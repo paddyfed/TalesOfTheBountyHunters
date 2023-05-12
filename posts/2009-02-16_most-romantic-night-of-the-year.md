@@ -1,6 +1,8 @@
 ---
 title: "Most romantic night of the year."
 date: "2009-02-16"
+prevArticle: '2009-02-09_independence-day'
+nextArticle: '2009-02-22_ouch-my-ankle'
 ---
 So Wednesday night we went to the Pig to watch the [Ireland vs Georgia](http://www.rte.ie/sport/soccer/2009/0211/ireland_georgia.html) match and it was terrible. Two late goals and we were very lucky to get a win, and that was at home! We sat in drinking for a while and actually got two free pints as two of the bouncers who work there gave them to us as they were heading home. So that was good.
 

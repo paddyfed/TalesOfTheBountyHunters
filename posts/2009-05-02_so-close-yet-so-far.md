@@ -1,6 +1,8 @@
 ---
 title: "So close yet so far!"
 date: "2009-05-02"
+prevArticle: '2009-05-01_football-football-football'
+nextArticle: '2009-05-05_trad-music-wankers-on-stilts'
 ---
 I found out the other day that O2 were taking the Six Nations and Triple Crown trophies on a tour around the country. They came to Monaghan on Thursday evening and guess when I found out? Yep, Friday afternoon! Not only that but they went to the phone shop on Glaslough Street which is about three doors down from the entrance to the flat! Gutted! Paula did say that she would take us to it if it came to Dundalk but I looked it up and they were already there on Thursday! Hopefully they'll be doing another tour soon and hopefully they'll have some better advertising for it!!!
 

@@ -1,6 +1,8 @@
 ---
 title: "Emer's leaving home"
 date: "2009-11-29"
+prevArticle: '2009-11-25_over-tired'
+nextArticle: '2009-12-03_neil-durnin-the-rock-band-legend'
 ---
 Thursday was an okay day at work and I went out to football as usual although I didn't win this time I did manage to score and we only lost by a few. That was the good part of the day though as I found out when I got home that Paula's uncle Jim wasn't well. It just seems to be another blow to the family and hopefully they'll get through it. I did talk to Paula on the phone that evening and she seemed good, just a bit worried about her dad.
 

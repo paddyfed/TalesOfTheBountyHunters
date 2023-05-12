@@ -1,6 +1,8 @@
 ---
 title: "Another bad match and a soaking!"
 date: "2010-07-27"
+prevArticle: '2010-07-22_a-new-toy-to-play-with'
+nextArticle: '2010-07-30_cousins-from-the-other-side'
 ---
 On Friday we went with Ciara and Elaine to Armagh to see Toy Story 3. Adam and his family were there too and I have to say it was one of the best films I've seen in a long time never mind a great animated film. We came back to town and had a few chips and headed to the Poc to a Led Zeppelin tribute band. There wasn't a great crowd and the band were OK. Paula didn't feel well either so we called it a night.
 

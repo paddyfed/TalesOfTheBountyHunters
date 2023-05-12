@@ -1,6 +1,8 @@
 ---
 title: "A really great and fun weekend"
 date: "2009-11-22"
+prevArticle: '2009-11-18_in-anticipation-of-being-knocked-out'
+nextArticle: '2009-11-25_over-tired'
 ---
 After the disappointment of the previous night (we watched the match in the flat and headed to the Pig for extra time but we probably shouldn't have bothered) I got up quite late and made my spaghetti sauce. I was working from five until nine so I couldn't play football but that was probably a good thing.
 

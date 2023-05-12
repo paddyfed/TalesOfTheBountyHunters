@@ -1,6 +1,8 @@
 ---
 title: "Cousins from the other side"
 date: "2010-07-30"
+prevArticle: '2010-07-27_another-bad-match-and-a-soaking'
+nextArticle: '2010-08-01_the-last-quiet-weekend'
 ---
 ![farm website](/images/bow_club_eternia.jpg "The first attempt")
 

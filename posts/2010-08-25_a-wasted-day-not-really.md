@@ -1,6 +1,8 @@
 ---
 title: "A wasted day? Not really"
 date: "2010-08-25"
+prevArticle: '2010-08-23_babysitting-and-martin-and-dympnas-25th-anniversary'
+nextArticle: '2010-09-02_the-sligo-trip'
 ---
 ![Sunny Farm](/images/farm_1.jpg "Sunny Farm, finally completed.")
 

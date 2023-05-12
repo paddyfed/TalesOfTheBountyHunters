@@ -1,6 +1,8 @@
 ---
 title: "New profile picture"
 date: "2010-04-01"
+prevArticle: '2010-03-31_our-first-trip-to-donegal'
+nextArticle: '2010-04-07_easter-again-and-possibly-three-losses-in-a-row'
 ---
 ![Profile picture](/images/P9270033.JPG "Me at Damian's wedding")
 

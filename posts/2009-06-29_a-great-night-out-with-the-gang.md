@@ -1,6 +1,8 @@
 ---
 title: "A great night out with the gang"
 date: "2009-06-29"
+prevArticle: '2009-06-25_a-whole-week-to-catch-up-on'
+nextArticle: '2009-07-02_some-irish-legends'
 ---
 So after watching the first Transformers movie on Thursday night we headed to the cinema on Friday to see the sequel 'Revenge of the Fallen'. Although the action was good the story was a bit all over the place and could've done with a coherent main plot. I'm glad I did go to see it in the cinema though. We went for a few drinks in the Pig after that and we saw Stephanie there too as she was out with her workmates.
 

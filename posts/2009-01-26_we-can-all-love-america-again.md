@@ -1,6 +1,8 @@
 ---
 title: "We can all love America again"
 date: "2009-01-26"
+prevArticle: '2009-01-20_so-far-behind'
+nextArticle: '2009-02-02_stock-takes-injuries-and-laughs'
 ---
 Yes its time for a new President in America and thankfully Barack Obama was the man to clinch the deal back in November. It's not even that I really had any objections to McCain but that Pailin woman would've been a disaster and thankfully it's the end of Bush! I finished work early and I managed to watch the inauguration and it was quite interesting. It'll take a while for the perception of America to change over the world but I think that it will change and for the good.
 

@@ -1,6 +1,8 @@
 ---
 title: "Paula's Graduation"
 date: "2010-11-05"
+prevArticle: '2010-10-29_table-quiz-in-scotstown'
+nextArticle: '2010-11-12_beckys-graduation-and-table-quiz'
 ---
 Saturday: We had to be up early and got ready for Paulas graduation. She was up to get her hair done and we were just about ready when she got back. I sat in the Whitaker theatre while everyone else was in the hall. Paula looked very nervous getting her scroll but it all went fine. We went to get photos taken and went to the Malthouse for some lunch. After that we booked into the hotel and rested for a while. We went to the shop to get a few things and Edel arrived soon after. We headed down to her room for a few drinks. We then headed to the Graduation ball which ended up being a good night despite the shaky start. We eventually got back to the room by half two.
 

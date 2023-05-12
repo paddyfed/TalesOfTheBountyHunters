@@ -1,6 +1,8 @@
 ---
 title: "Modern Warfare's and one disapppointing result"
 date: "2009-11-16"
+prevArticle: '2009-11-08_at-least-im-finished-with-dublin'
+nextArticle: '2009-11-18_dirty-ex-arsenal-cheating-fucking-bastard'
 ---
 On Monday I wasn't working until five in the evening as we were preparing for the Call of Duty Modern Warfare 2 release at midnight. I was just basically putting up POS and generally tidying. About fifty people turned up to get their copy that night and it was really weird to see that many people in the shop at the one time. I eventually got finished up at about half twelve but I was working again in the morning and was really tired.
 

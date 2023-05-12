@@ -1,6 +1,8 @@
 ---
 title: "Staying active but still more bad news"
 date: "2010-01-28"
+prevArticle: '2010-01-24_not-exactly-the-perfect-reunionbut-avatar-was-good'
+nextArticle: '2010-01-29_new-header-image'
 ---
 Mondays football was a good one for me. Not only did I win, a rarity for me, but I also scored twice in the match. Now for most this isn't a big deal but for me who can go weeks without getting even one goal, to score two in one match is something to be celebrated. And they were no tap-ins either. The first was an interception and a slight flick past the onrushing keeper and the second was a daisy cutter from well outside the box. I was very pleased with that one!
 

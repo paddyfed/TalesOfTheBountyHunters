@@ -1,6 +1,8 @@
 ---
 title: "Christening in Dublin and More Snow!"
 date: "2010-12-03"
+prevArticle: '2010-11-26_interviews-comedy-gigs-and-mass'
+nextArticle: '2010-12-10_need-to-clear-the-head'
 ---
 Saturday: We got up and it had been snowing again. We weren't going to go to the christening but we decided to get in the car and see how bad it was. The roads weren’t too bad when we got going and we stopped for hot chocolate on the way. The christening was in Blanchardstown and the priest was a bit unusual. We went to a leisure centre for the food afterwards and we watched the [United vs Blackburn match](http://www.rte.ie/sport/soccer/2010/1127/manunited_blackburn.html). We came back down the road and stopped in Ardee to get some food and to mess around with a little trolley. We eventually got home after a very slow drive from Blayney onwards. We were meant to meet up with Mark and Sarah but it was too cold and horrible so we watched Toy Story instead. James was over on a sleepover too.
 

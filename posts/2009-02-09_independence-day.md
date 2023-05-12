@@ -1,6 +1,8 @@
 ---
 title: "Independence Day!"
 date: "2009-02-09"
+prevArticle: '2009-02-02_stock-takes-injuries-and-laughs'
+nextArticle: '2009-02-16_most-romantic-night-of-the-year'
 ---
 Yes so I've finally moved out of home, for the second time, as Adam and I have moved into our new flat on Glaslough Street. On Monday we paid our first rent and the deposit so that came to €600 which was a lot of money! We did get it all sorted very quickly though so that was good. Basically Adam had moved in by Tuesday and I started moving some things in on Wednesday. There wasn't even any football on Monday because of the heavy snow that we had!
 

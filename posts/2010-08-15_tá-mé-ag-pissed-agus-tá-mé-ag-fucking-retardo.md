@@ -1,6 +1,8 @@
 ---
 title: "Tá mé ag pissed agus tá mé ag fucking retardo"
 date: "2010-08-15"
+prevArticle: '2010-08-12_fridge-magnet-nerja'
+nextArticle: '2010-08-16_star-wars-on-blu-ray'
 ---
 So on Friday, after all of the messing around and not knowing exactly what was going on, Paul picked me and Adam up from the flat and drove down to Newbridge where Keith brought us the rest of the way to Cork. We had a few cans on the way down and when we arrived we went straight to the bar. There was also this kid in the bar who called Paul a gobshite so he was cool.
 

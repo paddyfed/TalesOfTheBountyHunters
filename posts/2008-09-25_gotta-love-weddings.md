@@ -1,6 +1,8 @@
 ---
 title: "Gotta love weddings"
 date: "2008-09-25"
+prevArticle: '2008-09-18_six-weeks'
+nextArticle: '2008-10-02_look-at-the-size-of-that-thing'
 ---
 ![Marie-Therese and Gareth cutting their cake](/images/P9190087.JPG "Marie-Therese and Gareth cutting their cake")
 

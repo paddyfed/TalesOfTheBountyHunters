@@ -1,6 +1,8 @@
 ---
 title: "I just dont care anymore...."
 date: "2010-01-05"
+prevArticle: '2010-01-04_ouchwhat-a-bad-start-to-the-new-year'
+nextArticle: '2010-01-11_our-weekend-in-wexfordwell-not-quite'
 ---
 I'm fed up with people being stupid and annoying. I'm at the point now that I just don't care what people think or what they're doing or what a fantastic New Year they had or even if it was shit, I just don't care! I'm especially fed up with people treating me like I'm an idiot or telling me what to do even if I've done things a thousand times before or treating me like I have no common sense!
 

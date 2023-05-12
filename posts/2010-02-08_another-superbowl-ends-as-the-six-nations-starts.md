@@ -1,6 +1,8 @@
 ---
 title: "Another Superbowl ends as the Six Nations starts"
 date: "2010-02-08"
+prevArticle: '2010-02-04_no-i-didnt-see-the-meteorite'
+nextArticle: '2010-02-09_the-old-blog-is-finished'
 ---
 So I wasn't working on Friday and so I lazed in the flat all day. Paula finished up in college early so she came around to hang out for a while. I then got ready to go and we headed out to her house so that she could get ready too. We then headed out home and drove down the road to Ballymena for Denis' 50th party. We were up there for a good while and thankfully nobody was taking the piss, well not too much anyway although I did like Barneys 'watch out for his Da' comment. We headed home around three in the morning and headed straight to bed.
 

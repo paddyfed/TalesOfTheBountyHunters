@@ -1,6 +1,8 @@
 ---
 title: "The Cake is a lie!!!"
 date: "2009-01-19"
+prevArticle: '2009-01-07_come-with-us-now-on-a-journey-through-time-and-space'
+nextArticle: '2009-01-20_so-far-behind'
 ---
 My PC is finally fixed and is up and running again, good as new. The power supply arrived during the week and it wasn't too big a job putting it in. Thankfully it was the right type. So I can now get my finger out and actually get my photos up and maybe look for a proper job. I had a quick look online earlier and there still doesn't seem to be anything suitable. Thankfully I'm still getting a few hours in GAME so I'm alright for the time being.
 

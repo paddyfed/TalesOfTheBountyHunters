@@ -1,6 +1,8 @@
 ---
 title: "Ouch...what a bad start to the new year!!"
 date: "2010-01-04"
+prevArticle: '2009-12-28_the-christmas-round-up'
+nextArticle: '2010-01-05_i-just-dont-care-anymore'
 ---
 The week started off so well as on Tuesday I headed over to Paulas house after work with a Chinese and a promise of watching 'Blades of Glory' on the TV. That all worked out fantastically and Paula left me in for work on Wednesday. I was working late but I didn't mind too much as Ryan was supposed to be coming down for a visit and I was going to head home for a bit of craic. We didn't get any word from him so I stayed in the flat instead. Paula did head out with Martina and Elaine though I wasn't in the mood for a night out.
 

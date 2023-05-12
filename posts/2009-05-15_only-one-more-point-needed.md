@@ -1,6 +1,8 @@
 ---
 title: "Only one more point needed!"
 date: "2009-05-15"
+prevArticle: '2009-05-10_a-quiet-weekend-for-once'
+nextArticle: '2009-05-20_one-more-mickey-finns-for-me-pleaseand-a-premiership-trophy-too'
 ---
 It was a fairly quiet week again. Adam was back in the flat on Monday and we were in work for most of the day. I had football in the evening and made dinner when I got back. We then played 'Left 4 Dead' with Dave, Neil and Sean on-line for a while. It's the first time I played it and I was quite crap but that's to be expected. Paula had her first exam today too and it went well.
 

@@ -1,6 +1,8 @@
 ---
 title: "The end of the world..."
 date: "2008-09-15"
+prevArticle: '2008-09-09_so-where-have-i-been'
+nextArticle: '2008-09-18_six-weeks'
 ---
 So they started up the LHC the other day and we're still here. Of course they're not starting the "really dangerous" stuff for another few weeks so keep your fingers and toes crossed. If it is the end of the world I doubt we'll realise it though. Ah well, found this funny on the net and thought I'd share.
 ![Large Hadron Collider](/images/largehadroncollidertp3-h.jpg "Large Hadron Collider")

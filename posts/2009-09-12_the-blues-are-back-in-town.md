@@ -1,6 +1,8 @@
 ---
 title: "The Blues are back in town"
 date: "2009-09-12"
+prevArticle: '2009-09-04_back-to-letterkenny'
+nextArticle: '2009-09-22_staff-parties-are-always-better-with-rock-band'
 ---
 ![Adam Jebbs cake](/images/P9040249.JPG "The infamous clock cake")
 

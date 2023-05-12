@@ -1,6 +1,8 @@
 ---
 title: "Table Quiz in Scotstown"
 date: "2010-10-29"
+prevArticle: '2010-10-22_the-first-charity-run'
+nextArticle: '2010-11-05_paulas-graduation'
 ---
 Saturday: We went to do the messages in Emyvale during the day and even managed to go for a walk too. Paula headed to mass for seven and I got ready as we were heading to Deerys for dinner. We ate far too much and didn’t stay for too long afterwards. It was really nice treating Paula to dinner for her graduation. We then went back to my house and spent the night there.
 

@@ -1,6 +1,8 @@
 ---
 title: "Hi ho, hi ho. It's back to work we go."
 date: "2008-11-12"
+prevArticle: '2008-11-05_little-annoyances'
+nextArticle: '2008-11-18_the-big-100'
 ---
 Yep I've taken the plunge and decided to head back to GAME at least for the Christmas period. Basically I'm going mad at home and I need something to do so a few hours in the shop will hopefully give me that. So that's the major news of the weekend. Friday night we went out to the Pig for a few drinks. It was Me, Paula, Pamela, Stephanie and Johnny. It wasn't a mad night out but Pamela and Steph were just ever so slightly drunk by the end of the night! I also got a shock during the day when my uncle Artie decided to drop in on us and I was still in my PJ's and dressing gown. It was grand though.
 

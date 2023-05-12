@@ -1,6 +1,8 @@
 ---
 title: "Well I have been avoiding it...."
 date: "2009-05-29"
+prevArticle: '2009-05-26_only-one-more-day-of-football'
+nextArticle: '2009-06-03_glorious-weather-and-bbqs-galore'
 ---
 Yes the European adventure is all over for another year and it [ended in disappointment for United.](http://www.rte.ie/sport/soccer/2009/0527/manunited_barcelona.html) Well beaten by the better side, we only had ten minutes of good solid play and only about two major chances in the match. We watched it in Johnnys house and I was texting Edel before and after the match but even wearing the same shirt as last year couldn't help. 2 - 0 to Barcelona, worthy champions.
 

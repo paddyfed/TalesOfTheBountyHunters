@@ -1,6 +1,8 @@
 ---
 title: "Babysitting and Martin and Dympnas 25th Anniversary"
 date: "2010-08-23"
+prevArticle: '2010-08-16_star-wars-on-blu-ray'
+nextArticle: '2010-08-25_a-wasted-day-not-really'
 ---
 ![Mo-Larr vs Skeletor](/images/P8250150.JPG "You've got an impacted wisdom tooth!")
 

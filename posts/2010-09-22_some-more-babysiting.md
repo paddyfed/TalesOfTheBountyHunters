@@ -1,6 +1,8 @@
 ---
 title: "Some more babysiting"
 date: "2010-09-22"
+prevArticle: '2010-09-15_blues-weekend-and-a-quiet-one-to-follow'
+nextArticle: '2010-09-24_last-few-days-in-the-flat'
 ---
 I was working the late on Thursday so I couldn't go and play football. Instead Paula came over for a while and we had dinner in the flat. I was working late on Friday too and Paula was out at a retirement do for one of her bank friends. So I met up with them in Terrys for a few drinks and Ciara, Paula and I went to Deerys for the night. Paula also stayed in the flat too.
 

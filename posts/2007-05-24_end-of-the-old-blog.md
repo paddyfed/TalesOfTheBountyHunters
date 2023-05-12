@@ -1,6 +1,8 @@
 ---
 title: "End of the Old Blog"
 date: "2007-05-24"
+prevArticle: '2007-03-04_04032007'
+nextArticle: '2007-05-30_koh-phangan-30052007'
 ---
 [This post](http://paddy1138.blogspot.com/2007/03/04032007.html) was the end of the old blog. I was surprised to see that I hadn't mentioned going to Australia (which was the subject of the [new blog](http://paddy1138.blogspot.com/search/label/Australia)) but seeing as I hadn't told anybody about it yet I guess it's not that surprising.
 

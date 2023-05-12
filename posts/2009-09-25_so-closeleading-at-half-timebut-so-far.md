@@ -1,6 +1,8 @@
 ---
 title: "So close...leading at half time...but so far..."
 date: "2009-09-25"
+prevArticle: '2009-09-22_staff-parties-are-always-better-with-rock-band'
+nextArticle: '2009-09-28_damian-and-goretti'
 ---
 On Wednesday I was in work all day but thankfully it didn't drag too much. I brought my football gear with me as we were playing that night instead of on Thursday. I wasn't sure I would get out on time but thankfully I did. Football was quite good too even though we did lose by a good few in the end. I was working again on Thursday until six but again it didn't drag.
 

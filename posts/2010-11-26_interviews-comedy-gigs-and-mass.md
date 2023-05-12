@@ -1,6 +1,8 @@
 ---
 title: "Interviews, Comedy Gigs and Mass"
 date: "2010-11-26"
+prevArticle: '2010-11-19_mum-goes-to-hospital'
+nextArticle: '2010-12-03_christening-in-dublin-and-more-snow'
 ---
 Saturday: Paula picked me up around 11 and we headed down to Dublin. She went to Hairspray in the Grand Canal theatre with her ones and I walked around town for the day. I bought the Clone Wars season 2 on DVD and a new Star Wars calendar. I went back to the flat and then went to meet Paula and we got a Chinese on the way back. We watched the [Ireland v New Zealand match](http://www.rte.ie/sport/rugby/2010/1120/ireland_newzealand_report.html) and we went to the cinema to see Due Date which was very good.
 

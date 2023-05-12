@@ -1,6 +1,8 @@
 ---
 title: "A quiet but packed weekend"
 date: "2010-01-19"
+prevArticle: '2010-01-14_wheres-the-internet-gone'
+nextArticle: '2010-01-24_not-exactly-the-perfect-reunionbut-avatar-was-good'
 ---
 I was on the graveyard shift on Friday, although it's the first time in a long time so I didn't mind, and thankfully it didn't drag on. Paula came into town and picked me up and she had dinner ready for me when I got out to her house. We then just sat up on the couch watching a bit of snooker and Family Guy on TV.
 

@@ -1,6 +1,8 @@
 ---
 title: "Computers, dinner, more computers and hospitals"
 date: "2008-10-14"
+prevArticle: '2008-10-09_on-the-road-again'
+nextArticle: '2008-10-16_it-was-put-on-the-fridge-part-2'
 ---
 ![Hand scar](/images/handscar.jpg "Nice scar on the finger, eh?")
 

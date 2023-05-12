@@ -1,6 +1,8 @@
 ---
 title: "Ouch , my ankle!"
 date: "2009-02-22"
+prevArticle: '2009-02-16_most-romantic-night-of-the-year'
+nextArticle: '2009-02-27_pancakes-and-x-rays'
 ---
 Monday at football and one of the guys decides to tackle me and nearly break my ankle! It swelled up and I was limping around on it for ages! Plus it was only about five minutes into the match and I had to play in goals for the rest of the time because I couldn't run! Seriously pissed off after that! It also meant that I couldn't play on Thursday either as it still hadn't healed up.
 

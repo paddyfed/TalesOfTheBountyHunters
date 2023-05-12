@@ -1,6 +1,8 @@
 ---
 title: "Reunions Rock!"
 date: "2009-03-02"
+prevArticle: '2009-02-27_pancakes-and-x-rays'
+nextArticle: '2009-03-09_winning-quizzes-is-fun'
 ---
 ![The gang](/images/P2280143.JPG "The gang (well most of us) in the VAT house")
 

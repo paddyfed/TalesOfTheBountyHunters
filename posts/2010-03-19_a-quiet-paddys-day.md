@@ -1,6 +1,8 @@
 ---
 title: "A quiet Paddy's Day"
 date: "2010-03-19"
+prevArticle: '2010-03-18_the-great-groucho-marx'
+nextArticle: '2010-03-21_all-we-wanted-was-a-triple-crown'
 ---
 I was working on Tuesday but headed out to Paulas house for dinner. We were heading out for a few drinks that night so she got ready while at the same time [Chelsea were getting knocked out of the Champions League](http://www.rte.ie/sport/soccer/2010/0316/chelsea_inter.html). We headed to the Poc for our drinks and met up with Ciara and a few of her friends. There was a live band and they were playing some great classic Irish songs which reminded me so much of the Mercantile in Sydney. I wish there was a pub that played that type of music all the time. Paula even had a few drinks herself and stayed over in the flat.
 

@@ -1,6 +1,8 @@
 ---
 title: "A trip down to the Dundrum store"
 date: "2009-10-26"
+prevArticle: '2009-10-19_off-to-the-play-offs-we-go'
+nextArticle: '2009-11-01_a-long-week-in-dublin'
 ---
 On Wednesday Neil wasn't feeling well so I was called in to work early, thankfully it wasn't too bad and I got away a bit early too. Paula then came over to the flat for dinner, we had fajitas, and we stayed in and watched 'Spinal Tap' on DVD. It was a really great evening and we hope to make this a Wednesday tradition as it's the only time we ever really get to see each other properly. Though I did find out that I would be working down in Dundrum all of next week. There was football on on Thursday as usual but unfortunately the lights went out half way through so the match had to be abandoned. I wasn't too upset as I was already really tired from work.
 

@@ -1,6 +1,8 @@
 ---
 title: "I got soul but I'm not a soldier"
 date: "2008-08-25"
+prevArticle: '2008-08-19_help-me-obi-wan-kenobi'
+nextArticle: '2008-08-27_always-play-your-games'
 ---
 Just back yesterday from another successful trip down to Dublin. The purpose of this trip was, of course, The Killers concert in Marlay Park! So I got the bus down on Wednesday after getting my hair chopped for the first time since May. So that means all of my Australian and New Zealand hair is gone. It's a sad day indeed. So anyway the concert was on Thursday night so I had a bit of time to kill. How did I spend my time? in front of the TV of course. I blame the crap weather though.
 

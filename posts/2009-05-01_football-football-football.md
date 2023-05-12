@@ -1,6 +1,8 @@
 ---
 title: "Football, football, football!!!"
 date: "2009-05-01"
+prevArticle: '2009-04-25_visiting-friends-and-family'
+nextArticle: '2009-05-02_so-close-yet-so-far'
 ---
 So we went back out for drinks on Saturday. This time we met up in McKennas for a few drinks. For once the Landers clan went in early but I waited until Paula came in from work. We sat in the pub for a while and Erin was getting very drunk! Mad girl that! We then headed to the Seasons for the craic and Paula gave us a lift up. The Seasons was quite good too although we did just tend to stay beside the Sun bar all night. We also met up with Ciara which was a nice surprise. We left the lads back into town and Ciara headed home. I stayed in Paulas house that night because the rally was on right outside the flat.She left me back to the flat when she was heading to work the next day.
 

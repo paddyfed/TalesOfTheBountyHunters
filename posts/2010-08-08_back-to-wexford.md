@@ -1,6 +1,8 @@
 ---
 title: "Back to Wexford"
 date: "2010-08-08"
+prevArticle: '2010-08-01_the-last-quiet-weekend'
+nextArticle: '2010-08-12_fridge-magnet-nerja'
 ---
 Monday was a bank holiday and I wasn't working. Instead I did a bit of work on the site and managed to order Orko and Mo-Larr successfully. There seemed to be loads of them too as I didn't see many complaints. That night we went to the cinema in Dundalk to see "The A-Team". There was a big group of us too. Me and Paula, Edel Ciara, Gerrard, Elaine, Kevin and Michael Quinn, Stephanie and Adam, Pauric and Sinead, Addie Jebb and Mark Genoe. It was a brilliant film too, bit dumb in places but entertaining.
 

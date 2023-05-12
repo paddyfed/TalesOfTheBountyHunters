@@ -1,6 +1,8 @@
 ---
 title: "Not exactly the perfect reunion...but Avatar was good"
 date: "2010-01-24"
+prevArticle: '2010-01-19_a-quiet-but-packed-weekend'
+nextArticle: '2010-01-28_staying-active-but-still-more-bad-news'
 ---
 I was working again on Wednesday morning and I headed over to Paulas in the evening. We went for a walk around the circuit and we headed to Sainsburys in Armagh so that we could find some wheat free food for Paula. It was a bit disappointing though and Sainsburys seemed no better than Tescos really. We then went back to the house and we had a stir fry for dinner and Paulas uncle Seamus came over for a while.
 

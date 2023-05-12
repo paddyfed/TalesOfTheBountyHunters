@@ -1,6 +1,8 @@
 ---
 title: "Still not well...but a great week all the same"
 date: "2009-12-11"
+prevArticle: '2009-12-06_its-the-fluagain-not-swine-flu-though-if-youre-wondering'
+nextArticle: '2009-12-15_eddie-izzard-and-the-real-100-up'
 ---
 I felt really sick at work on Monday but thankfully I managed to stay. I was finished up at two so it wasn't a really long day. When I got home though I went straight to bed and didn't make it to football. Thankfully I was feeling a good bit better on Tuesday and I was back in work. I even went out to a house and helped someone to set up their XBOX Live account. Paula came into town then and we got a take away from Little Neroni which was the first time in a while. We also had a bet that Liverpool wouldn't win the Europa League with a Little Neroni as the prize.
 

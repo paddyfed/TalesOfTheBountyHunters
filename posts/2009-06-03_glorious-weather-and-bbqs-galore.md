@@ -1,6 +1,8 @@
 ---
 title: "Glorious weather and BBQs galore."
 date: "2009-06-03"
+prevArticle: '2009-05-29_well-i-have-been-avoiding-it'
+nextArticle: '2009-06-09_dvds-dvds-dvds'
 ---
 I was working on Friday but thankfully we still managed to see some of the great weather that arrived for the weekend. We headed out to Stephanie's house for a few drinks and to play a bit of pool. We ended up watching 'Britain's got Talent' too but thankfully it wasn't on for that long. We just headed back to the flat after that. I was working on Saturday too as Neil had the day off due to the FA Cup Final. It was an uneventful day and Paula came over to the flat after work to get ready. She was heading to Carrick to go out with Edel and a few of her friends as she was heading to Chicago on Monday. Adam and I played Rock Band for the rest of the night which was a good blast from the past.
 

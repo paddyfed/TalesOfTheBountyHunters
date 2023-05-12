@@ -1,6 +1,8 @@
 ---
 title: "Eddie Izzard and the real 100 up!"
 date: "2009-12-15"
+prevArticle: '2009-12-11_still-not-wellbut-a-great-week-all-the-same'
+nextArticle: '2009-12-28_the-christmas-round-up'
 ---
 On Saturday I got the bus down to Belfast for the Eddie Izzard gig! Paula had an exam at twelve and thankfully she was happy with it. She headed out with the girls from the bookies that night and I think also met up with Ciara. Meanwhile Gavin picked me and Edel up from the bus and train and we headed out to their house and had chilli for dinner. Their friend Greg was over too and we all headed in a taxi to the Odyssey where the gig was on. Gavin decided to put up a [Twitter message](http://twitter.com/Gav_McGuinness/status/6607856824) but the system went down before we could see it.
 

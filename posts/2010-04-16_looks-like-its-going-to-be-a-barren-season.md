@@ -1,6 +1,8 @@
 ---
 title: "Looks like it's going to be a barren season"
 date: "2010-04-16"
+prevArticle: '2010-04-07_easter-again-and-possibly-three-losses-in-a-row'
+nextArticle: '2010-04-18_the-title-race-is-back-on'
 ---
 So a [bad result last night](http://www.rte.ie/sport/soccer/2010/0407/manchesterunited.html) and I was working late on Thursday too so no football either. Paula did make dinner for me though which was nice but she's not feeling too well at the minute which is not so good, think it's a bit of a flu though so nothing too bad.
 

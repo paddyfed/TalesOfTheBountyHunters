@@ -1,6 +1,8 @@
 ---
 title: "The Sligo trip"
 date: "2010-09-02"
+prevArticle: '2010-08-25_a-wasted-day-not-really'
+nextArticle: '2010-09-15_blues-weekend-and-a-quiet-one-to-follow'
 ---
 There was no football on Thursday so I headed out to Paulas instead and we went for a walk. On Friday I was working until four and then headed back to the flat to make dinner. We were heading off to Sligo this evening and we wanted to get away early. When we got checked in we got ready and had a few drinks in the bar of the hotel, we were staying at the Sligo Park hotel by the way.
 

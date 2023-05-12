@@ -1,6 +1,8 @@
 ---
 title: "Only one more day of football."
 date: "2009-05-26"
+prevArticle: '2009-05-20_one-more-mickey-finns-for-me-pleaseand-a-premiership-trophy-too'
+nextArticle: '2009-05-29_well-i-have-been-avoiding-it'
 ---
 For the first time I think ever I played football, scored in the match (twice I might add) and actually won! So that was a great surprise. We didn't do much on Friday, Paula was working and I went down to say hello again. We went for a pizza after that too and took it back to the flat. It was really nice too which surprised me. Pizza D'or have some stiff competition.
 

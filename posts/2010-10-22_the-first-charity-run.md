@@ -1,6 +1,8 @@
 ---
 title: "The First Charity Run"
 date: "2010-10-22"
+prevArticle: '2010-10-15_technical-tests'
+nextArticle: '2010-10-29_table-quiz-in-scotstown'
 ---
 Saturday: Paula was heading down to Dublin for a night out with her cousins. She wasn’t feeling great in the morning but we went for a walk and that helped. She then left me out home and I spent the day tidying my room up.
 

@@ -1,6 +1,8 @@
 ---
 title: "Merry Christmas and  a Happy New Year"
 date: "2009-01-01"
+prevArticle: '2008-12-12_a-bit-to-catch-up-on'
+nextArticle: '2009-01-07_come-with-us-now-on-a-journey-through-time-and-space'
 ---
 Yes so it's been ages since I've updated and a lot has happened so this will be a long one. The thing is though I won't really be able to remember everything so you'lll have to bear with me. So the last time I updated it was Friday 12th of December so I guess I'll go from there...
 

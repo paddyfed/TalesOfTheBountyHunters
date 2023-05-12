@@ -1,6 +1,8 @@
 ---
 title: "Always play your games"
 date: "2008-08-27"
+prevArticle: '2008-08-25_i-got-soul-but-im-not-a-soldier'
+nextArticle: '2008-09-09_so-where-have-i-been'
 ---
 This isn't unique to me but it has caught up with me recently in an unusual manner. I like computer games and like many people who like and play computer games I have too many to play at any one time. This means that some titles get put aside in the "I'll play them at some stage" pile. These are usually cheap games that you get as a bargain or as part of a promotion or sometimes it is a game that you really want to play but some other game takes your interest at the same time.
 

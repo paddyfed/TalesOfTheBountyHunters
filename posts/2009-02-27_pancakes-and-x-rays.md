@@ -1,6 +1,8 @@
 ---
 title: "Pancakes and X-Rays!"
 date: "2009-02-27"
+prevArticle: '2009-02-22_ouch-my-ankle'
+nextArticle: '2009-03-02_reunions-rock'
 ---
 So on Monday we had a new member of staff in the shop. Rachel was a trainee deputy manager and she was up with us learning the ropes. She's actually very nice and as it turns out her maiden name was O'Hara so that was a bit unusual. So tat was the craic in work. Played Star Wars Battlefront II on the XBOX that evening too. No football again because of the ankle.
 

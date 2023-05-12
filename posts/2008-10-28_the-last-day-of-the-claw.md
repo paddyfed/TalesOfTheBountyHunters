@@ -1,6 +1,8 @@
 ---
 title: "The last day of 'The Claw'"
 date: "2008-10-28"
+prevArticle: '2008-10-24_whats-the-opposite-of-insomnia'
+nextArticle: '2008-11-03_two-handed-typing-is-awesome'
 ---
 Yes that's right it's the last full day with the claw as tomorrow I'm heading to St James' for my final physio appointment. After this I'm being referred to Monaghan General so that'll be a lot handier. I must be due a bit of luck too as a bird decided to crap on me while I was walking around town. All over my black hoodie too...
 

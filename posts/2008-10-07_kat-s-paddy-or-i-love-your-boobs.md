@@ -1,6 +1,8 @@
 ---
 title: "\"Kat ♥'s Paddy\" or \"I love your boobs\""
 date: "2008-10-07"
+prevArticle: '2008-10-06_living-for-the-weekend'
+nextArticle: '2008-10-09_on-the-road-again'
 ---
 ![The proof](/images/kat_paddy.jpg "The proof")
 

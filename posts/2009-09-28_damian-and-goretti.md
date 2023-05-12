@@ -1,6 +1,8 @@
 ---
 title: "Damian and Goretti"
 date: "2009-09-28"
+prevArticle: '2009-09-25_so-closeleading-at-half-timebut-so-far'
+nextArticle: '2009-10-08_a-quiet-weekend-but-a-great-wednesday'
 ---
 ![Me and Paula](/images/P9260313.JPG "Before we got going")
 

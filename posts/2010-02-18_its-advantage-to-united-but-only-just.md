@@ -1,6 +1,8 @@
 ---
 title: "It's advantage to United, but only just"
 date: "2010-02-18"
+prevArticle: '2010-02-16_pancakes-and-battle-cats'
+nextArticle: '2010-02-21_back-to-pandora'
 ---
 It's Pancake Tuesday!! As I said before I was heading out home for Pancakes after [securing my Battle-Cat](http://paddy1138.blogspot.com/2010/02/pancakes-and-battle-cats.html) earlier in the day. The [AC Milan and United match](http://www.rte.ie/sport/soccer/2010/0216/acmilan_manutd.html) was on that evening too so Ken and I watched it for the evening. I was also trying to look for the number of the people we used to rent off in Sydney but I couldn't find my old phone.
 

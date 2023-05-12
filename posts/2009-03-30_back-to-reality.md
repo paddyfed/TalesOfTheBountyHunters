@@ -1,6 +1,8 @@
 ---
 title: "Back to reality"
 date: "2009-03-30"
+prevArticle: '2009-03-23_grand-slam-at-last'
+nextArticle: '2009-04-05_trying-to-catch-up'
 ---
 So it was back to work this week and there wasn't much to tell really. I bought a few Star Wars mini figures for a Euro and I'll probably be able to sell them on e-bay at some stage. For the most part we either played Mad Tracks on the 360 or watched South Park in the evening. I did get an email back from Compuserve about the CV I sent in. They want to see a few examples of website that I'd developed so I'll have to get them in gear.
 

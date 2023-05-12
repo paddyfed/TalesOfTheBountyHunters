@@ -1,6 +1,8 @@
 ---
 title: "A few great surprises"
 date: "2009-08-09"
+prevArticle: '2009-08-02_a-nice-quiet-weekend-in'
+nextArticle: '2009-08-12_how-to-introduce-your-girlfriend-to-star-wars'
 ---
 ![Pauric at dinner](/images/P8070091.JPG "Say cheese!!")
 

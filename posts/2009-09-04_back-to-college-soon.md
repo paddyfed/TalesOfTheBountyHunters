@@ -1,6 +1,8 @@
 ---
 title: "Back to college soon"
 date: "2009-09-04"
+prevArticle: '2009-08-24_stags-good-sick-bad'
+nextArticle: '2009-09-04_back-to-letterkenny'
 ---
 ![Training on the Falcon](/images/TLC-1389.jpg "At last, a C-3PO")
 

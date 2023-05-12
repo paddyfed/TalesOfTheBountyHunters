@@ -1,6 +1,8 @@
 ---
 title: "Grand Slam at last!!!"
 date: "2009-03-23"
+prevArticle: '2009-03-21_its-paddys-day-again'
+nextArticle: '2009-03-30_back-to-reality'
 ---
 Finally it's happened! After so many near misses and close years Ireland have finally got what they have deserved after so many years of great rugby! We went out early to Adams house and we watched the [Fulham vs United](http://www.rte.ie/sport/soccer/2009/0321/fulham_manutd.html) game on the computer before the match started and that didn't go down too well! I have to say that Rooney was unfairly dismissed but that cant be used as an excuse for losing the match.
 
