@@ -54,12 +54,12 @@ export async function getStaticPaths() {
 
 export default function Home({ filteredPostData, year, prevYear, nextYear, minYear, maxYear }) {
     return (
-        <Layout home>
+        <Layout>
             <Head>
                 <title>{siteTitle}</title>
             </Head>
             <section className={utilStyles.headingMd}>
-                <h1>{`${year}`}</h1>
+                <h1>{year}</h1>
             </section>
             <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
                 <h2 className={utilStyles.headingLg}>Blog</h2>
@@ -78,6 +78,7 @@ export default function Home({ filteredPostData, year, prevYear, nextYear, minYe
 
             <div className={utilStyles.articleNavigation}>
                 {+prevYear >= minYear ? (<Link href={`/year/${prevYear}`}>{`${prevYear}`}</Link>) : (<span>{`${prevYear}`}</span>)}
+                {<span>{year}</span>}
                 {+nextYear <= maxYear ? (<Link href={`/year/${nextYear}`}>{`${nextYear}`}</Link>) : (<span>{`${nextYear}`}</span>)}
             </div>
         </Layout>
