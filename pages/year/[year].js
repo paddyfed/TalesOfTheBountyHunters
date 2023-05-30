@@ -1,15 +1,32 @@
 import Head from 'next/head';
 import Layout, { siteTitle } from '../../components/layout';
 import utilStyles from '../../styles/utils.module.css';
-import { getFilteredPostsData, getAllYearsForPaths } from "../../lib/posts";
+import { getFilteredPostsData, getAllYearsForPaths, getMinYear, getMaxYear } from "../../lib/posts";
 import Link from 'next/link';
 import Date from '../../components/date';
 
 export async function getStaticProps({ params }) {
     const filteredPostData = await getFilteredPostsData(params.year);
+    const year = params.year;
+    const prevYear = +params.year - 1;
+    const nextYear = +params.year + 1;
+    const minYear = getMinYear();
+    const maxYear = getMaxYear();
+
+    if (year.length !== 4) {
+        return {
+            notFound: true,
+        };
+    }
+
     return {
         props: {
             filteredPostData,
+            year,
+            prevYear,
+            nextYear,
+            minYear,
+            maxYear,
         },
     };
 }
@@ -31,21 +48,18 @@ export async function getStaticPaths() {
 
     return {
         paths,
-    fallback: false,
+        fallback: 'blocking',
     };
 }
 
-export default function Home({ filteredPostData }) {
+export default function Home({ filteredPostData, year, prevYear, nextYear, minYear, maxYear }) {
     return (
         <Layout home>
             <Head>
                 <title>{siteTitle}</title>
             </Head>
             <section className={utilStyles.headingMd}>
-                <p>An effort to bring all my different blog posts together in one place. Also includes some Tweets I've written over the years.</p>
-                <p>
-                    It was created with the help of the <a href="https://nextjs.org/learn/basics/create-nextjs-app" target='_blank'>Next.js tutorial</a>.
-                </p>
+                <h1>{`${year}`}</h1>
             </section>
             <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
                 <h2 className={utilStyles.headingLg}>Blog</h2>
@@ -61,6 +75,11 @@ export default function Home({ filteredPostData }) {
                     ))}
                 </ul>
             </section>
+
+            <div className={utilStyles.articleNavigation}>
+                {+prevYear >= minYear ? (<Link href={`/year/${prevYear}`}>{`${prevYear}`}</Link>) : (<span>{`${prevYear}`}</span>)}
+                {+nextYear <= maxYear ? (<Link href={`/year/${nextYear}`}>{`${nextYear}`}</Link>) : (<span>{`${nextYear}`}</span>)}
+            </div>
         </Layout>
     );
 }
