@@ -25,9 +25,13 @@ export default function Home({ minYear, maxYear }) {
 
     let allYears = [];
 
-    for(let i = minYear; i <= maxYear; i++) {
+    for (let i = minYear; i <= maxYear; i++) {
         allYears.push(i);
     }
+
+    allYears.sort((a, b) => {
+        return b - a;
+    });
 
     return (
         <Layout>
@@ -39,15 +43,15 @@ export default function Home({ minYear, maxYear }) {
             </section>
             <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
                 <h2 className={utilStyles.headingLg}>Years</h2>
-                <ul className={utilStyles.list}>
-                    {allYears.map((item,index)=>{
+                <ul className={`${utilStyles.list} ${utilStyles.yearsList}`}>
+                    {allYears.map((item, index) => {
                         return <li className={utilStyles.listItem} key={index}><Link href={`/year/${item}`}>{item}</Link></li>
                     })}
-                </ul>               
-                
+                </ul>
+
             </section>
 
-            
+
         </Layout>
     );
 }
