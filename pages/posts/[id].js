@@ -62,6 +62,7 @@ export default function Post({ postData }) {
       
       <div className={utilStyles.articleNavigation}>
         {postData.prevArticle ? (<Link href={`/posts/${postData.prevArticle}`}>Previous</Link>) : (<span>Previous</span>)}
+        {<div>{postData.title}</div>}
         {postData.nextArticle ? (<Link href={`/posts/${postData.nextArticle}`}>Next</Link>) : (<span>Next</span>)}
       </div>
 
