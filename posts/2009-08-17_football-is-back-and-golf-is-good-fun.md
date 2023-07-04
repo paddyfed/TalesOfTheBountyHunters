@@ -3,6 +3,7 @@ title: "Football is back and Golf is good fun!"
 date: "2009-08-17"
 prevArticle: '2009-08-12_how-to-introduce-your-girlfriend-to-star-wars'
 nextArticle: '2009-08-24_stags-good-sick-bad'
+tags: TotBH - Pitch and Putt - Cinema - Bowling - Football
 ---
 On Thursday I was working in the morning and I decided to text Carlile to see if they would be about at the end of August for a visit. he thinks they will so that was grand but he also invited me to Devaney's stag party in Liverpool next week. So I had to re-organise the roster in work and make sure I could afford it but I'll be heading off to Liverpool for a long weekend! It was a great surprise and it should be great craic. I was at football that evening too and it ended in a draw which was a big surprise!
 

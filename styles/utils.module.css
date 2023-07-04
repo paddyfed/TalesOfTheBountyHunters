@@ -60,3 +60,9 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
+
+.blogTagsList {
+  display: flex;
+  gap: .25em .5em;
+  flex-wrap: wrap;
+}

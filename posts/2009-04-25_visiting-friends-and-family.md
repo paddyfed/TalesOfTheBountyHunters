@@ -3,6 +3,7 @@ title: "Visiting friends and family"
 date: "2009-04-25"
 prevArticle: '2009-04-20_scór-sinsear-2009'
 nextArticle: '2009-05-01_football-football-football'
+tags: TotBH - Birthday - Nights Out - Football
 ---
 On Tuesday we headed out to Pamelas house for a Barbecue in honour of Johnnys birthday. It was a really nice day too so that helped. Ger got him a card with a nine on it, turned it upside down and put a two in front of it just so that it was the right age. We spent most of the day entertained by wee Stephen and antics, p circle circle p! We also listened to the [Liverpool and Arsenal match](http://www.rte.ie/sport/soccer/2009/0421/liverpool_arsenal.html) and again it was another end to end affair!
 

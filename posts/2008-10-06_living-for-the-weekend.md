@@ -3,6 +3,7 @@ title: "Living for the weekend"
 date: "2008-10-06"
 prevArticle: '2008-10-02_look-at-the-size-of-that-thing'
 nextArticle: '2008-10-07_kat-s-paddy-or-i-love-your-boobs'
+tags: Blog - TotBH - Kilkenny
 ---
 ![Me again](/images/me_2.jpg "I just had to put this photo up")
 

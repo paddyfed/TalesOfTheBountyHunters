@@ -3,6 +3,7 @@ title: "Quizzes, Drinking and Rock Band"
 date: "2008-08-05"
 prevArticle: '2008-07-31_this-is-the-new-blog'
 nextArticle: '2008-08-08_it-was-put-on-the-fridge-part-1'
+tags: Monaghan - Rock Band - TotBH - Nights Out - Table Quiz
 ---
 As I'm updating this Blog it only makes sense to add stuff that actually happened recently so that I don't have to catch up later. Incidentally I finished the posts up to [September 2007](http://paddy1138.blogspot.com/2007_09_01_archive.html). So what happened this weekend? Well I actually went out which makes a change from the last few weeks. Thursday we were going to go to football out at Ballinode but Adam couldn't get the numbers so we went to a pub quiz in the Pig instead. So it was Me, Adam, Michelle and Paula on one team and Ash, Pamela and Pamela's friends on the other. We didn't do too badly, didn't win though, even after the flirting with the quiz master. I think we ended up with 70 points out of 100. Went back to Adam's flat after that and played Halo 3 co-op until about four in the morning. I don't remember much about the storyline or what was happening though so I'll have to start it again sometime I'm sober.
 

@@ -3,6 +3,7 @@ title: "All we wanted was a Triple Crown"
 date: "2010-03-21"
 prevArticle: '2010-03-19_a-quiet-paddys-day'
 nextArticle: '2010-03-31_our-first-trip-to-donegal'
+tags: TotBH - Rugby - MOTU Classics - Football - Premier League - Six Nations
 ---
 Well that was a disappointing result to say the least. [Ireland completely fell apart against Scotland](http://www.rte.ie/sport/rugby/sixnations/2010/0320/ireland_scotland1.html) and allowed them to play and eventually beat us by 20 points to 23. Although we had our chances to kill off the game it was by far the worst display by an Irish rugby team since the first half against Wales in the Grand Slam decider last year. France, as expected, went on to beat England and [complete their own Grand Slam](http://www.rte.ie/sport/rugby/sixnations/2010/0320/france_england.html).
 

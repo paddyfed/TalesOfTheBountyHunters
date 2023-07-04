@@ -3,6 +3,7 @@ title: "It's Paddy's Day again!"
 date: "2009-03-21"
 prevArticle: '2009-03-16_more-quizzes-this-is-getting-to-be-a-habit'
 nextArticle: '2009-03-23_grand-slam-at-last'
+tags: TotBH - DVD - Nights Out - Nights In - Paddy's Day
 ---
 So Paddy's day was upon us again. Although I was working for most of it we still made a good day of it. There wasn't too many people in the shop, well nobody buying anything anyway, and we managed to finish up early enough. I headed out to meet up with Paula, Ger, Steph and Adam in the Pig for a few drinks. Ger was telling me all about the United and Liverpool match that he was at the previous weekend and how he couldn't celebrate because he was in amongst the United fans. Serves him right!
 

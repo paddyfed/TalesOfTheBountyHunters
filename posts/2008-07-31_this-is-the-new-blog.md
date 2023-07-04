@@ -3,6 +3,7 @@ title: "This is the new Blog"
 date: "2008-07-31"
 prevArticle: '2008-06-17_monaghan-17062008'
 nextArticle: '2008-08-05_quizzes-drinking-and-rock-band'
+tags: Blog - TotBH
 ---
 ![Yes it's Me!!!](/images/me.JPG "Yes it's Me!!!")
 

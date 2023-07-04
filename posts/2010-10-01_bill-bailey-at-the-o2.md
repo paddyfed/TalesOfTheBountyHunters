@@ -3,6 +3,7 @@ title: "Bill Bailey at the O2"
 date: "2010-10-01"
 prevArticle: '2010-09-24_last-few-days-in-the-flat'
 nextArticle: '2010-10-08_some-rugby-matches'
+tags: Dublin - Star Wars - Rock Band - TotBH - Comedy Gig - Formula 1
 ---
 Saturday: I was working for a while and we had a RockBand night, the last one in the flat. Emma and Emer were the only ones from work to turn up but Emma and Becky were over with a few of their friends so it wasn’t a complete disaster. Paula came over too after mass at Ted and Eileens, they had karaoke over there too. So it ended up being a very good night.
 

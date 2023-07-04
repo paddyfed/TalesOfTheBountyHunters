@@ -3,6 +3,7 @@ title: "Some light swimming"
 date: "2010-07-07"
 prevArticle: '2010-07-05_england-france-italy-argentina-and-brazil-all-out'
 nextArticle: '2010-07-12_the-barbecue-of-the-year'
+tags: World Cup - TotBH - Football - Swimming
 ---
 We did go for our walk on Monday around the track and my knee wasn't too sore. It seems to be when I'm not using it that it gets stiff and sore. Anyway we just watched a bit of TV and Paula went to bed. I sat and chatted to Gerard and Margaret for a while. Tuesday I wasn't working and Paula left me into town in the morning. I went back to bed for a while but got up and did some shopping for dinner. I made turkey supreme and we headed to the swimming pool for the first time in ages.
 

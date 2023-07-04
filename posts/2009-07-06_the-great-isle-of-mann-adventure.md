@@ -3,6 +3,7 @@ title: "The Great Isle of Mann Adventure"
 date: "2009-07-06"
 prevArticle: '2009-07-02_some-irish-legends'
 nextArticle: '2009-07-08_back-to-boring-old-work'
+tags: Wimbledon - Isle of Mann - TotBH - Birthday - GAA - Tennis
 ---
 ![The Claremont](/images/P7030007.JPG "Our room in the Claremont, fantastic isn't it?")
 

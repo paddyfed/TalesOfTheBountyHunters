@@ -3,6 +3,7 @@ title: "Not feeling great..."
 date: "2009-07-20"
 prevArticle: '2009-07-14_a-successful-dinner'
 nextArticle: '2009-07-24_feeling-much-better'
+tags: Sick - Birth - TotBH
 ---
 So I haven't been feeling well these past few days. On Wednesday I went to work as usual but I felt really crap, aches and pains and a bit flu like. I went home early as I was pretty useless at work and I went straight to bed. I think I woke up again around five in the afternoon and some of our neighbours were playing really loud music which didn't help at all. Mum found out as Daniel and Ian went into the shop looking for me. They were heading out bowling and they took me home after that.
 

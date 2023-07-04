@@ -3,6 +3,7 @@ title: "Off to the play-offs we go"
 date: "2009-10-19"
 prevArticle: '2009-10-08_a-quiet-weekend-but-a-great-wednesday'
 nextArticle: '2009-10-26_a-trip-down-to-the-dundrum-store'
+tags: TotBH - World Cup Qualifiers - Birthday - Formula 1 - Video - Football - Gaming
 ---
 Friday was quiet enough, Paula was working in the evening so I went down to see her for a while. We headed out to her house and watched a bit of TV and she left me back in on Saturday morning when she was heading to work. Later that evening it was the [Ireland vs Italy](http://www.rte.ie/sport/soccer/2009/1010/ireland_italy.html) match in the world cup qualifiers. They played really well but it was really sickening to let in that late goal. It was also Kevin Quinn's 18th Birthday so we left the West, where we were watching the match, and headed down to the Shamrock. As you can imagine it was all very exciting although Kevin's friend 'Panda' finishing off a full pint of Guinness in about seven seconds was impressive. We headed to McKennas for one after that and then headed back to the flat.
 

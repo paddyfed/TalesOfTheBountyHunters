@@ -3,6 +3,7 @@ title: "Stock takes, injuries and laughs"
 date: "2009-02-02"
 prevArticle: '2009-01-26_we-can-all-love-america-again'
 nextArticle: '2009-02-09_independence-day'
+tags: Superbowl - TotBH - Comedy Gig - Nights Out - Football
 ---
 We had our stock take on Monday and it was the quickest stock take ever in the shop. I think it's because everybody had been through a number of the by this stage and so we all knew what to expect. It was good craic too, for once. Tuesday we went to the Pig to watch the [Portsmouth and Villa](http://www.rte.ie/sport/soccer/2009/0127/villa_portsmouth.html) match. It wasn't too bad but I was a bit more interested in the [Man United and Wigan](http://www.rte.ie/sport/soccer/2009/0127/manunited_westbrom.html) match.
 

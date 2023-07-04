@@ -3,6 +3,7 @@ title: "It was put on the fridge - Part 2"
 date: "2008-10-16"
 prevArticle: '2008-10-14_computers-dinner-more-computers-and-hospitals'
 nextArticle: '2008-10-21_8-days-to-go'
+tags: TotBH - Fridge - Hospital - Video
 ---
 Yes it's time for the second part of our series on phrases that were put on the fridge. And again this also gives me the opportunity to let you know that I have now completed all the old posts in my Australian blog for [October](http://paddy1138.blogspot.com/2007_10_01_archive.html), [November](http://paddy1138.blogspot.com/2007_11_01_archive.html) and [December](http://paddy1138.blogspot.com/2007_12_01_archive.html) and I'll soon be starting on the 2008 entries.. Also the hospital appointment that I had on Tuesday went well and 'The Claw' will be officially off on the 29th of October, exactly two months since the incident. So on to the phrase...
 

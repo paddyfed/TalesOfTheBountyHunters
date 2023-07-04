@@ -3,6 +3,7 @@ title: "Mum goes to Hospital"
 date: "2010-11-19"
 prevArticle: '2010-11-12_beckys-graduation-and-table-quiz'
 nextArticle: '2010-11-26_interviews-comedy-gigs-and-mass'
+tags: Rock Band - TotBH - Rugby - MOTU Classics - Nights Out - Hospital - Diary
 ---
 Saturday: We got up and did the messages in Emyvale and we went to town to get a few things for Elaines ‘party’. We came back to the house and watched a bit of the [Ireland and Samoa match](http://www.rte.ie/sport/rugby/2010/1113/ireland_samoa.html). Paula got ready and we went to town for a Chinese. We ate it at home and waited for Emma to get ready. We went to the Poc first where there were some very drunk people, then to the Pig for some cocktails and finally to Deerys for the rest of the night. Sean and Edel were down and it was a good night out. We got a taxi straight away even though they charged us double and we went straight to bed. Paula was in Edels bed and I fell asleep.
 

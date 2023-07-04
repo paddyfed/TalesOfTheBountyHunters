@@ -3,6 +3,7 @@ title: "Neglected posts"
 date: "2010-05-11"
 prevArticle: '2010-04-26_scór-sinsear-2010'
 nextArticle: '2010-05-18_gavins-stag-liverpool-take-2'
+tags: Europa League - TotBH - Feile Oriel - Cinema - Nights Out - Exams - Football - Premier League
 ---
 This is a bit of a catch up so there won't be a lot of detail in this. On Wednesday we went out to Carolines to babysit as she was away in Cavan. We took Ciara to the pool but Niamh was very restless so it was quite stressful. Paula went out in Dundalk on Thursday night too but she didn't feel that well so it wasn't a great night. She stayed in Killaney while I sat in the flat and watched [Liverpool get knocked out of the Europa League](http://www.rte.ie/sport/soccer/2010/0429/liverpool_atletico.html). So I now owe Paula a Little Neroni dinner sometime.
 

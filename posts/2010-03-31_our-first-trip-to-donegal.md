@@ -3,6 +3,7 @@ title: "Our first trip to Donegal"
 date: "2010-03-31"
 prevArticle: '2010-03-21_all-we-wanted-was-a-triple-crown'
 nextArticle: '2010-04-01_new-profile-picture'
+tags: Letterkenny - TotBH - DVD - Cinema - Champions League - Donegal - GAA - Football
 ---
 Lets just say that I didn't have a great start to the week as I was already fed up and wanted to head off as soon as possible. No real reason behind it I just didn't want to be working! At least it went quickly and Thursday came around. Paula came back from college and had dinner ready for me in the flat! We ate that and then headed down to Dundalk for a night out. We were in Brubakers for drinks and then headed to Ridleys night club. Paula met a few of her classmates and we were even talking to Orla Landers who was out celebrating her classmate winning the student elections. We booked ourselves in to the Crowne Plaza hotel for the night.
 

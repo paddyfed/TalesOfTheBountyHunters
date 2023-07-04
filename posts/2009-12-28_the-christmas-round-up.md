@@ -3,6 +3,7 @@ title: "The Christmas round-up"
 date: "2009-12-28"
 prevArticle: '2009-12-15_eddie-izzard-and-the-real-100-up'
 nextArticle: '2010-01-04_ouchwhat-a-bad-start-to-the-new-year'
+tags: TotBH - Christmas - Nights Out - Exams
 ---
 I've been a bit busy lately and have sort of neglected the blog for the last while so this will be another long update in much the same vein as [last year](http://paddy1138.blogspot.com/2009/01/merry-christmas-and-happy-new-year.html). Thankfully this time I managed to get in before the new year!
 

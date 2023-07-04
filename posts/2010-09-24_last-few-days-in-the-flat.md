@@ -3,6 +3,7 @@ title: "Last few days in the flat"
 date: "2010-09-24"
 prevArticle: '2010-09-22_some-more-babysiting'
 nextArticle: '2010-10-01_bill-bailey-at-the-o2'
+tags: TotBH - DVD - Nights In - League Cup - Football
 ---
 And now the end is near...etc.
 

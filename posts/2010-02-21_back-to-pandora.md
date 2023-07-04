@@ -3,6 +3,7 @@ title: "Back to Pandora"
 date: "2010-02-21"
 prevArticle: '2010-02-18_its-advantage-to-united-but-only-just'
 nextArticle: '2010-02-22_test'
+tags: The Mighty Boosh - TotBH - Cinema
 ---
 I was working late on Friday and I didn't do much during the day at all. It was the usual quiet evening in the shop too but I did get to put up all the browser shelf strips so that kept me busy. I headed out to Paulas house after work with a Montie and we watched a few episodes of the Boosh, well I watched a few. Paula was very tired so she fell asleep in the middle of it. It's cute when she falls asleep on my shoulder.
 

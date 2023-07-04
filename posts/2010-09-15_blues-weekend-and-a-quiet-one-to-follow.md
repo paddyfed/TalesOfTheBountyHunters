@@ -3,6 +3,7 @@ title: "Blues weekend and a quiet one to follow"
 date: "2010-09-15"
 prevArticle: '2010-09-02_the-sligo-trip'
 nextArticle: '2010-09-22_some-more-babysiting'
+tags: Walking - TotBH - DVD - Birthday - MOTU Classics - Blues Festival - Formula 1 - Xbox - Champions League - Football - Gaming
 ---
 On Friday we had dinner for Dad in the house. It was such a nice day that we actually had a barbecue but unfortunately it was a bit too cold in the evening to eat outside. Ken was over for dinner too. I had a few drinks with dad and stayed the night, I guess I'll have to get used to that. Paula was on her way to Donegal for a wedding.
 

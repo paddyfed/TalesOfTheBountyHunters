@@ -3,6 +3,7 @@ title: "DVDs, DVDs, DVDs"
 date: "2009-06-09"
 prevArticle: '2009-06-03_glorious-weather-and-bbqs-galore'
 nextArticle: '2009-06-15_not-the-best-party-in-the-world'
+tags: TotBH - DVD - World Cup Qualifiers - Work - Football
 ---
 Thursday evening after football we all went to the Pig for food in honour of Shelly getting a first class honours in her final year at college. It was basically all the McGonnells with Me, Adam and Ustina. It was a really nice meal too even if we didn't get any vegetables. Paula also managed to come in after work so I was happy about that.
 

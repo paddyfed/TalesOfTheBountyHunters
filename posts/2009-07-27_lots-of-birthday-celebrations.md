@@ -3,6 +3,7 @@ title: "Lots of Birthday celebrations"
 date: "2009-07-27"
 prevArticle: '2009-07-26_motu-sdcc-2009'
 nextArticle: '2009-08-02_a-nice-quiet-weekend-in'
+tags: TotBH - Birthday - Nights Out - Formula 1
 ---
 So we went out on Friday night for Martinas Birthday as planned. It was Me, Paula, Ciara, Martina and Nicola Sherry. We met up in the Pig and had a few drinks there including some cocktails and Smirnoff Mule. We then went to the Poc to meet a few of Martinas friends and we all eventually made it to the Forum. Although it wasn't packed we still made the most of it. We left Ciara home and then went back to the flat but Paula couldn't stay.
 

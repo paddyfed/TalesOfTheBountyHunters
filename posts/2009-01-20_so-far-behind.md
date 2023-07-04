@@ -3,6 +3,7 @@ title: "So far behind..."
 date: "2009-01-20"
 prevArticle: '2009-01-19_the-cake-is-a-lie'
 nextArticle: '2009-01-26_we-can-all-love-america-again'
+tags: Blog - TotBH - Football
 ---
 It's been so long since I've updated the Australian portion of this blog that it's actually catching up on me. The next date that I need to update is 21/01/2007, almost exactly a year ago!!! So basically I need to do a bit more on that otherwise I'll just forget about it and never finish it. Trying to remember things from a year ago can be a bit difficult after all. Now that my PC is up and running though it might be a bit easier.
 

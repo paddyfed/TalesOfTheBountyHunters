@@ -3,6 +3,7 @@ title: "Becky's Graduation and Table Quiz"
 date: "2010-11-12"
 prevArticle: '2010-11-05_paulas-graduation'
 nextArticle: '2010-11-19_mum-goes-to-hospital'
+tags: Dublin - Star Wars - TotBH - Rugby - NFL - Running - Work - Graduation - Table Quiz - Football
 ---
 Saturday: I had to get up early to head to Dublin for Beckys Graduation. We weren’t all meeting up until seven that evening so we walked around town for a while. I bought a few Star Wars books and we watched a bit of the [Ireland v South Africa match](http://www.rte.ie/sport/rugby/2010/1106/ireland_southafrica_aviva.html). We then went to dinner in Bleu restaurant on Dawson St which was very nice. We then headed home and went straight to bed.
 

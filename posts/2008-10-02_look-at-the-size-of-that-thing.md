@@ -3,6 +3,7 @@ title: "Look at the size of that thing"
 date: "2008-10-02"
 prevArticle: '2008-09-25_gotta-love-weddings'
 nextArticle: '2008-10-06_living-for-the-weekend'
+tags: TotBH - Nights Out - Nights In
 ---
 ![Look at the size of that thing](/images/PA020168.JPG "Look at the size of that thing")
 

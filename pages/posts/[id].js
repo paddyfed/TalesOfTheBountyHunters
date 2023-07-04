@@ -5,6 +5,7 @@ import TweetDateTime from '../../components/tweetdatetime';
 import Date from '../../components/date';
 import utilStyles from '../../styles/utils.module.css';
 import Link from 'next/link';
+import BlogTags from '../../components/blogtags';
 
 
 export async function getStaticProps({ params }) {
@@ -34,6 +35,7 @@ export default function Post({ postData }) {
         // Tweets
         <>
           <article>
+            <BlogTags tagList={postData.tags} />
             <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
             <div className={utilStyles.lightText}>
               <TweetDateTime dateString={postData.date} />
@@ -53,7 +55,7 @@ export default function Post({ postData }) {
               <Date dateString={postData.date} />
 
             </div>
-            <div>{postData.text}</div>
+            <BlogTags tagList={postData.tags} />
             <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
 
           </article>

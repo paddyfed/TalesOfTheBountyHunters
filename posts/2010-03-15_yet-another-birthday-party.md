@@ -3,6 +3,7 @@ title: "Yet another birthday party"
 date: "2010-03-15"
 prevArticle: '2010-03-11_disappointing-dvd-but-a-great-win-for-united'
 nextArticle: '2010-03-18_the-great-groucho-marx'
+tags: TotBH - Rugby - Birthday - MOTU Classics - Formula 1 - Six Nations
 ---
 I was working this Friday evening until 9 but Paula picked me up and we headed out to her house for dinner. We were going to watch a DVD but The Matrix was actually on the TV so we watched that instead, well I watched it, Paula was too tired and fell asleep soon after it started. It was still nice lying up on the couch together though.
 

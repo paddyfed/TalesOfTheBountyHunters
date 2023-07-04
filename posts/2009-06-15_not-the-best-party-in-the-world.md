@@ -3,6 +3,7 @@ title: "Not the best party in the world..."
 date: "2009-06-15"
 prevArticle: '2009-06-09_dvds-dvds-dvds'
 nextArticle: '2009-06-25_a-whole-week-to-catch-up-on'
+tags: Rock Band - TotBH - MOTU Classics - Nights Out - Concert
 ---
 So on Wednesday Paula finally got her exam results and she passed them all which was a great relief for all. My niece Charlotte was over for a visit too and we went for lunch with Mum and Dad and Patricia. I also went out home for dinner to spend time with the folks but that meant that I couldn't do anything to celebrate Paula's exam results! That was a bit crap but I guess it couldn't be helped. We spent the evening playing 'Mario Kart' between the three DS' that we have in the house.
 

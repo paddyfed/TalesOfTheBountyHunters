@@ -3,6 +3,7 @@ title: "A quiet weekend for once!"
 date: "2009-05-10"
 prevArticle: '2009-05-06_two-of-the-best-teams-in-europe-possibly'
 nextArticle: '2009-05-15_only-one-more-point-needed'
+tags: TotBH - Work - Football - Gaming
 ---
 So not much happened this weekend. I was playing football as usual on Thursday and I nearly went over on my ankle again. Plus I got hit twice in the er... groinal area... not very comfortable! We did win though which was a nice change! There wasn't much happening on Friday either. Paula came over to the flat after work and we had a Chinese for dinner. I also went looking for a picture holder that I think she'll like for her Birthday but I couldn't find anything in Monaghan.
 

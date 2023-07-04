@@ -3,6 +3,7 @@ title: "How to introduce your girlfriend to Star Wars...."
 date: "2009-08-12"
 prevArticle: '2009-08-09_a-few-great-surprises'
 nextArticle: '2009-08-17_football-is-back-and-golf-is-good-fun'
+tags: Star Wars - TotBH - DVD
 ---
 While Adam and Shelly have been away on their travels in England Paula and I have had the run of the flat to ourselves. Paula however has been quite busy with work so we probably didn't see each other quite as much as we could have. However starting on Sunday evening I decided to start to show her the Star Wars saga as she had never seen it before. So where to start? Well first off she really doesn't know anything about the story. The only thing she did know was that Darth Vader was Luke's father and that Luke and Leia were brother and sister. So that's the two major plot twists out of the way.
 
