@@ -3,6 +3,7 @@ title: "A nice quiet weekend in"
 date: "2009-08-02"
 prevArticle: '2009-07-27_lots-of-birthday-celebrations'
 nextArticle: '2009-08-09_a-few-great-surprises'
+tags: Rock Band - TotBH - DVD - MOTU Classics - Nights In - GAA
 ---
 I actually didn't realise that it's been a week since I updated here, I was only on the other day posting some [old blog entries](http://paddy1138.blogspot.com/search/label/Old%20Blog) that I found from an old site that I was using. It's probably not that interesting to anyone but me, but I wanted to have all my musings in one place so I'll be putting the rest up later.
 

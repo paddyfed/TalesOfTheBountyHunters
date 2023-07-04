@@ -32,6 +32,7 @@ export default function Layout({ children, home }) {
             <ul>
               <li><Link href="/">Home</Link></li>
               <li><Link href="/year">Year</Link></li>
+              <li><Link href="/tags">Tags</Link></li>
             </ul>
           </nav>
           {home ? (

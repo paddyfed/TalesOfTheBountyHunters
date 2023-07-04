@@ -3,6 +3,7 @@ title: "One more Mickey Finns for me please...and a Premiership Trophy too!"
 date: "2009-05-20"
 prevArticle: '2009-05-15_only-one-more-point-needed'
 nextArticle: '2009-05-26_only-one-more-day-of-football'
+tags: TotBH - Birthday - MOTU Classics - Exams - Football
 ---
 Paula stayed in the flat on Friday night and on Saturday we went and got a present for the wedding that we are going to next Saturday. Paula wasn't feeling too well though so we didn't stick around too long. I went to the Pig to watch the [United and Arsenal match](http://www.rte.ie/sport/soccer/2009/0516/manutd_arsenal.html). United only needed a point to win the league and they managed a 0-0 draw so the celebrations could begin, even if it was a boring match. Ashe went around the pub with a few shots of Mickey Finns for everyone. Plus I was texting Paula in New Zealand as she was watching the match over there. She did say there wasn't much of an atmosphere though!
 

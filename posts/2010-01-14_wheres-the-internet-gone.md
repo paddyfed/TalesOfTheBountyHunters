@@ -3,6 +3,7 @@ title: "Where's the Internet gone?"
 date: "2010-01-14"
 prevArticle: '2010-01-11_our-weekend-in-wexfordwell-not-quite'
 nextArticle: '2010-01-19_a-quiet-but-packed-weekend'
+tags: Star Wars - TotBH - Birthday - Clone Wars - Cinema - Football - Swimming
 ---
 On Tuesday I was working in the morning and it was quiet again. Paula came over to the flat after college and we had some lunch in the flat and got ink and a fan heater for her dad. We went to the pool in the evening and had a bit of a splash and a session in the steam room. It's the first time I'd been swimming since Sydney! I got some dinner in Tesco and Paula headed home after that. I also finished watching the first season of The Clone Wars and it was quite good. Hopefully the second season will be even better though.
 

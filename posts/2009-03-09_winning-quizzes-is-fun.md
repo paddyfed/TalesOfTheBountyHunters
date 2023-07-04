@@ -3,6 +3,7 @@ title: "Winning quizzes is fun!"
 date: "2009-03-09"
 prevArticle: '2009-03-02_reunions-rock'
 nextArticle: '2009-03-16_more-quizzes-this-is-getting-to-be-a-habit'
+tags: TotBH - Nights Out - Table Quiz - Nights In
 ---
 It wasn't a mad week this week but we did do a few things out of the norm. On Wednesday I went to the hospital to have my X-Ray and thankfully that didn't take too long. The doctor told me that I hadn't broken anything and that it was just a bit sprained. I couldn't play football for a while, even though I hadn't played since it happened, and I was to wear an ankle support for a while. I was just relieved that I wouldn't have to have an operation!
 

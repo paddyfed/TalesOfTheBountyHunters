@@ -3,6 +3,7 @@ title: "England, France, Italy, Argentina and Brazil all out!!!"
 date: "2010-07-05"
 prevArticle: '2010-06-21_catching-upagain'
 nextArticle: '2010-07-07_some-light-swimming'
+tags: Sick - World Cup - TotBH - DVD - Birthday - MOTU Classics - Nights Out - Hospital - Annoyances - GAA - Football
 ---
 Paula had a scope on Tuesday so I went and met her at the hospital and sat with her for a while. She was grateful but I had to go to work at one. It all went well and she was a bit out of it afterwards. Gerard gave me a lift out to the house after I was finished work. Paula left me into town next morning for work and I was in a really fed up mood for some reason. We left our Father's day present out to Dad that evening in an attempt to cheer me up. I was still in a foul mood even after football on Thursday and I did take it out on Paula which I shouldn't have.
 

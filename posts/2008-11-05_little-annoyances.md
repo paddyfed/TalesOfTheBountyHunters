@@ -3,6 +3,7 @@ title: "Little annoyances"
 date: "2008-11-05"
 prevArticle: '2008-11-03_two-handed-typing-is-awesome'
 nextArticle: '2008-11-12_hi-ho-hi-ho-its-back-to-work-we-go'
+tags: TotBH - Politics - Hospital - Annoyances
 ---
 You know whats just a bit annoying? Making yourself some hot chocolate only to forget about it while you update your blog. Then you have to drink it cold, just in case you accidentaly decide to knock it over during the night.
 

@@ -3,6 +3,7 @@ title: "A Bit to catch up on"
 date: "2008-12-12"
 prevArticle: '2008-12-03_work-is-great'
 nextArticle: '2009-01-01_merry-christmas-and-a-happy-new-year'
+tags: TotBH - Cinema - Nights Out - Hospital - Nights In
 ---
 It's been a bit over a week since I've updated and if I don't do it now I'll forget all that I wanted to say. The reason for the delay? Mostly laziness but I have been working a good bit this week so I usually just want to relax in front of the TV for a while. Anyway, back to last Wednesday....
 

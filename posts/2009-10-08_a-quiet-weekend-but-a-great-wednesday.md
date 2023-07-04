@@ -3,6 +3,7 @@ title: "A quiet weekend but a Great Wednesday!"
 date: "2009-10-08"
 prevArticle: '2009-09-28_damian-and-goretti'
 nextArticle: '2009-10-19_off-to-the-play-offs-we-go'
+tags: TotBH - Formula 1 - Champions League - Football
 ---
 So Tuesday it was back to work and thankfully it was a quiet week. Wednesday there was only the [United and Wolfsburg match](http://www.rte.ie/sport/soccer/2009/0930/manunited_wolfsburg.html) to watch which was a good result and on Thursday there was football. I was quite annoyed after the match though because I really ran my ass off and still didn't manage to win. It was close though!
 

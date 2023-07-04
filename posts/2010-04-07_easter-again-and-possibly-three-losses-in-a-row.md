@@ -3,6 +3,7 @@ title: "Easter again and possibly three losses in a row"
 date: "2010-04-07"
 prevArticle: '2010-04-01_new-profile-picture'
 nextArticle: '2010-04-16_looks-like-its-going-to-be-a-barren-season'
+tags: TotBH - Nights Out - Easter - Champions League - Football
 ---
 So on Thursday Paula came over to the flat and we went around town looking for  Monaghan away jersey but we didn't have any luck. She wants one for when we go away to the Scor at the end of April but it's not looking likely at the moment. I headed to football in the evening and got a lift back to Paulas with Ger.
 

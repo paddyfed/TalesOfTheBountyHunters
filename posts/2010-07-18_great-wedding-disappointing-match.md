@@ -3,6 +3,7 @@ title: "Great Wedding, disappointing match."
 date: "2010-07-18"
 prevArticle: '2010-07-15_when-advertising-goes-wrong'
 nextArticle: '2010-07-22_a-new-toy-to-play-with'
+tags: TotBH - GAA - Wedding
 ---
 Paula was over on Thursday evening and we had spaghetti for dinner which was lovely. She did give her head a knock before she left but thankfully she was alright. I was working on Friday and Paula collected me at the flat. We went looking for a rain jacket but we didn't have any luck. We also had a bit of a disagreement about work and going to Dublin for a shopping trip which put a sour note to the start of the weekend. She was also having trouble with her breathing on Friday evening which was a bit worrying to say the least.
 

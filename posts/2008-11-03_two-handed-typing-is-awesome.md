@@ -3,6 +3,7 @@ title: "Two handed typing is awesome!!!"
 date: "2008-11-03"
 prevArticle: '2008-10-28_the-last-day-of-the-claw'
 nextArticle: '2008-11-05_little-annoyances'
+tags: TotBH - Nights Out - Formula 1 - Hospital - Nights In
 ---
 Yes the Claw has gone finally and I'm free to use my hand again. It's still quite sore and I'm not supposed to lift very heavy things yet. Basically I have to wait another couple of weeks before trying to strengthen it up. Plus they gave me a different splint that I have to wear while in bed. This is to try and straighten out the finger. So I have to wear it for a couple of weeks and go down to Dublin for, what should be, my last physio appointment there. I've already been referred to Monaghan for other physio and I have an appointment tomorrow morning. I think this will only be the first of many trips to Monaghan General (that's if it's still open in a few weeks).
 

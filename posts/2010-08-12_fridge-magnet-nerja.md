@@ -3,6 +3,7 @@ title: "Fridge Magnet: Nerja"
 date: "2010-08-12"
 prevArticle: '2010-08-08_back-to-wexford'
 nextArticle: '2010-08-15_tá-mé-ag-pissed-agus-tá-mé-ag-fucking-retardo'
+tags: TotBH - Fridge - Fridge Magnet
 ---
 Here's the first in a new section here on TotBH...Fridge Magnets.
 

@@ -3,6 +3,7 @@ title: "When advertising goes wrong!"
 date: "2010-07-15"
 prevArticle: '2010-07-12_the-barbecue-of-the-year'
 nextArticle: '2010-07-18_great-wedding-disappointing-match'
+tags: Advertising - TotBH - MOTU Classics
 ---
 Look what flashed up when I was looking at [RoosterTeeth comics](http://www.roosterteeth.com) today.
 

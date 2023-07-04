@@ -3,6 +3,7 @@ title: "Technical Tests"
 date: "2010-10-15"
 prevArticle: '2010-10-08_some-rugby-matches'
 nextArticle: '2010-10-22_the-first-charity-run'
+tags: TotBH - Interview - MOTU Classics - Computershare - Football
 ---
 Saturday: I decided to make dinner at home as Paula was working and I wanted to make dinner for her. We had sweet Thai chilli stir fry. We watched TV at home and then got a DVD out ‘McGruber’ before Paula went home
 

@@ -3,6 +3,7 @@ title: "On the road again...."
 date: "2008-10-09"
 prevArticle: '2008-10-07_kat-s-paddy-or-i-love-your-boobs'
 nextArticle: '2008-10-14_computers-dinner-more-computers-and-hospitals'
+tags: TotBH - Computers - Gaming
 ---
 Later this morning I'll be heading down to Athlone to help my aunt out with her computer so I'll be away for a few days. However I'll have to be back in Monaghan on Saturday as we're heading out to a group dinner. So I think what I'll do is go to Dublin on Friday and then back home on Saturday. Of course I'm not sure how long things will take so it could change!
 

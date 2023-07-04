@@ -3,6 +3,7 @@ title: "Dirty ex-Arsenal cheating Fucking Bastard!!!!"
 date: "2009-11-18"
 prevArticle: '2009-11-16_modern-warfares-and-one-disapppointing-result'
 nextArticle: '2009-11-18_in-anticipation-of-being-knocked-out'
+tags: TotBH - World Cup Qualifiers - Football
 ---
 [That is all!](http://www.rte.ie/sport/soccer/2009/1118/ireland_france.html)
 

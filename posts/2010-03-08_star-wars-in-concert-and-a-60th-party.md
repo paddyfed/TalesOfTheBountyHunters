@@ -3,6 +3,7 @@ title: "Star Wars in Concert and a 60th party"
 date: "2010-03-08"
 prevArticle: '2010-03-02_some-babysitting-and-a-fantastic-win-over-england'
 nextArticle: '2010-03-11_disappointing-dvd-but-a-great-win-for-united'
+tags: Star Wars - TotBH - Birthday - Concert
 ---
 On Wednesday we went for a walk in Glaslough for the first time in a while and for some reason my shins were really sore, really tight and they never really losened up but it was still a good walk and we even did a bit of running at the end too. Thursday Dad called me at work to see if he could get some help with the new routeer they installed at work but he didn't need me that evening anyway. Paula also wanted us to do up a poster for the donations at Seans party though I couldn't this evening because of the football.
 

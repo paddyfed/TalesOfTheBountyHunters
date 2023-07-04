@@ -3,6 +3,7 @@ title: "Feeling much better"
 date: "2009-07-24"
 prevArticle: '2009-07-20_not-feeling-great'
 nextArticle: '2009-07-26_motu-sdcc-2009'
+tags: TotBH - DVD - Birthday - Table Quiz
 ---
 So I was well recovered by Tuesday from my sickness, just in time to go back to work on My Birthday. Paula did come over on Monday night to watch Role Models and it was really funny. It got a bit sentimental about half way through but still worth watching. She was also going to the Doctor on Tuesday to see about the Rubella situation and she was a bit upset about that, plus I don't think I helped the situation. She did go though and even though we still didn't get any real answers at least it seems like they're actually going to do something now.
 

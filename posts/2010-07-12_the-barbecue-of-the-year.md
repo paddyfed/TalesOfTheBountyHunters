@@ -3,6 +3,7 @@ title: "The Barbecue of the Year"
 date: "2010-07-12"
 prevArticle: '2010-07-07_some-light-swimming'
 nextArticle: '2010-07-15_when-advertising-goes-wrong'
+tags: World Cup - TotBH - Barbecue - GAA - Football
 ---
 ![Elaine and Paula](/images/P7110678.JPG "Elaine and Paula on the bouncy castle")
 

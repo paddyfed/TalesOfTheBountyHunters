@@ -3,6 +3,7 @@ title: "The weekend wasn't too Gorey, geddit?"
 date: "2008-12-01"
 prevArticle: '2008-11-24_two-drunken-nights'
 nextArticle: '2008-12-03_work-is-great'
+tags: TotBH - Wexford - Nights Out
 ---
 This weekend we headed down to Wexford to Paula's aunt's house as there was a charity mock wedding taking place and a lot of the McGonnells were going. So on Friday we headed down with Pauric to Gorey. We were all staying in the B&B so we left our bags there and got ready. Adam and Shelly were already there so I was chatting to Adam for a while and then when the girls were ready we got a mini bus to the pub. After getting a bit to eat and a few drinks the wedding itself started. James B was actually the bride and it was very funny when he arrived in the Garda van! Also the ceremony itself was quite funny even if we did miss some of the 'local' jokes.
 

@@ -3,6 +3,7 @@ title: "Two drunken nights"
 date: "2008-11-24"
 prevArticle: '2008-11-18_the-big-100'
 nextArticle: '2008-12-01_the-weekend-wasnt-too-gorey-geddit'
+tags: TotBH - Rugby - Drogheda - Nights Out - Work - Nights In - Autumn Internationals
 ---
 ![Paddy with McHugh, Maria and Kat](/images/PB210170.JPG "I decide to take a little lie down.")
 

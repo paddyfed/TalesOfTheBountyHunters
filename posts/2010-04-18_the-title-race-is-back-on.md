@@ -3,6 +3,7 @@ title: "The title race is back on"
 date: "2010-04-18"
 prevArticle: '2010-04-16_looks-like-its-going-to-be-a-barren-season'
 nextArticle: '2010-04-26_scór-sinsear-2010'
+tags: TotBH - Birthday - Formula 1 - Football - Premier League
 ---
 So Paula did come over to the flat and again she didn't have a good day at college. Though at least she now knows that she won't be going back next year. She really didn't seem to be with it though. We went shopping and she just didn't seem able to concentrate. I got a Montie for dinner and took it out to her house. Paula made herself dinner too and we sat and watched TV. We chatted all evening though about what was bothering her and what was bothering me and it was one of those serious chats that could've gone the wrong way. Thankfully it didn't though and I think we are stronger because of it.
 

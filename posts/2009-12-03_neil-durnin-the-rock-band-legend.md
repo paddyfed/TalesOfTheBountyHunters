@@ -3,6 +3,7 @@ title: "Neil Durnin, the Rock Band legend"
 date: "2009-12-03"
 prevArticle: '2009-11-29_emers-leaving-home'
 nextArticle: '2009-12-06_its-the-fluagain-not-swine-flu-though-if-youre-wondering'
+tags: Rock Band - TotBH - Video - Gaming - YouTube
 ---
 Monday was the start of another boring week at work although the Christmas rush has definitely started. Football was on as well and it was a good match that saw the return of Stephen in goal and he's nearly impossible to score against! Paula was out walking that evening and her car broke down so she was really annoyed. I did avoid calling her which I shouldn't have done.
 
@@ -14,7 +15,5 @@ So today I was working again and found out that I'm working tomorrow too. I was 
 
 Well that went out the window but I did manage to upload the videos from the weekend. Classic...
 
-[Rock Band Night - Livin' on a Prayer pt 1](https://youtu.be/NPZelL37eks)  
-[Rock Band Night - Livin' on a Prayer pt 2](https://youtu.be/J4IsJcER3U0)
 
 Paddy.

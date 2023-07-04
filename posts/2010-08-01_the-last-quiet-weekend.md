@@ -3,6 +3,7 @@ title: "The last quiet weekend"
 date: "2010-08-01"
 prevArticle: '2010-07-30_cousins-from-the-other-side'
 nextArticle: '2010-08-08_back-to-wexford'
+tags: TotBH - Birthday - MOTU Classics - Formula 1
 ---
 So I headed out to Pualas house on Friday and I had bought all the stuff for a stir-fry. Paula really wasn't feeling the best though so we lay down on the couch in the sitting room for a while. She eventually fell asleep and I got up to make the dinner. We then sat on the couch for the rest of the evening, playing The Sims and doing the crossword.
 

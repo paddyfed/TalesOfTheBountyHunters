@@ -3,6 +3,7 @@ title: "Some rugby matches"
 date: "2010-10-08"
 prevArticle: '2010-10-01_bill-bailey-at-the-o2'
 nextArticle: '2010-10-15_technical-tests'
+tags: TotBH - Rugby - Cinema - Nights Out - GAA - Football
 ---
 Saturday: I was working all day and when I came home I watched the [Leinster v Munster match](http://www.rte.ie/sport/rugby/2010/1002/leinster_munster.html). I went to Deerys to meet up with Mark and Sarah and of course I couldn’t get a taxi home and had to get a lift with mum.
 

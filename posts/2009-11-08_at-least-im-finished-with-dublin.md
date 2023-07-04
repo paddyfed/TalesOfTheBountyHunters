@@ -3,6 +3,7 @@ title: "At least I'm finished with Dublin"
 date: "2009-11-08"
 prevArticle: '2009-11-03_testing-blogger-on-my-dsi'
 nextArticle: '2009-11-16_modern-warfares-and-one-disapppointing-result'
+tags: Boxing - Birth - TotBH - Nights Out - Work - Gaming
 ---
 On Tuesday morning I got up and was heading down to Dublin for work again. Of course this time I decide to miss the first bus just to make things exciting. So a quick walk around to the bus station and I was on my way. We were staying in the same hotel so at least I knew where to go. I had to stop off at the shop to get a key for the room and got changed back at the hotel so I ended up being a bit late but it was grand. I finished up late that night too and it was a bit annoying trying to get up to the room with only one key.
 

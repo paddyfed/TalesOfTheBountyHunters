@@ -3,6 +3,7 @@ title: "So where have I been?"
 date: "2008-09-09"
 prevArticle: '2008-08-27_always-play-your-games'
 nextArticle: '2008-09-15_the-end-of-the-world'
+tags: Monaghan - Ballymena - TotBH - Nights Out - Blues Festival
 ---
 Well it's been nearly two weeks since I've updated and I'm sure you're wondering where I've been well let me tell you. Wednesday two weeks ago (this was the 27th of August by the way) Emma and I went down to Dublin to collect our nephew Ryan from the boat. So after we walked around town for a while, and bought loads of Star Wars novels, we decided to walk, yes walk, out to the port. So that took ages but we did eventually get Ryan and made our way back home. No big deal.
 

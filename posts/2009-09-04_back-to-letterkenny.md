@@ -3,6 +3,7 @@ title: "Back to Letterkenny"
 date: "2009-09-04"
 prevArticle: '2009-09-04_back-to-college-soon'
 nextArticle: '2009-09-12_the-blues-are-back-in-town'
+tags: Letterkenny - TotBH - DVD - Rugby - Nights Out - Six Nations
 ---
 ![Adam and Me with the Six Nations and Triple Crown trophies](/images/P8280228.JPG "At last, I get to hold it!!")
 

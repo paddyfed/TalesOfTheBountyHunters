@@ -3,6 +3,7 @@ title: "A long week in Dublin"
 date: "2009-11-01"
 prevArticle: '2009-10-26_a-trip-down-to-the-dundrum-store'
 nextArticle: '2009-11-03_testing-blogger-on-my-dsi'
+tags: Dublin - Rock Band - TotBH - Nights Out - Formula 1 - Work
 ---
 So we've covered the Dundrum store for the past week and it's mostly gone well. On Tuesday I was on the late shift and we didn't get back to the hotel until near eleven again. I did give Paula a call but she really wasn't having a good time in college so it wasn't the best phone conversation we ever had.
 

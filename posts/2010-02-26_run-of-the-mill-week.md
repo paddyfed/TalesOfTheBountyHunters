@@ -3,6 +3,7 @@ title: "Run of the mill week"
 date: "2010-02-26"
 prevArticle: '2010-02-22_test'
 nextArticle: '2010-03-02_some-babysitting-and-a-fantastic-win-over-england'
+tags: TotBH
 ---
 There was football on Monday as usual and for the second week in a row I managed to hurt my knee. My right knee knocked against my left knee and it was sore for ages after it. I put it in ice when I got home but it was still sore. We went for pizza after the football too but Shelly had forgotten to put ours on so we got it delivered instead. The gate still wasn't working but thankfully it was left open when we got back.
 

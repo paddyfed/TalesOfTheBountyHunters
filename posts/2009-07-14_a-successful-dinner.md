@@ -3,6 +3,7 @@ title: "A Successful Dinner"
 date: "2009-07-14"
 prevArticle: '2009-07-08_back-to-boring-old-work'
 nextArticle: '2009-07-20_not-feeling-great'
+tags: Rock Band - TotBH - Nights Out
 ---
 So I finally made dinner for Paula, my spaghetti bolognaise, and it went down a treat! It was the first time I'd made it with meat pieces in a long time but it worked out well. That night we were playing an eleven-a-side game at Gortikeegan for the first time. We did lose the game but it was a great experience all the same. My left toe will never be the same again though. That night we went out for a few drinks with some of the GAME crew and Nicola Sherry came back to the flat for a tour.
 

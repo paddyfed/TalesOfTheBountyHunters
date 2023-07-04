@@ -3,6 +3,7 @@ title: "Our weekend in Wexford...well not quite"
 date: "2010-01-11"
 prevArticle: '2010-01-05_i-just-dont-care-anymore'
 nextArticle: '2010-01-14_wheres-the-internet-gone'
+tags: Darts - TotBH - Wexford - Birthday - Nights Out
 ---
 So our whole plan was to head down to Wexford on Thursday evening and have the whole weekend to do whatever we wanted. Unfortunately the weather had it's own ideas! We left it that we would see how the weather was on Thursday morning and make a decision then. I had a chiropractors appointment and I was working until six but that was still time enough to head down on the bus. Unfortunately the weather only got worse! After talking about it for months, we couldn't go.
 

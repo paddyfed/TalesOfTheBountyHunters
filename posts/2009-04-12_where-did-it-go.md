@@ -3,6 +3,7 @@ title: "Where did it go???"
 date: "2009-04-12"
 prevArticle: '2009-04-09_a-few-visits'
 nextArticle: '2009-04-15_births-deaths-and-football'
+tags: TotBH - Nights Out - Football
 ---
 On Saturday I was in the flat for most of the day and Paula came over during her lunch break to say hello and to get out of work for an hour or so. That was grand, she came over we watched a few episodes of South Park and she went back to work. Unfortunately she called about ten minutes later asking if I'd seen her wallet. She had lost it somewhere between work and the flat and she couldn't find it.
 

@@ -3,6 +3,7 @@ title: "No I didn't see the meteorite"
 date: "2010-02-04"
 prevArticle: '2010-02-02_the-three-little-bops'
 nextArticle: '2010-02-08_another-superbowl-ends-as-the-six-nations-starts'
+tags: Walking - TotBH - Birthday
 ---
 This week has been pretty good if fairly uninteresting. Aside from the usual football on Monday Paula and I have gone out walking a good bit. Tuesday we walked in town out to the 24hr shop and back. We went to Paulas house afterwards though and we watched some of 'The Mighty Boosh' before falling asleep on the couch. On Wednesday we went walking in Glaslough but the back road was too slippery so we just did a short circuit around the village.
 

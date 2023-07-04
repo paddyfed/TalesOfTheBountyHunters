@@ -3,6 +3,7 @@ title: "A few visits"
 date: "2009-04-09"
 prevArticle: '2009-04-06_its-been-a-quiet-one'
 nextArticle: '2009-04-12_where-did-it-go'
+tags: TotBH - Football
 ---
 Paula is off college this week so we've been spending a bit more time together than we usually would. On Monday she came over to the flat and we watched 'Hot Shots' which was hilarious as always. Paula really enjoyed it too as that kind of silly humour movie is what she likes. I'll have to introduce her to Airplane parts one and two then.
 

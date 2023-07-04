@@ -3,6 +3,7 @@ title: "Some babysitting and a fantastic win over England!!"
 date: "2010-03-02"
 prevArticle: '2010-02-26_run-of-the-mill-week'
 nextArticle: '2010-03-08_star-wars-in-concert-and-a-60th-party'
+tags: Babysitting - Rugby - League Cup - Football - Six Nations
 ---
 I was working on Friday but thankfully not in the evening. Instead we headed out to Carolines to do a bit of babysitting for her as she was away for a spa weekend. We made our curry dinner, played about with the kids (even James was happy and smiling at me) and then helped Kevin put them to bed. We then watched Up on DVD. The girls had us up early on Saturday and we took Ciara to her swimming lesson. After that we headed home and then took her to a birthday party in Planet Kids. I headed out to Adams house after that to watch a [fantastic win over the old enemy of England](http://www.rte.ie/sport/rugby/sixnations/2010/0227/england_ireland.html)!
 

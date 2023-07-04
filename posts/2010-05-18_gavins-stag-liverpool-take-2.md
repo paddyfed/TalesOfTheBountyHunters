@@ -3,6 +3,7 @@ title: "Gavins Stag: Liverpool Take 2!"
 date: "2010-05-18"
 prevArticle: '2010-05-11_neglected-posts'
 nextArticle: '2010-06-21_catching-upagain'
+tags: TotBH - Liverpool - Stag Party - Nights Out - Football - FA Cup
 ---
 I was working on Wednesday but headed out to Paulas house for a curry dinner afterwards and we sat and played the Sims 2 all evening. I had a chiropractor appointment on Thursday morning so Paula left me back into town. I went to work after that and then football and I got a Montie for dinner. I then got the bus up to Letterkenny and Brian picked me up from the bus depot.
 

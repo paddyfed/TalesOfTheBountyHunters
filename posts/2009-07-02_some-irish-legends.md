@@ -3,6 +3,7 @@ title: "Some Irish legends"
 date: "2009-07-02"
 prevArticle: '2009-06-29_a-great-night-out-with-the-gang'
 nextArticle: '2009-07-06_the-great-isle-of-mann-adventure'
+tags: TotBH - Nights Out - Football
 ---
 On Tuesday after work and helping Edel figure out which laptop to buy, Paula came over to the flat. We were heading to Glaslough for Glaslough Villa's gala dinner thing and race night. I only realised later that it was also part of the FAI football thing thats going on at the minute in Monaghan so Paul McGrath, Ray Houghton and Packie Bonner turned up as well. The night was a great success but the speeches lasted too long and the race night was very slow to start. We only stayed for one or two races.
 

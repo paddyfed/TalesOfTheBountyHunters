@@ -3,6 +3,7 @@ title: "Help me Obi-Wan Kenobi...."
 date: "2008-08-19"
 prevArticle: '2008-08-11_12420'
 nextArticle: '2008-08-25_i-got-soul-but-im-not-a-soldier'
+tags: Star Wars - Rock Band - TotBH - Clone Wars - Nights Out
 ---
 Well it was an action packed week to catch up on. It all started last Wednesday when I went out with Johnny and Adam to watch the football in the Pig. We stayed there for the second half of the Liverpool match and then went over to the Camel. Yes, I know we're a bit old for the Camel. But we made up for it by going to the Forum after it, oh wait, that's not right. Very drunken night. We had this free drink, Sol, in the Camel which was terrible. Avoid at all costs!
 
