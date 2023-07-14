@@ -9,7 +9,7 @@ export default function BlogTags ({tagList}) {
     let tagLinks = []
 
     for(const tag of splitTags) {
-        tagLinks.push(<Link href={`/tags/${tag}`}>{tag}</Link>) 
+        tagLinks.push(<Link href={`/tags/${tag}`} key={tag}>{tag}</Link>) 
     }
 
     return <p className={utilStyles.blogTagsList}>{tagLinks}</p>
