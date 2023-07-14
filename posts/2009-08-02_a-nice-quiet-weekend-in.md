@@ -5,7 +5,7 @@ prevArticle: '2009-07-27_lots-of-birthday-celebrations'
 nextArticle: '2009-08-09_a-few-great-surprises'
 tags: Rock Band - TotBH - DVD - MOTU Classics - Nights In - GAA
 ---
-I actually didn't realise that it's been a week since I updated here, I was only on the other day posting some [old blog entries](http://paddy1138.blogspot.com/search/label/Old%20Blog) that I found from an old site that I was using. It's probably not that interesting to anyone but me, but I wanted to have all my musings in one place so I'll be putting the rest up later.
+I actually didn't realise that it's been a week since I updated here, I was only on the other day posting some [old blog entries](/tags/Old%20Blog) that I found from an old site that I was using. It's probably not that interesting to anyone but me, but I wanted to have all my musings in one place so I'll be putting the rest up later.
 
 Tuesday was quiet enough. I was at work for most of the day and then played football with Ben and his mates in the evening. Wednesday was a bit livelier. Although I was at work all day Ben and his cousin Dillon came over to the flat and we had a few beers with Adam all while playing Rock Band. So that was good craic and later we went to McKennas for last orders. We met up with Vikki who just passed her driving test and Sean who had a deck of cards to show us. Adam went home with Shelly and Ben and I went back to the flat for more beers. I think we eventually stopped at about five in the morning. I was grand but Ben had to go to work three hours later!
 
