@@ -7,7 +7,7 @@ tags: Star Wars - TotBH - DVD - College
 ---
 ![Training on the Falcon](/images/TLC-1389.jpg "At last, a C-3PO")
 
-On Tuesday Paula was registering in college so we headed down to Dundalk for a while. We went looking for more knee supports and managed to get some in Elverys. We also went to Smyths toys and Paula got me a few Star Wars figures, it was 'Training on the Falcon' so [it seemed appropriate](http://paddy1138.blogspot.com/2009/07/feeling-much-better.html#falcon). After that we went into PC World to have a look at TV's and I didn't really plan to buy anything but I did see a TV and PC monitor by LG (Flatron M197WD) and it was only 200 so I went for it. The guy who served us turned out to be called O'Hara too so that was a bit of a coincidence.
+On Tuesday Paula was registering in college so we headed down to Dundalk for a while. We went looking for more knee supports and managed to get some in Elverys. We also went to Smyths toys and Paula got me a few Star Wars figures, it was 'Training on the Falcon' so [it seemed appropriate](/posts/2009-07-24_feeling-much-better). After that we went into PC World to have a look at TV's and I didn't really plan to buy anything but I did see a TV and PC monitor by LG (Flatron M197WD) and it was only 200 so I went for it. The guy who served us turned out to be called O'Hara too so that was a bit of a coincidence.
 
 ![LG Flatron M197WD](/images/P9150306.JPG "My new monitor/toy")
 
