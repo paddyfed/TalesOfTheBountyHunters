@@ -7,7 +7,7 @@ tags: TotBH - Birthday - Nights Out - Football
 ---
 On Tuesday we headed out to Pamelas house for a Barbecue in honour of Johnnys birthday. It was a really nice day too so that helped. Ger got him a card with a nine on it, turned it upside down and put a two in front of it just so that it was the right age. We spent most of the day entertained by wee Stephen and antics, p circle circle p! We also listened to the [Liverpool and Arsenal match](http://www.rte.ie/sport/soccer/2009/0421/liverpool_arsenal.html) and again it was another end to end affair!
 
-![Baby James](/images/Wee+James.jpg "Wee baby James")
+![Baby James](/images/WeeJames.jpg "Wee baby James")
 
 On Wednesday Paula and I went out to Carolines to meet baby James. He's so cute and I actually held him for a good while. He's really quiet too so that helped. We headed back to the flat after that and Paula came up for a while. On Thursday there was football in Ballinode and we all got soaked! My team did manage to win though which was a first in a long while. Paula was heading to a beach party in Dundalk and she had a good time. She did get sand everywhere though when she got back to the hotel she was staying in!
 
