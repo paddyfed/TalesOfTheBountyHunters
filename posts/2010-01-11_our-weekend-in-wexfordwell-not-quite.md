@@ -15,6 +15,6 @@ We had planned to head back to Paulas house for dinner early but unfortunately d
 
 This morning Paula was back to college so she left me back into the flat. She did forget her phone though so I gave her mine for the day. I was working at one but it was quiet because of the snow. Paula went to have some allergy tests done and she came over to the flat in the evening for a Chinese dinner.
 
-Although she's back in college I hope that we will still get to see each other a good bit. Though this time it should be a bit easier since the bookies closed down. I'm optimistic and happy which is a [big improvement over last week thankfully](http://paddy1138.blogspot.com/2010/01/i-just-dont-care-anymore.html).
+Although she's back in college I hope that we will still get to see each other a good bit. Though this time it should be a bit easier since the bookies closed down. I'm optimistic and happy which is a [big improvement over last week thankfully](/posts/2010-01-05_i-just-dont-care-anymore).
 
 Paddy.

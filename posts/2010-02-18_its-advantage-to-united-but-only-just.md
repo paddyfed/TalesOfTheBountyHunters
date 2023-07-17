@@ -5,7 +5,7 @@ prevArticle: '2010-02-16_pancakes-and-battle-cats'
 nextArticle: '2010-02-21_back-to-pandora'
 tags: TotBH - Champions League - Football
 ---
-It's Pancake Tuesday!! As I said before I was heading out home for Pancakes after [securing my Battle-Cat](http://paddy1138.blogspot.com/2010/02/pancakes-and-battle-cats.html) earlier in the day. The [AC Milan and United match](http://www.rte.ie/sport/soccer/2010/0216/acmilan_manutd.html) was on that evening too so Ken and I watched it for the evening. I was also trying to look for the number of the people we used to rent off in Sydney but I couldn't find my old phone.
+It's Pancake Tuesday!! As I said before I was heading out home for Pancakes after [securing my Battle-Cat](/posts/2010-02-16_pancakes-and-battle-cats) earlier in the day. The [AC Milan and United match](http://www.rte.ie/sport/soccer/2010/0216/acmilan_manutd.html) was on that evening too so Ken and I watched it for the evening. I was also trying to look for the number of the people we used to rent off in Sydney but I couldn't find my old phone.
 
 I was working all day on Wednesday and Emma was at a funeral so we had no lunch cover. Thankfully it wasn't too busy and Paul eventually came in to let us have our lunch. I had my banana sandwiches in with me at any rate. After work Paula came over and we went for a walk in town. She came up to the flat and we had a really good chat about things, the future and other things. She told me that she once thought that I had a thing for an ex work colleague, that was funny!
 

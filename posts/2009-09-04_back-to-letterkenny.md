@@ -7,7 +7,7 @@ tags: Letterkenny - TotBH - DVD - Rugby - Nights Out - Six Nations
 ---
 ![Adam and Me with the Six Nations and Triple Crown trophies](/images/P8280228.JPG "At last, I get to hold it!!")
 
-Finally we organised our trip up to Letterkenny. We had planned to head up earlier in the year but a [few things got in our way](http://paddy1138.blogspot.com/2009/07/not-feeling-great.html) that time. I had stayed in Paulas house the night before and we were eating breakfast when we heard that the Six Nations trophy would be in the credit union. So we finished up quick and went into town, picking up Adam along the way. We got a few photos taken with the trophies and we then drove up to Letterkenny.
+Finally we organised our trip up to Letterkenny. We had planned to head up earlier in the year but a [few things got in our way](/posts/2009-07-20_not-feeling-great) that time. I had stayed in Paulas house the night before and we were eating breakfast when we heard that the Six Nations trophy would be in the credit union. So we finished up quick and went into town, picking up Adam along the way. We got a few photos taken with the trophies and we then drove up to Letterkenny.
 
 We walked around town for a bit and I showed Paula the pink apartments and a few other places that we used to go drinking in. I bought a knee support and we went to Mr Chippie for dinner, ah happy memories. We then headed up to Brian and Marie's house and hung out for a while. That night we went out for a few drinks in the Central, Cottage, McGinleys, Downtown and Voodoo. It was quite a drunken night but very enjoyable. I even met up with Declan from college and I especially liked the crotch shot from McGinleys!
 
