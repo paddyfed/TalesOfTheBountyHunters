@@ -14,6 +14,6 @@ Monday I was down in Dublin for more Physio. I thought this would be my last tri
 Love this comic by the way...
 ![Ctrl+Alt+Del](/images/20081110.jpg "Ctrl+Alt+Del")
 
-It's from [Ctrl+Alt+Del](https://cad-comic.com/?s=unleaded), check it out.
+It's from [Ctrl+Alt+Del](https://cad-comic.com/comic/unleaded/), check it out.
 
 Paddy.
