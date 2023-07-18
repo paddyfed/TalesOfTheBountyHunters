@@ -2,7 +2,7 @@
 title: "Old Star Wars Site Updates"
 date: "2023-07-06"
 prevArticle: '2022-10-15_tweet-2022-10-15-07-20-05'
-nextArticle: ''
+nextArticle: '2023-07-18_Old-Star-Wars-Site-Updates-Left-Menu'
 tags: Star Wars - Website - JavaScript
 ---
 Recently I have been looking at some old websites that I created back in the day and see how I might actually update them. The first I looked at in any detail was an old Star Wars site that I created between 2000 and 2003. It was a site specifically for Irish fans of Star Wars to join. I also had some Trivia competitions and polls and there was a chat applet at one stage too. It was reasonably successful in that we did get a few members and good traffic. The site was basic HTML using tables for layouts which was common at the time. It also used extensive spacer gifs and gifs to get round corners on the site. There was very little use of CSS but I did use JavaScript to display the nav menu and the areas of the site that were needed on each page.
