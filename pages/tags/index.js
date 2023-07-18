@@ -15,7 +15,7 @@ export async function getStaticProps() {
 }
 
 export default function Home({ allTagsData }) {
-    return (
+     return (
         <Layout>
             <Head>
                 <title>{siteTitle}</title>
@@ -27,7 +27,7 @@ export default function Home({ allTagsData }) {
                 <h2 className={utilStyles.headingLg}>Tags</h2>
                 <ul className={`${utilStyles.list} ${utilStyles.yearsList}`}>
                     {allTagsData.map((item, index) => {
-                        return <li className={utilStyles.listItem} key={index}><Link href={`/tags/${item}`}>{item}</Link></li>
+                        return <li className={utilStyles.listItem} key={index}><Link href={`/tags/${item[0]}`}>{item[0]}</Link> <small className={utilStyles.lightText}>({item[1]})</small></li>
                     })}
                 </ul>
 
