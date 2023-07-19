@@ -20,14 +20,11 @@ export default function Home({ allTagsData }) {
             <Head>
                 <title>{siteTitle}</title>
             </Head>
-            <section className={utilStyles.headingMd}>
-                <h1></h1>
-            </section>
             <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
                 <h2 className={utilStyles.headingLg}>Tags</h2>
-                <ul className={`${utilStyles.list} ${utilStyles.yearsList}`}>
+                <ul className={`${utilStyles.list} ${utilStyles.tagsList}`}>
                     {allTagsData.map((item, index) => {
-                        return <li className={utilStyles.listItem} key={index}><Link href={`/tags/${item[0]}`}>{item[0]}</Link> <small className={utilStyles.lightText}>({item[1]})</small></li>
+                        return <li key={index}><Link href={`/tags/${item[0]}`}>{item[0]}</Link> <small className={utilStyles.lightText}>({item[1]})</small></li>
                     })}
                 </ul>
 

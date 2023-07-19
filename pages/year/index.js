@@ -38,9 +38,6 @@ export default function Home({ minYear, maxYear }) {
             <Head>
                 <title>{siteTitle}</title>
             </Head>
-            <section className={utilStyles.headingMd}>
-                <h1></h1>
-            </section>
             <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
                 <h2 className={utilStyles.headingLg}>Years</h2>
                 <ul className={`${utilStyles.list} ${utilStyles.yearsList}`}>
