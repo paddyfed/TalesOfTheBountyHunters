@@ -1,8 +1,8 @@
 ---
 title: "In anticipation of being knocked out..."
-date: "2009-11-18"
-prevArticle: '2009-11-18_dirty-ex-arsenal-cheating-fucking-bastard'
-nextArticle: '2009-11-22_a-really-great-and-fun-weekend'
+date: "2009-11-18T19:30:00"
+prevArticle: '2009-11-16_modern-warfares-and-one-disapppointing-result'
+nextArticle: '2009-11-18_dirty-ex-arsenal-cheating-fucking-bastard'
 tags: TotBH - World Cup Qualifiers - Football
 ---
 So we're sitting here waiting for the match to start and I have to say I'm not very hopeful! I headed out to Paula's house last night to watch 'Black Books' but we just ended up watching TV instead. She asked me if I thought we had a chance tonight and I said not much of one.
