@@ -1,7 +1,7 @@
 ---
 title: "A really great and fun weekend"
 date: "2009-11-22"
-prevArticle: '2009-11-18_in-anticipation-of-being-knocked-out'
+prevArticle: '2009-11-18_dirty-ex-arsenal-cheating-fucking-bastard'
 nextArticle: '2009-11-25_over-tired'
 tags: TotBH - Death - Rugby - World Cup Qualifiers - Cinema - Autumn Internationals - Football
 ---
