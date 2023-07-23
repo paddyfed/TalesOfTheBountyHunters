@@ -3,7 +3,7 @@ import Layout, { siteTitle } from '../../components/layout';
 import utilStyles from '../../styles/utils.module.css';
 import { getFilteredPostsData, getAllYearsForPaths, getMinYear, getMaxYear } from "../../lib/posts";
 import Link from 'next/link';
-import Date from '../../components/date';
+import BlogPosts from '../../components/blogposts';
 
 export async function getStaticProps({ params }) {
     const filteredPostData = await getFilteredPostsData(params.year);
@@ -58,29 +58,7 @@ export default function Home({ filteredPostData, year, prevYear, nextYear, minYe
             <Head>
                 <title>{siteTitle}</title>
             </Head>
-            <section className={utilStyles.headingMd}>
-                <h1>{year}</h1>
-            </section>
-            <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-                <h2 className={utilStyles.headingLg}>Blog</h2>
-                {filteredPostData.length > 0 ? (
-                    // If filterdPostsData. length is greater than 0 then display them
-                    <ul className={utilStyles.list}>
-                        {filteredPostData.map(({ id, date, title }) => (
-                            <li className={utilStyles.listItem} key={id}>
-                                <Link href={`/posts/${id}`}>{title}</Link>
-                                <br />
-                                <small className={utilStyles.lightText}>
-                                    <Date dateString={date} />
-                                </small>
-                            </li>
-                        ))}
-                    </ul>
-                ) : (
-                    // Otherwise just show a notice that there are No Results
-                    <div className={utilStyles.listItem}>No Results</div>
-                )}
-            </section>
+            <BlogPosts heading={year} filteredPostData={filteredPostData}></BlogPosts>
 
             <div className={utilStyles.articleNavigation}>
                 {/* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unary_plus */}
