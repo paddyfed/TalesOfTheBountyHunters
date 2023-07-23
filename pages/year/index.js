@@ -1,38 +1,20 @@
 import Head from 'next/head';
 import Layout, { siteTitle } from '../../components/layout';
 import utilStyles from '../../styles/utils.module.css';
-import { getMinYear, getMaxYear } from "../../lib/posts";
+import { getAllYearsForStaticProps } from "../../lib/posts";
 import Link from 'next/link';
-import Date from '../../components/date';
 
 export async function getStaticProps() {
-    // const filteredPostData = await getFilteredPostsData(params.year);
-    //const year = params.year;
-    //const prevYear = +params.year - 1;
-    //const nextYear = +params.year + 1;
-    const minYear = getMinYear();
-    const maxYear = getMaxYear();
+    const allYears = getAllYearsForStaticProps();
 
     return {
         props: {
-            minYear,
-            maxYear,
+            allYears,
         },
     };
 }
 
-export default function Home({ minYear, maxYear }) {
-
-    let allYears = [];
-
-    for (let i = minYear; i <= maxYear; i++) {
-        allYears.push(i);
-    }
-
-    allYears.sort((a, b) => {
-        return b - a;
-    });
-
+export default function Home({ allYears }) {
     return (
         <Layout>
             <Head>
@@ -42,7 +24,7 @@ export default function Home({ minYear, maxYear }) {
                 <h2 className={utilStyles.headingLg}>Years</h2>
                 <ul className={`${utilStyles.list} ${utilStyles.yearsList}`}>
                     {allYears.map((item, index) => {
-                        return <li className={utilStyles.listItem} key={index}><Link href={`/year/${item}`}>{item}</Link></li>
+                        return <li className={utilStyles.listItem} key={index}><Link href={`/year/${item[0]}`}>{item[0]}</Link> <small className={utilStyles.lightText}>({item[1]})</small></li>
                     })}
                 </ul>
 
