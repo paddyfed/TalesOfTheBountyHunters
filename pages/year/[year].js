@@ -77,6 +77,7 @@ export default function Home({ filteredPostData, year, prevYear, nextYear, minYe
             </section>
 
             <div className={utilStyles.articleNavigation}>
+                {/* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unary_plus */}
                 {+prevYear >= minYear ? (<Link href={`/year/${prevYear}`}>{`${prevYear}`}</Link>) : (<span>{`${prevYear}`}</span>)}
                 {<span>{year}</span>}
                 {+nextYear <= maxYear ? (<Link href={`/year/${nextYear}`}>{`${nextYear}`}</Link>) : (<span>{`${nextYear}`}</span>)}
