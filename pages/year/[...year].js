@@ -21,12 +21,10 @@ export async function getStaticProps({ params }) {
         };
     }
 
-    if(month) {
-        if(month.length !== 2) {
-            return {
-                notFound: true,
-            };
-        }
+    if (month && (month.length !== 2 || +month > 12 || +month < 1)) {
+        return {
+            notFound: true,
+        };
     }
 
     return {
