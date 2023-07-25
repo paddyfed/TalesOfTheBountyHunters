@@ -4,12 +4,14 @@ import utilStyles from '../../styles/utils.module.css';
 import { getFilteredPostsData, getAllYearsForPaths, getMinYear, getMaxYear } from "../../lib/posts";
 import Link from 'next/link';
 import BlogPosts from '../../components/blogposts';
+import { withRouter } from 'next/router'
 
 export async function getStaticProps({ params }) {
     const filteredPostData = await getFilteredPostsData(params.year);
-    const year = params.year;
-    const prevYear = +params.year - 1;
-    const nextYear = +params.year + 1;
+    const year = params.year[0];
+    const month = params.year[1];
+    const prevYear = +year - 1;
+    const nextYear = +year + 1;
     const minYear = getMinYear();
     const maxYear = getMaxYear();
 
@@ -17,6 +19,14 @@ export async function getStaticProps({ params }) {
         return {
             notFound: true,
         };
+    }
+
+    if(month) {
+        if(month.length !== 2) {
+            return {
+                notFound: true,
+            };
+        }
     }
 
     return {
