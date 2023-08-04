@@ -4,7 +4,6 @@ import utilStyles from '../../styles/utils.module.css';
 import { getFilteredPostsData, getAllYearsForPaths, getMinYear, getMaxYear } from "../../lib/posts";
 import Link from 'next/link';
 import BlogPosts from '../../components/blogposts';
-import { withRouter } from 'next/router'
 
 export async function getStaticProps({ params }) {
     const filteredPostData = await getFilteredPostsData(params.year);
