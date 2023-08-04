@@ -2,7 +2,7 @@
 title: "Old Star Wars Site Updates - Left Menu"
 date: "2023-07-18"
 prevArticle: '2023-07-06_Old-Star-Wars-Site-Updates'
-nextArticle: ''
+nextArticle: '2023-08-04_Old-Star-Wars-Site-Updates-Image-Dialog'
 tags: Star Wars - Website - JavaScript
 ---
 The next part of the site that I tackled was the menu on the left hand side of the site. The original implementation used a JavaScript file to ```document.write()``` the urls of each page of the site. I did it this way becaue, back in the day, there was no easy way to create reusable code on multiple pages. So the original way to add the menu to each page was to copy and paste to each HTML file. This meant that each change to the menu needed to be updated on each HTML file. The JavaScript file (originally called left.js) was a way to add the menu items to each page but to have one place to make any updates.
