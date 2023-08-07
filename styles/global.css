@@ -45,3 +45,9 @@ nav ul {
 code {
   background-color: #eee;
 }
+
+pre:has(code) {
+  overflow: auto;
+  background-color: #eee;
+  padding: .5em;
+}
