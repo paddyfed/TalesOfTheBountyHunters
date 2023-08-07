@@ -18,6 +18,7 @@
 # misc
 .DS_Store
 /.vscode/
+Corel Auto-Preserve
 
 # debug
 npm-debug.log*
