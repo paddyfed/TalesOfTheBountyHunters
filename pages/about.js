@@ -7,7 +7,7 @@ export default function About() {
 
     const title = `${siteTitle} : About`
     return (
-        <Layout about>
+        <Layout>
             <Head>
                 <title>{title}</title>
             </Head>
