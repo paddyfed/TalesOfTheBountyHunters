@@ -78,73 +78,46 @@ const months = [
   "December",
 ];
 
+const styleClassses = {
+  2021: styles.c2021,
+  2022: styles.c2022,
+  2023: styles.c2023,
+  2024: styles.c2024,
+  2025: styles.c2025,
+  2026: styles.c2026,
+};
+
 export function PaymentsBuildBlocks() {
   const n = new Date();
   const result = payments.map((x) => {
     const d = new Date(x.payDate);
 
-    return (
-      <article className={styles.main}>
+    if (d > n) {
+      return (
         <section
           id={x.number}
-          className={`c${d.getFullYear()} ${styles.section}`}
+          className={`${styles.section} ${styleClassses[d.getFullYear()]}`}
         >
           <div>{x.number}</div>
           <div className={`${styles.date}`}>
             {months[d.getMonth()]} {d.getFullYear()}
           </div>
         </section>
-      </article>
-    );
+      );
+    } else {
+      return (
+        <section
+          id={x.number}
+          className={`${styles.section}  ${styleClassses[d.getFullYear()]}`}
+        >
+          <div className={`${styles.done}`}>&times;</div>
+          <div className={`${styles.date}`}>
+            {months[d.getMonth()]} {d.getFullYear()}
+          </div>
+        </section>
+      );
+    }
   });
 
-  //   <section id="
-  //       obj.payments[i].number
-  //        class="c
-  //       d.getFullYear()
-  //       "><div>
-  //       obj.payments[i].number
-  //       </div><div class="date">
-  //       months[d.getMonth()]
-  //       " "
-  //       d.getFullYear()
-  //       "</div></section>;
-
   return result;
-  //   for (let i = 0; i < payments.length; i++) {
-  //     let d = new Date(payments[i].payDate);
-  //     if (d > n) {
-  //       return (
-  //         <section>
-  //           {payments[i].payDate} {payments.length} {i}
-  //         </section>
-  //       );
-  //     }
-  //     else
-  //   }
 }
-//   payments.map()
-//   let string = "";
-//   string =
-//     "<section id="
-//     obj.payments[i].number
-//      class="c
-//     d.getFullYear()
-//     "><div>
-//     obj.payments[i].number
-//     </div><div class="date">
-//     months[d.getMonth()]
-//     " "
-//     d.getFullYear()
-//     "</div></section>";
-// } else {
-//   string =
-//     "<section id="
-//     obj.payments[i].number
-//      class="done c
-//     d.getFullYear()
-//     "><div>&times;</div><div class="date">
-//     months[d.getMonth()]
-//     " "
-//     d.getFullYear()
-//     "</div></section>";
