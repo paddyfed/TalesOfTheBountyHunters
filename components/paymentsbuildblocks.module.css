@@ -1,0 +1,59 @@
+.main {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.section {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  position: relative;
+
+  border: 1px solid #555;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 10rem;
+  height: 10rem;
+  margin-top: 1rem;
+}
+
+.done {
+  font-size: 5em;
+}
+
+.date {
+  font-size: 1rem;
+  position: absolute;
+  bottom: 1rem;
+}
+
+.c2021 {
+  background: red;
+  color: #eee;
+}
+
+.c2022 {
+  background: orange;
+  color: #555;
+}
+
+.c2023 {
+  background: yellow;
+  color: #555;
+}
+.c2024 {
+  background: green;
+  color: #eee;
+}
+.c2025 {
+  background: blue;
+  color: #eee;
+}
+.c2026 {
+  background: purple;
+  color: #eee;
+}
