@@ -87,10 +87,10 @@ const styleClassses = {
   2026: styles.c2026,
 };
 
-export function PaymentsBuildBlocks() {
-  const n = new Date();
+export function PaymentsBuildBlocks({ today }) {
   const result = payments.map((x) => {
     const d = new Date(x.payDate);
+    const n = new Date(today);
 
     if (d > n) {
       return (
