@@ -96,6 +96,7 @@ export function PaymentsBuildBlocks({ today }) {
       return (
         <section
           id={x.number}
+          key={x.number}
           className={`${styles.section} ${styleClassses[d.getFullYear()]}`}
         >
           <div>{x.number}</div>
@@ -108,6 +109,7 @@ export function PaymentsBuildBlocks({ today }) {
       return (
         <section
           id={x.number}
+          key={x.number}
           className={`${styles.section}  ${styleClassses[d.getFullYear()]}`}
         >
           <div className={`${styles.done}`}>&times;</div>
