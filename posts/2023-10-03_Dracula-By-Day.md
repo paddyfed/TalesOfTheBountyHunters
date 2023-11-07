@@ -2,7 +2,7 @@
 title: "Dracula by Day"
 date: "2023-10-03"
 prevArticle: "2023-08-04_Old-Star-Wars-Site-Updates-Image-Dialog"
-nextArticle: ""
+nextArticle: "2023-11-07_Star-Wars-Bookcase"
 tags: Website - JavaScript
 ---
 
