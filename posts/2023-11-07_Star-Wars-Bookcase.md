@@ -15,4 +15,8 @@ It's basic at the minute but I hope to someday take a scan of the book spines so
 
 Some of the Canon books I haven't bought yet so I would like to indicate that in some way and I want to include the Star Wars TV shows in the list.
 
+**Update**
+
+The deployment has worked now. The issue was the error logs weren't being shown so I couldn't see what the issue was. When the logs were finally fixed I could see that it was a data fetch issue with the API. So I had to return to using the old API URL, deploy the project and then update to the newly built API routes and deploy a second time.
+
 Paddy.
