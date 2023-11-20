@@ -2,7 +2,7 @@
 title: "Star Wars Bookcase"
 date: "2023-11-07"
 prevArticle: "2023-10-03_Dracula-By-Day"
-nextArticle: ""
+nextArticle: "2023-11-19_A-Rugby-World-Cup-4-Nations"
 tags: Star Wars - Website - JavaScript
 ---
 
