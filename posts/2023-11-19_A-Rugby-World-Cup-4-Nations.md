@@ -67,12 +67,12 @@ Ireland complete their tournament with a disappointing loss to New Zealand, scor
 
 **15th October 2023**
 
-The penultimate match ends with a narrow win for South Africa and with 4 tries scored it leaves them with a chance to pip Ireland to the title with either a bonus point win against New Zealand or any win by 11 points. France end with a losing bonus point and a final tournament total of 5 points.
+The penultimate match ends with a narrow win for South Africa and with 4 tries scored, it leaves them with a chance to pip Ireland to the title with either a bonus point win against New Zealand or any win by 11 points. France end with a losing bonus point and a final tournament total of 5 points.
 
 | Pos | Team         | Pld | W   | D   | L   | F   | A   | Diff | Tries | BP  | Pts |
 | --- | ------------ | --- | --- | --- | --- | --- | --- | ---- | ----- | --- | --- |
 | 1   | Ireland      | 3   | 2   | 0   | 1   | 69  | 55  | 14   | 8     | 2   | 10  |
-| 2   | South Africa | 2   | 1   | 0   | 1   | 37  | 41  | -4   | 5     | 1   | 6   |
+| 2   | South Africa | 2   | 1   | 0   | 1   | 37  | 41  | -4   | 5     | 2   | 6   |
 | 3   | France       | 3   | 1   | 0   | 2   | 74  | 74  | 0    | 6     | 1   | 5   |
 | 4   | New Zealand  | 2   | 1   | 0   | 1   | 41  | 51  | -10  | 5     | 0   | 4   |
 
@@ -85,7 +85,7 @@ The tournament ends with a tense match between the southern hemisphere giants. S
 | Pos | Team         | Pld | W   | D   | L   | F   | A   | Diff | Tries | BP  | Pts |
 | --- | ------------ | --- | --- | --- | --- | --- | --- | ---- | ----- | --- | --- |
 | 1   | Ireland      | 3   | 2   | 0   | 1   | 69  | 55  | 14   | 8     | 2   | 10  |
-| 2   | South Africa | 3   | 2   | 0   | 1   | 49  | 52  | -3   | 5     | 1   | 10  |
+| 2   | South Africa | 3   | 2   | 0   | 1   | 49  | 52  | -3   | 5     | 2   | 10  |
 | 3   | France       | 3   | 1   | 0   | 2   | 74  | 74  | 0    | 6     | 1   | 5   |
 | 4   | New Zealand  | 3   | 1   | 0   | 2   | 52  | 63  | -11  | 6     | 1   | 5   |
 
