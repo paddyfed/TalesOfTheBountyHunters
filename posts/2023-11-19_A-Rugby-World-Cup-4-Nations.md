@@ -109,7 +109,7 @@ Ramos for France is the runaway winner of the highest scorer with 44 out of 74 p
 | Aki (Ireland)              | 1     | 0    | 0    | 0          | 5             |
 | Arendse (South Africa)     | 1     | 0    | 0    | 0          | 5             |
 | B Barrett (New Zealand)    | 1     | 0    | 0    | 0          | 5             |
-| Byrne (Ireland)            | 0     | 1    | 1    | 5          | 0             |
+| Byrne (Ireland)            | 0     | 1    | 1    | 0          | 5             |
 | de Allende (South Africa)  | 1     | 0    | 0    | 0          | 5             |
 | Etzebeth (South Africa)    | 1     | 0    | 0    | 0          | 5             |
 | Fainga'anuku (New Zealand) | 1     | 0    | 0    | 0          | 5             |
