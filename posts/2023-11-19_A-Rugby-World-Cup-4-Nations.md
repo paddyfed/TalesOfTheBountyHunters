@@ -18,7 +18,7 @@ First we have to deal with the fact that Ireland did not play France so I've tak
 A 4-try win for Ireland gives them a great start in the competition and a full 5 points. No bonus points for France leaves them at the bottom of the table.
 
 | Pos | Team         | Pld | W   | D   | L   | PF  | PA  | Diff | Tries | BP  | Pts |
-| :-- | :----------- | :-- | :-- | :-- | :-- | :-- | :-- | :--- | :---- | :-- | :-- |
+| --- | ------------ | --- | --- | --- | --- | --- | --- | ---- | ----- | --- | --- |
 | 1   | Ireland      | 1   | 1   | 0   | 0   | 32  | 19  | 13   | 4     | 1   | 5   |
 | 2   | New Zealand  | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0     | 0   | 0   |
 | 3   | South Africa | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0     | 0   | 0   |
@@ -31,7 +31,7 @@ A 4-try win for Ireland gives them a great start in the competition and a full 5
 A seven month wait until the next match sees France get their first points on the board. With only two tries, there's no bonus points on offer here. New Zealand had two tries of their own but couldn't close the gap for a losing bonus point.
 
 | Pos | Team         | Pld | W   | D   | L   | F   | A   | Diff | Tries | BP  | Pts |
-| :-- | :----------- | :-- | :-- | :-- | :-- | :-- | :-- | :--- | :---- | :-- | :-- |
+| --- | ------------ | --- | --- | --- | --- | --- | --- | ---- | ----- | --- | --- |
 | 1   | Ireland      | 1   | 1   | 0   | 0   | 32  | 19  | 13   | 4     | 1   | 5   |
 | 2   | France       | 2   | 1   | 0   | 1   | 46  | 45  | 1    | 3     | 0   | 4   |
 | 3   | South Africa | 0   | 0   | 0   | 0   | 0   | 0   | 0    | 0     | 0   | 0   |
@@ -44,7 +44,7 @@ A seven month wait until the next match sees France get their first points on th
 Ireland convert their second win of the competition with a close run match with South Africa. The Boks keep the score within 7 so come away with a losing bonus point.
 
 | Pos | Team         | Pld | W   | D   | L   | F   | A   | Diff | Tries | BP  | Pts |
-| :-- | :----------- | :-- | :-- | :-- | :-- | :-- | :-- | :--- | :---- | :-- | :-- |
+| --- | ------------ | --- | --- | --- | --- | --- | --- | ---- | ----- | --- | --- |
 | 1   | Ireland      | 2   | 2   | 0   | 0   | 45  | 27  | 18   | 5     | 1   | 9   |
 | 2   | France       | 2   | 1   | 0   | 1   | 46  | 45  | 1    | 3     | 0   | 4   |
 | 3   | South Africa | 1   | 0   | 0   | 1   | 8   | 13  | -5   | 1     | 1   | 1   |
@@ -57,7 +57,7 @@ Ireland convert their second win of the competition with a close run match with 
 Ireland complete their tournament with a disappointing loss to New Zealand, scoring three further tries. A losing bonus point brings their final tournament total to 10 points. Three tries for New Zealand gives them their first points but still no bonus.
 
 | Pos | Team         | Pld | W   | D   | L   | F   | A   | Diff | Tries | BP  | Pts |
-| :-- | :----------- | :-- | :-- | :-- | :-- | :-- | :-- | :--- | :---- | :-- | :-- |
+| --- | ------------ | --- | --- | --- | --- | --- | --- | ---- | ----- | --- | --- |
 | 1   | Ireland      | 3   | 2   | 0   | 1   | 69  | 55  | 14   | 8     | 2   | 10  |
 | 2   | France       | 2   | 1   | 0   | 1   | 46  | 45  | 1    | 3     | 0   | 4   |
 | 3   | New Zealand  | 2   | 1   | 0   | 1   | 41  | 51  | -10  | 5     | 0   | 4   |
@@ -70,7 +70,7 @@ Ireland complete their tournament with a disappointing loss to New Zealand, scor
 The penultimate match ends with a narrow win for South Africa and with 4 tries scored it leaves them with a chance to pip Ireland to the title with either a bonus point win against New Zealand or any win by 11 points. France end with a losing bonus point and a final tournament total of 5 points.
 
 | Pos | Team         | Pld | W   | D   | L   | F   | A   | Diff | Tries | BP  | Pts |
-| :-- | :----------- | :-- | :-- | :-- | :-- | :-- | :-- | :--- | :---- | :-- | :-- |
+| --- | ------------ | --- | --- | --- | --- | --- | --- | ---- | ----- | --- | --- |
 | 1   | Ireland      | 3   | 2   | 0   | 1   | 69  | 55  | 14   | 8     | 2   | 10  |
 | 2   | South Africa | 2   | 1   | 0   | 1   | 37  | 41  | -4   | 5     | 1   | 6   |
 | 3   | France       | 3   | 1   | 0   | 2   | 74  | 74  | 0    | 6     | 1   | 5   |
@@ -83,7 +83,7 @@ The penultimate match ends with a narrow win for South Africa and with 4 tries s
 The tournament ends with a tense match between the southern hemisphere giants. South Africa won by the smallest margin, which may have won them the World Cup, but didn't give them enough to overtake Ireland in the table. New Zealand remain bottom on points difference despite the losing bonus point.
 
 | Pos | Team         | Pld | W   | D   | L   | F   | A   | Diff | Tries | BP  | Pts |
-| :-- | :----------- | :-- | :-- | :-- | :-- | :-- | :-- | :--- | :---- | :-- | :-- |
+| --- | ------------ | --- | --- | --- | --- | --- | --- | ---- | ----- | --- | --- |
 | 1   | Ireland      | 3   | 2   | 0   | 1   | 69  | 55  | 14   | 8     | 2   | 10  |
 | 2   | South Africa | 3   | 2   | 0   | 1   | 49  | 52  | -3   | 5     | 1   | 10  |
 | 3   | France       | 3   | 1   | 0   | 2   | 74  | 74  | 0    | 6     | 1   | 5   |
@@ -93,43 +93,43 @@ The tournament ends with a tense match between the southern hemisphere giants. S
 
 Ramos for France is the runaway winner of the highest scorer with 44 out of 74 points for France. Sexton, Pollard and Mo'unga round out the top four places. For try scorers there was a good spread of players with Baille, Kolbe, Penaud, Savea, and Tele'a all scoring twice.
 
-| Player (Team)                 | Tries | Conv | Pens | Drop Goals | Points Scored |
-| :---------------------------- | :---- | :--- | :--- | :--------- | :------------ |
-| Ramos (France)                | 0     | 4    | 11   | 1          | 44            |
-| Sexton (Ireland)              | 0     | 5    | 3    | 0          | 19            |
-| Pollard (South Africa)        | 0     | 1    | 5    | 0          | 17            |
-| Mo'unga (New Zealand)         | 0     | 1    | 4    | 0          | 14            |
-| Baille (France)               | 2     | 0    | 0    | 0          | 10            |
-| Kolbe (South Africa)          | 2     | 0    | 0    | 0          | 10            |
-| Penaud (France)               | 2     | 0    | 0    | 0          | 10            |
-| Savea (New Zealand)           | 2     | 0    | 0    | 0          | 10            |
-| Tele'a (New Zealand)          | 2     | 0    | 0    | 0          | 10            |
-| J Barrett (New Zealand)       | 0     | 1    | 2    | 0          | 8             |
-| Libbok (South Africa)         | 0     | 2    | 1    | 0          | 7             |
-| Aki (Ireland)                 | 1     | 0    | 0    | 0          | 5             |
-| Arendse (South Africa)        | 1     | 0    | 0    | 0          | 5             |
-| B Barrett (New Zealand)       | 1     | 0    | 0    | 0          | 5             |
-| Byrne (Ireland)               | 0     | 1    | 1    | 5          | 0             |
-| de Allende (South Africa)     | 1     | 0    | 0    | 0          | 5             |
-| Etzebeth (South Africa)       | 1     | 0    | 0    | 0          | 5             |
-| Fainga'anuku (New Zealand)    | 1     | 0    | 0    | 0          | 5             |
-| Hansen (Ireland)              | 1     | 0    | 0    | 0          | 5             |
-| Jaminet (France)              | 1     | 0    | 0    | 0          | 5             |
-| Jamison Gibson-Park (Ireland) | 1     | 0    | 0    | 0          | 5             |
-| Jordan (New Zealand)          | 1     | 0    | 0    | 0          | 5             |
-| Keenan (Ireland)              | 1     | 0    | 0    | 0          | 5             |
-| Lowe (Ireland)                | 1     | 0    | 0    | 0          | 5             |
-| Mauvaka (France)              | 1     | 0    | 0    | 0          | 5             |
-| Porter (Ireland)              | 1     | 0    | 0    | 0          | 5             |
-| Ringrose (Ireland)            | 1     | 0    | 0    | 0          | 5             |
-| Crowley (Ireland)             | 0     | 0    | 1    | 0          | 3             |
+| Player (Team)              | Tries | Conv | Pens | Drop Goals | Points Scored |
+| -------------------------- | ----- | ---- | ---- | ---------- | ------------- |
+| Ramos (France)             | 0     | 4    | 11   | 1          | 44            |
+| Sexton (Ireland)           | 0     | 5    | 3    | 0          | 19            |
+| Pollard (South Africa)     | 0     | 1    | 5    | 0          | 17            |
+| Mo'unga (New Zealand)      | 0     | 1    | 4    | 0          | 14            |
+| Baille (France)            | 2     | 0    | 0    | 0          | 10            |
+| Kolbe (South Africa)       | 2     | 0    | 0    | 0          | 10            |
+| Penaud (France)            | 2     | 0    | 0    | 0          | 10            |
+| Savea (New Zealand)        | 2     | 0    | 0    | 0          | 10            |
+| Tele'a (New Zealand)       | 2     | 0    | 0    | 0          | 10            |
+| J Barrett (New Zealand)    | 0     | 1    | 2    | 0          | 8             |
+| Libbok (South Africa)      | 0     | 2    | 1    | 0          | 7             |
+| Aki (Ireland)              | 1     | 0    | 0    | 0          | 5             |
+| Arendse (South Africa)     | 1     | 0    | 0    | 0          | 5             |
+| B Barrett (New Zealand)    | 1     | 0    | 0    | 0          | 5             |
+| Byrne (Ireland)            | 0     | 1    | 1    | 5          | 0             |
+| de Allende (South Africa)  | 1     | 0    | 0    | 0          | 5             |
+| Etzebeth (South Africa)    | 1     | 0    | 0    | 0          | 5             |
+| Fainga'anuku (New Zealand) | 1     | 0    | 0    | 0          | 5             |
+| Hansen (Ireland)           | 1     | 0    | 0    | 0          | 5             |
+| Jaminet (France)           | 1     | 0    | 0    | 0          | 5             |
+| Gibson-Park (Ireland)      | 1     | 0    | 0    | 0          | 5             |
+| Jordan (New Zealand)       | 1     | 0    | 0    | 0          | 5             |
+| Keenan (Ireland)           | 1     | 0    | 0    | 0          | 5             |
+| Lowe (Ireland)             | 1     | 0    | 0    | 0          | 5             |
+| Mauvaka (France)           | 1     | 0    | 0    | 0          | 5             |
+| Porter (Ireland)           | 1     | 0    | 0    | 0          | 5             |
+| Ringrose (Ireland)         | 1     | 0    | 0    | 0          | 5             |
+| Crowley (Ireland)          | 0     | 0    | 1    | 0          | 3             |
 
 ## Fair Play Table
 
 Ireland did not fall foul of the Referee cards in any of the matches. New Zealand ended up with the most penalties.
 
 | Team         | Yellow Cards | Red Cards |
-| :----------- | :----------- | :-------- |
+| ------------ | ------------ | --------- |
 | Ireland      | 0            | 0         |
 | France       | 1            | 0         |
 | South Africa | 3            | 0         |
