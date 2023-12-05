@@ -2,7 +2,7 @@
 title: "Old Star Wars Site Updates - Image Dialog"
 date: "2023-08-04"
 prevArticle: "2023-07-18_Old-Star-Wars-Site-Updates-Left-Menu"
-nextArticle: "2023-10-03_Dracula-By-Day"
+nextArticle: "2023-09-01_Solar-Update-August-2023"
 tags: Star Wars - Website - JavaScript
 ---
 
