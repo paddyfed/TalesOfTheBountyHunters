@@ -1,8 +1,8 @@
 ---
 title: "Dracula by Day"
 date: "2023-10-03"
-prevArticle: "2023-09-01_Solar-Update-August-2023"
-nextArticle: "2023-11-07_Star-Wars-Bookcase"
+prevArticle: "2023-10-01_Solar-Update-September-2023"
+nextArticle: "2023-11-01_Solar-Update-October-2023"
 tags: Website - JavaScript
 ---
 
