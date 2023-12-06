@@ -3,7 +3,7 @@ title: "Solar Update - September 2023"
 date: "2023-10-01"
 prevArticle: "2023-09-01_Solar-Update-August-2023"
 nextArticle: "2023-10-03_Dracula-By-Day"
-tags: Solar Panels
+tags: Solar Panels - Solar Update
 ---
 
 September was our first full month of generation and it was a good month in terms of generation (389 kWh) and export (125 kWh).

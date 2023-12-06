@@ -3,7 +3,7 @@ title: "Solar Update - October 2023"
 date: "2023-11-01"
 prevArticle: "2023-10-03_Dracula-By-Day"
 nextArticle: "2023-11-07_Star-Wars-Bookcase"
-tags: Solar Panels
+tags: Solar Panels - Solar Update
 ---
 
 We can see the days starting to draw in as the generation is down in October to 324kWh and export is way down to 40kWh.

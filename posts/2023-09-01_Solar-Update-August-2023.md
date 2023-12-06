@@ -3,7 +3,7 @@ title: "Solar Update - August 2023"
 date: "2023-09-01"
 prevArticle: "2023-08-04_Old-Star-Wars-Site-Updates-Image-Dialog"
 nextArticle: "2023-10-01_Solar-Update-September-2023"
-tags: Solar Panels
+tags: Solar Panels - Solar Update
 ---
 
 We recently got Solar Panels installed on the house and I've started to keep track of what we are generating and consuming. The panels were installed on the 24th August 2023 by [NRG](https://nrgpanel.ie/) without any fuss. They arrived around 1PM and were finished by 6PM and we were generating electricity from the panels by then.
