@@ -2,7 +2,7 @@
 title: "A Rugby World Cup 4 Nations"
 date: "2023-11-19"
 prevArticle: "2023-11-07_Star-Wars-Bookcase"
-nextArticle: ""
+nextArticle: "2023-12-06_Solar-Update-November-2023"
 tags: Rugby - World Cup - Ireland - France - New Zealand - South Africa - Six Nations - Four Nations
 ---
 
