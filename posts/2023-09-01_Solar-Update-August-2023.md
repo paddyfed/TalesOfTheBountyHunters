@@ -2,7 +2,7 @@
 title: "Solar Update - August 2023"
 date: "2023-09-01"
 prevArticle: "2023-08-04_Old-Star-Wars-Site-Updates-Image-Dialog"
-nextArticle: "2023-10-03_Dracula-By-Day"
+nextArticle: "2023-10-01_Solar-Update-September-2023"
 tags: Solar Panels
 ---
 
