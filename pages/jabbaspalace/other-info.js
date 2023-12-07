@@ -71,7 +71,7 @@ export default function OtherInfo() {
       <ul>
         <b>Aliens</b>
         <ul>
-          <a href="#monks">B'ommar Monks</a>
+          <a href="#monks">B’omarr Monks</a>
         </ul>
         <ul>
           <a href="#anzati">Anzati</a>
@@ -157,7 +157,7 @@ export default function OtherInfo() {
       <h4>
         <a name="palace">Jabba's Palace</a>
       </h4>
-      The Tatooine home of Jabba the Hutt. Once owned by the B'ommar Monks,
+      The Tatooine home of Jabba the Hutt. Once owned by the B’omarr Monks,
       Jabba took over the palace and ran his criminal empire from there. It is
       full of assassins, bounty hunters and slave girls all of whom work for
       Jabba or spy for someone else.
@@ -196,7 +196,7 @@ export default function OtherInfo() {
       door on top of the creature.
       <h3>Aliens</h3>
       <h4>
-        <a name="monks">B'ommar Monks</a>
+        <a name="monks">B’omarr Monks</a>
       </h4>
       The original inhabitants of Jabba's palace. They now live in the lower
       levels of the palace, away from the unsavoury friends of Jabba. The monks'

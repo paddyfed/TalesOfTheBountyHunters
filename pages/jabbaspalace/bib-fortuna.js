@@ -22,7 +22,7 @@ export default function BibFortuna() {
       <p>
         <b>Co-Conspirators:</b>
         <br />
-        B'ommar Monks, Nat Secura, other spies inside the palace
+        B’omarr Monks, Nat Secura, other spies inside the palace
       </p>
       <p>
         <b>Action Taken:</b>
@@ -35,7 +35,7 @@ export default function BibFortuna() {
       Tatooine and soon became Jabba's Major-domo or right-hand man.
       <p>
         Bib was not happy with his situation. He longed to get rid of Jabba and
-        take over his empire. He began conversing with the B'ommar monks in the
+        take over his empire. He began conversing with the B’omarr monks in the
         palace and planned the demise of the Hutt. He constantly had to protect
         Nat from Jabba, even going as far as letting the monks remove Nat's br
         /ain and letting Jabba feed the now empty body to the Rancor.
@@ -57,7 +57,7 @@ export default function BibFortuna() {
       Bib never got the chance to use his Thermal detonator before Luke blew up
       the barge. Instead he left the barge on his speeder and made his way back
       to the palace, expecting to take over Jabba's empire as planned. When he
-      got there, however, the B'ommar Monks were waiting for him.
+      got there, however, the B’omarr Monks were waiting for him.
       <p>
         His br /ain was forcibly removed and placed in a nutrient jar. After a
         while he and Nat got br /ain walkers and began looking for cloning

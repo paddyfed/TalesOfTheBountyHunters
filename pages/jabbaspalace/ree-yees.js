@@ -66,7 +66,7 @@ export default function ReeYees() {
       </p>
       <p>
         After becoming drunk, Ree-Yees made his way, accidentally, to the
-        B'ommar Monks part of the palace, deep underground. Here he met with one
+        B’omarr Monks part of the palace, deep underground. Here he met with one
         of the monks and had a vision. He saw a great explosion out in the
         desert. He believed this was the monk telling him he was destined to
         kill Jabba. He was no longer concerned about who stole the detonator

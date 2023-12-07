@@ -65,7 +65,7 @@ export default function Tessk() {
       <p>
         He had everything set. A bomb was placed on the sail barge and Tessk was
         ready to sell Jabba's criminal businesses to Lady Valarian while he kept
-        the clean ones. However the B'ommar monks warned him that his plan would
+        the clean ones. However the B’omarr monks warned him that his plan would
         fail.
       </p>
       <p>
@@ -93,7 +93,7 @@ export default function Tessk() {
           align="RIGHT"
         />
         When he got back to the palace he found it was relatively deserted. The
-        B'ommar monks came towards him and forcibly removed his brain, placing
+        B’omarr monks came towards him and forcibly removed his brain, placing
         it in a nutrient jar. He remained there for a while but he received a
         brain walker so that he could move around the palace. He was finally
         free from Jabba.

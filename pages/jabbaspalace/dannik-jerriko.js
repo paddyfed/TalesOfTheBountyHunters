@@ -1,4 +1,7 @@
 import Layout from "./layout";
+import DannikPic from "../../public/images/Jabba_Dannik_Pic.webp";
+import DannikCantina from "../../public/images/Jabba_Dannik_Cantina.webp";
+import Image from "next/image";
 
 export default function DannikJerriko() {
   return (
@@ -54,12 +57,10 @@ export default function DannikJerriko() {
         years previously.
       </p>
       <p>
-        <img
-          src="dannik_cantina.jpg"
-          width="150"
-          height="150"
+        <Image
           alt="Dannik Jerriko in the Mos Eisley cantina"
-          align="LEFT"
+          src={DannikCantina}
+          width={300}
         />
         He watched Luke then and when he came to the palace he watched him
         again, secretly craving for his soup. While in the palace he watched
@@ -89,13 +90,7 @@ export default function DannikJerriko() {
       <p>
         <b>Outcome:</b>
         <br />
-        <img
-          src="dannik_pic.jpg"
-          width="150"
-          height="150"
-          alt="A picture of Dannik Jerriko"
-          align="RIGHT"
-        />
+        <Image alt="A picture of Dannik Jerriko" src={DannikPic} width={300} />
         When Dannik realised that they weren't coming back he went on a killing
         spree in the palace. After killing many of the remaining occupants of
         the palace he became a wanted man himself. The hunter had become the
@@ -112,7 +107,7 @@ export default function DannikJerriko() {
       </p>
       <p>Dannik's plot was destined to failure because of this.</p>
       <p>
-        <font SIZE="2">
+        <font size="2">
           <a name="soup">
             <font color="#7D7DFF">
               * <u>Soup</u>
