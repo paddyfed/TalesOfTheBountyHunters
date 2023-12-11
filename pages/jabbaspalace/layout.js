@@ -44,7 +44,11 @@ export default function Layout({ children }) {
           }
         `}
       </style>
+
       <main className={jabbastyles.main}>
+        <div className={jabbastyles.mainbanner}>
+          The Plots of Jabba's Palace
+        </div>
         <nav className={jabbastyles.leftmenu}>
           <h1>Menu</h1>
           <ul>

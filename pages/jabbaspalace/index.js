@@ -3,6 +3,9 @@ import Head from "next/head";
 import Image from "next/image";
 import jabbastyles from "./jabbastyles.module.css";
 import Link from "next/link";
+import JabbaPalace from "../../public/images/Jabbas_Palace_road.webp";
+import JabbaTheHutt from "../../public/images/Jabba_The_Hutt.webp";
+import JabbaSailBarge from "../../public/images/Jabba_Sail_Barge.webp";
 
 export default function JabbasPalace() {
   const title = "Jabba's Palace";
@@ -13,10 +16,9 @@ export default function JabbasPalace() {
       </Head>
       <article>
         <Image
-          src="https://dummyimage.com/300"
+          src={JabbaPalace}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Jabba's Palace"
           className={jabbastyles.left}
         />
         <p>
@@ -36,10 +38,9 @@ export default function JabbasPalace() {
           traitors. The usual punishment being a trip to the Rancor pit.
         </p>
         <Image
-          src="https://dummyimage.com/300"
+          src={JabbaSailBarge}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Jabba's Sail Barge"
           className={jabbastyles.right}
         />
         <p>
@@ -60,10 +61,9 @@ export default function JabbasPalace() {
           related links to the official site are also supplied.
         </p>
         <Image
-          src="https://dummyimage.com/300"
+          src={JabbaTheHutt}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Jabba the Hutt"
           className={jabbastyles.left}
         />
         <p>
