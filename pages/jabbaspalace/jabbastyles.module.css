@@ -63,10 +63,12 @@
 .left {
   float: left;
   margin-right: 1em;
+  margin-bottom: 0.5em;
 }
 .right {
   float: right;
   margin-left: 1em;
+  margin-bottom: 0.5em;
 }
 
 .backtotop {

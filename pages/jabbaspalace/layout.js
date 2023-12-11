@@ -42,6 +42,11 @@ export default function Layout({ children }) {
           nav ul {
             display: block;
           }
+
+          hr {
+            width: 25%;
+            border: 1px solid black;
+          }
         `}
       </style>
 

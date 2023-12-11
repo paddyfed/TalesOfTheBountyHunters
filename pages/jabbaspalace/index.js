@@ -48,6 +48,7 @@ export default function JabbasPalace() {
           was surprised and unprepared for how this young man could affect him
           and his criminal empire...
         </p>
+        <hr />
         <p>
           This site is dedicated to some of those plots and conspirators in
           Jabba's palace who had dreams and aspirations of being rid of the Hutt
@@ -79,7 +80,7 @@ export default function JabbasPalace() {
           Twi'lek and they range from killing a Jedi Knight to stealing from the
           palace, even killing the Hutt himself.
         </p>
-
+        <hr />
         <p>
           Most of my information came from the books "Tales from Jabba's Palace"
           - Edited by Kevin J. Anderson and "Star Wars: The Essential Guide to
