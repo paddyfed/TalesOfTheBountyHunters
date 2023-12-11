@@ -49,3 +49,9 @@
   float: right;
   margin-left: 1em;
 }
+
+.backtotop {
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+}

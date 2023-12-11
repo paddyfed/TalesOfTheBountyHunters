@@ -1,9 +1,21 @@
 import Layout from "./layout";
 import Link from "next/link";
+import jabbastyles from "./jabbastyles.module.css";
+
+const isBrowser = () => typeof window !== "undefined"; //The approach recommended by Next.js
+
+function scrollToTop() {
+  if (!isBrowser()) return;
+  window.scrollTo({ top: 0, behavior: "smooth" });
+}
 
 export default function OtherInfo() {
   return (
     <Layout>
+      <button className={jabbastyles.backtotop} onClick={scrollToTop}>
+        Back To Top
+      </button>
+
       <h1>Additional Information</h1>
       <p>
         Here you will find some concise information on characters, locations and
