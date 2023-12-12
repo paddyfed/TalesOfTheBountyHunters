@@ -1,6 +1,8 @@
 import Layout from "./layout";
 import Image from "next/image";
 import jabbastyles from "./jabbastyles.module.css";
+import MaraJadeLiveAction from "../../public/images/Jabba_Mara_Jade_Live_Action.jpg";
+import MaraJadeLiveDancer from "../../public/images/Jabba_Mara_Jade_Dancer.webp";
 
 export default function MaraJade() {
   return (
@@ -26,10 +28,9 @@ export default function MaraJade() {
         <dt>Co-Conspirators</dt>
         <dd>The Emperor</dd>
         <Image
-          src="https://dummyimage.com/300"
+          src={MaraJadeLiveAction}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Mara Jade from the Customizable Card Game"
           className={jabbastyles.left}
         />
         <dt>Action Taken</dt>
@@ -66,10 +67,9 @@ export default function MaraJade() {
           Pit of Carkoon. Mara was left behind at the palace.
         </dd>
         <Image
-          src="https://dummyimage.com/300"
+          src={MaraJadeLiveDancer}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Mara Jade as Arica"
           className={jabbastyles.right}
         />
         <dt>Outcome</dt>
@@ -104,22 +104,6 @@ export default function MaraJade() {
           Karrde that she gained her experience as a fighter.
         </dd>
       </dl>
-
-      {/* <img
-        src="mara_pic.jpg"
-        width="150"
-        height="150"
-        alt="Mara Jade from the Customizable Card Game"
-        align="LEFT"
-      />
-
-      <img
-        src="mara_draw.gif"
-        width="150"
-        height="150"
-        alt="Mara Jade from a comic book"
-        align="RIGHT"
-      /> */}
     </Layout>
   );
 }

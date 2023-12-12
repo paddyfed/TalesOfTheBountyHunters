@@ -2,6 +2,8 @@ import Layout from "./layout";
 import Image from "next/image";
 import jabbastyles from "./jabbastyles.module.css";
 import Link from "next/link";
+import TesskPalace from "../../public/images/Jabba_Tessk_Luke.webp";
+import TesskPhoto from "../../public/images/Jabba_Tessk.webp";
 
 export default function Tessk() {
   return (
@@ -30,10 +32,9 @@ export default function Tessk() {
           Weequays
         </dd>
         <Image
-          src="https://dummyimage.com/300"
+          src={TesskPalace}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Tessk over the shoulder of Luke Skywalker"
           className={jabbastyles.left}
         />
         <dt>Action Taken</dt>
@@ -71,10 +72,9 @@ export default function Tessk() {
           before Luke blew it up.
         </dd>
         <Image
-          src="https://dummyimage.com/300"
+          src={TesskPhoto}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="A picture of Tessk"
           className={jabbastyles.right}
         />
         <dt>Outcome</dt>

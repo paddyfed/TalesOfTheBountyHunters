@@ -2,6 +2,8 @@ import Layout from "./layout";
 import Image from "next/image";
 import jabbastyles from "./jabbastyles.module.css";
 import Link from "next/link";
+import ReeYeesBarge from "../../public/images/Jabba_Ree_Yees_Barge.jpg";
+import ReeYeesPalace from "../../public/images/Jabba_Ree_Yees_Palace.webp";
 
 export default function ReeYees() {
   return (
@@ -29,10 +31,9 @@ export default function ReeYees() {
           The Empire, <Link href="/jabbaspalace/tessk">Tessk</Link>, Bobo
         </dd>
         <Image
-          src="https://dummyimage.com/300"
+          src={ReeYeesBarge}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Ree-Yees on Jabba's sail barge"
           className={jabbastyles.left}
         />
         <dt>Action Taken</dt>
@@ -83,10 +84,9 @@ export default function ReeYees() {
           demise at the Pit of Carkoon.
         </dd>
         <Image
-          src="https://dummyimage.com/300"
+          src={ReeYeesPalace}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Ree-Yees in Jabba's Palace"
           className={jabbastyles.right}
         />
         <dt>Outcome</dt>

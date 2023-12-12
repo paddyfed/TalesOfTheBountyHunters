@@ -1,6 +1,8 @@
 import Layout from "./layout";
 import Image from "next/image";
 import jabbastyles from "./jabbastyles.module.css";
+import BibBoushh from "../../public/images/Jabba_Bib_Fortuna_Boushh.jpg";
+import BibFortunaPalace from "../../public/images/Jabba_Bib_Fortuna.jpg";
 
 export default function BibFortuna() {
   return (
@@ -26,10 +28,9 @@ export default function BibFortuna() {
         <dt>Co-Conspirators</dt>
         <dd>B’omarr Monks, Nat Secura, other spies inside the palace</dd>
         <Image
-          src="https://dummyimage.com/300"
+          src={BibBoushh}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Bib Fortuna with the bounty hunter Boushh"
           className={jabbastyles.left}
         />
         <dt>Action Taken</dt>
@@ -62,10 +63,9 @@ export default function BibFortuna() {
           palace.
         </dd>
         <Image
-          src="https://dummyimage.com/300"
+          src={BibFortunaPalace}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Bib Fortuna in Jabba's Palace"
           className={jabbastyles.right}
         />
         <dt>Outcome</dt>
