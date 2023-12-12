@@ -85,6 +85,38 @@ export default function Layout({ children }) {
         <article className={jabbastyles.article}>{children}</article>
         <section className={jabbastyles.rightmenu}>
           <h1>Off Site Links</h1>
+          <nav>
+            <ul>
+              <li>
+                <Link href="https://www.starwars.com" target="_blank">
+                  StarWars.com
+                </Link>
+              </li>
+              <li>
+                <Link href="https://www.theforce.net" target="_blank">
+                  TheForce.net
+                </Link>
+              </li>
+              <li>
+                <strong>Star Wars Databank</strong>
+              </li>
+              <li>
+                <Link href="https://www.starwars.com/databank/tatooine">
+                  Tatooine
+                </Link>
+              </li>
+              <li>
+                <Link href="https://www.starwars.com/databank/jabba-the-hutt">
+                  Jabba the Hutt
+                </Link>
+              </li>
+              <li>
+                <Link href="https://www.starwars.com/databank/jabba-the-hutts-palace">
+                  Jabba's Palace
+                </Link>
+              </li>
+            </ul>
+          </nav>
         </section>
       </main>
     </>
