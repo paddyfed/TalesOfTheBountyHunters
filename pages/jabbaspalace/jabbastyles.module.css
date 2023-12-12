@@ -23,16 +23,6 @@
   align-items: center;
   text-shadow: 0.1em 0.1em 0.1em black;
 }
-/* .nav {
-  width: auto;
-  background-color: #dadada;
-  padding: 0.5em;
-  border-radius: ;
-}
-
-.navul {
-  display: block;
-} */
 
 .rightmenu {
   grid-row-start: 2;
@@ -55,11 +45,6 @@
   padding-right: 0.5em;
 }
 
-/* .left,
-.right {
-  margin-top: 1em;
-} */
-
 .left {
   float: left;
   margin-right: 1em;
@@ -75,4 +60,24 @@
   position: fixed;
   right: 2rem;
   bottom: 2rem;
+}
+
+/* Extra small devices (phones, 768px and down) */
+@media only screen and (max-width: 768px) {
+  .main {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    margin: 0.5em;
+  }
+
+  .rightmenu {
+    padding: 0.5em;
+    border-radius: 2em;
+  }
+
+  .leftmenu {
+    padding: 0.5em;
+    border-radius: 2em;
+  }
 }
