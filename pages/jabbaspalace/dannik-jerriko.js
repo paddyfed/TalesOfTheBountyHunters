@@ -8,6 +8,7 @@ import Link from "next/link";
 export default function DannikJerriko() {
   return (
     <Layout>
+      <h1>Dannik Jerriko</h1>
       <dl>
         <Image
           src="https://dummyimage.com/300"

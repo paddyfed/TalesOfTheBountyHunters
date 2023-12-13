@@ -7,6 +7,7 @@ import BibFortunaPalace from "../../public/images/Jabba_Bib_Fortuna.jpg";
 export default function BibFortuna() {
   return (
     <Layout>
+      <h1>Bib Fortuna</h1>
       <dl>
         <Image
           src="https://dummyimage.com/300"

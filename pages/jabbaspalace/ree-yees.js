@@ -8,6 +8,7 @@ import ReeYeesPalace from "../../public/images/Jabba_Ree_Yees_Palace.webp";
 export default function ReeYees() {
   return (
     <Layout>
+      <h1>Ree-Yees</h1>
       <dl>
         <Image
           src="https://dummyimage.com/300"

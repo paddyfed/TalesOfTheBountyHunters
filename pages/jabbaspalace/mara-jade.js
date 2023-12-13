@@ -7,6 +7,7 @@ import MaraJadeLiveDancer from "../../public/images/Jabba_Mara_Jade_Dancer.webp"
 export default function MaraJade() {
   return (
     <Layout>
+      <h1>Mara Jade</h1>
       <dl>
         <Image
           src="https://dummyimage.com/300"
@@ -89,7 +90,7 @@ export default function MaraJade() {
         </dd>
         <dd>
           After nine years of getting to know and trust Luke, Mara Jade married
-          him in an Ironic twist of fate.
+          him in an ironic twist of fate.
         </dd>
         <dt>My Opinion</dt>
         <dd>

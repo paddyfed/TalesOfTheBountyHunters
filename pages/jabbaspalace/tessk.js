@@ -8,6 +8,7 @@ import TesskPhoto from "../../public/images/Jabba_Tessk.webp";
 export default function Tessk() {
   return (
     <Layout>
+      <h1>Tessk</h1>
       <dl>
         <Image
           src="https://dummyimage.com/300"
