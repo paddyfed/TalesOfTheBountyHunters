@@ -1,13 +1,19 @@
-import Layout from "./layout";
+import Layout, { siteTitle } from "./layout";
 import Image from "next/image";
 import jabbastyles from "./jabbastyles.module.css";
 import BibBoushh from "../../public/images/Jabba_Bib_Fortuna_Boushh.jpg";
 import BibFortunaPalace from "../../public/images/Jabba_Bib_Fortuna.jpg";
 import BibFortunaFace from "../../public/images/Jabba_BibFortuna_Face.png";
+import Head from "next/head";
 
 export default function BibFortuna() {
+  const title = `${siteTitle} : Bib Fortuna`;
+
   return (
     <Layout>
+      <Head>
+        <title>{title}</title>
+      </Head>
       <h1>Bib Fortuna</h1>
       <dl>
         <Image

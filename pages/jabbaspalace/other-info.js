@@ -1,6 +1,7 @@
-import Layout from "./layout";
+import Layout, { siteTitle } from "./layout";
 import Link from "next/link";
 import jabbastyles from "./jabbastyles.module.css";
+import Head from "next/head";
 
 const isBrowser = () => typeof window !== "undefined"; //The approach recommended by Next.js
 
@@ -10,8 +11,13 @@ function scrollToTop() {
 }
 
 export default function OtherInfo() {
+  const title = `${siteTitle} : Additional Information`;
+
   return (
     <Layout>
+      <Head>
+        <title>{title}</title>
+      </Head>
       <button className={jabbastyles.backtotop} onClick={scrollToTop}>
         Back To Top
       </button>

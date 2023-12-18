@@ -1,14 +1,20 @@
-import Layout from "./layout";
+import Layout, { siteTitle } from "./layout";
 import Image from "next/image";
 import jabbastyles from "./jabbastyles.module.css";
 import Link from "next/link";
 import ReeYeesBarge from "../../public/images/Jabba_Ree_Yees_Barge.jpg";
 import ReeYeesPalace from "../../public/images/Jabba_Ree_Yees_Palace.webp";
 import ReeYeesFace from "../../public/images/Jabba_ReeYees_Face.png";
+import Head from "next/head";
 
 export default function ReeYees() {
+  const title = `${siteTitle} : Ree Yees`;
+
   return (
     <Layout>
+      <Head>
+        <title>{title}</title>
+      </Head>
       <h1>Ree-Yees</h1>
       <dl>
         <Image

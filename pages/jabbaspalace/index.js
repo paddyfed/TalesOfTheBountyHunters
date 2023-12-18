@@ -1,4 +1,4 @@
-import Layout from "./layout";
+import Layout, { siteTitle } from "./layout";
 import Head from "next/head";
 import Image from "next/image";
 import jabbastyles from "./jabbastyles.module.css";
@@ -8,11 +8,10 @@ import JabbaTheHutt from "../../public/images/Jabba_The_Hutt.webp";
 import JabbaSailBarge from "../../public/images/Jabba_Sail_Barge.webp";
 
 export default function JabbasPalace() {
-  const title = "Jabba's Palace";
   return (
     <Layout>
       <Head>
-        <title>{title}</title>
+        <title>{siteTitle}</title>
       </Head>
       <article>
         <Image

@@ -2,7 +2,7 @@ import Link from "next/link";
 import jabbastyles from "./jabbastyles.module.css";
 import Head from "next/head";
 
-const siteTitle = "The Plots  of Jabba's Palace";
+export const siteTitle = "The Plots of Jabba's Palace";
 
 export default function Layout({ children }) {
   return (
