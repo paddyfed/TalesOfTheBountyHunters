@@ -4,6 +4,7 @@ import jabbastyles from "./jabbastyles.module.css";
 import Link from "next/link";
 import TesskPalace from "../../public/images/Jabba_Tessk_Luke.webp";
 import TesskPhoto from "../../public/images/Jabba_Tessk.webp";
+import TesskFace from "../../public/images/Jabba_Tessk_Face.png";
 
 export default function Tessk() {
   return (
@@ -11,10 +12,9 @@ export default function Tessk() {
       <h1>Tessk</h1>
       <dl>
         <Image
-          src="https://dummyimage.com/300"
+          src={TesskFace}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Tessk"
           className={jabbastyles.right}
         />
         <dt>Name</dt>

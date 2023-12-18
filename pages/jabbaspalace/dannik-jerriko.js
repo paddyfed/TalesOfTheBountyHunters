@@ -1,6 +1,7 @@
 import Layout from "./layout";
 import DannikPic from "../../public/images/Jabba_Dannik_Pic.webp";
 import DannikCantina from "../../public/images/Jabba_Dannik_Cantina.webp";
+import DannikJerrikoFace from "../../public/images/Jabba_DannikJerriko_Face.png";
 import Image from "next/image";
 import jabbastyles from "./jabbastyles.module.css";
 import Link from "next/link";
@@ -11,10 +12,9 @@ export default function DannikJerriko() {
       <h1>Dannik Jerriko</h1>
       <dl>
         <Image
-          src="https://dummyimage.com/300"
+          src={DannikJerrikoFace}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Dannik Jerriko"
           className={jabbastyles.right}
         />
         <dt>Name</dt>

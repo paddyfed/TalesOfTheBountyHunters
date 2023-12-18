@@ -4,6 +4,7 @@ import jabbastyles from "./jabbastyles.module.css";
 import Link from "next/link";
 import ReeYeesBarge from "../../public/images/Jabba_Ree_Yees_Barge.jpg";
 import ReeYeesPalace from "../../public/images/Jabba_Ree_Yees_Palace.webp";
+import ReeYeesFace from "../../public/images/Jabba_ReeYees_Face.png";
 
 export default function ReeYees() {
   return (
@@ -11,10 +12,9 @@ export default function ReeYees() {
       <h1>Ree-Yees</h1>
       <dl>
         <Image
-          src="https://dummyimage.com/300"
+          src={ReeYeesFace}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Ree-Yees"
           className={jabbastyles.right}
         />
         <dt>Name</dt>

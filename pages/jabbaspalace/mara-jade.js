@@ -3,6 +3,7 @@ import Image from "next/image";
 import jabbastyles from "./jabbastyles.module.css";
 import MaraJadeLiveAction from "../../public/images/Jabba_Mara_Jade_Live_Action.jpg";
 import MaraJadeLiveDancer from "../../public/images/Jabba_Mara_Jade_Dancer.webp";
+import MaraJadeFace from "../../public/images/Jabba_MaraJade_Face.png";
 
 export default function MaraJade() {
   return (
@@ -10,10 +11,9 @@ export default function MaraJade() {
       <h1>Mara Jade</h1>
       <dl>
         <Image
-          src="https://dummyimage.com/300"
+          src={MaraJadeFace}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Mara Jade"
           className={jabbastyles.right}
         />
         <dt>Name</dt>

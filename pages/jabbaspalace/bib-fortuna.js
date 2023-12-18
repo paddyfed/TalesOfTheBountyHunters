@@ -3,6 +3,7 @@ import Image from "next/image";
 import jabbastyles from "./jabbastyles.module.css";
 import BibBoushh from "../../public/images/Jabba_Bib_Fortuna_Boushh.jpg";
 import BibFortunaPalace from "../../public/images/Jabba_Bib_Fortuna.jpg";
+import BibFortunaFace from "../../public/images/Jabba_BibFortuna_Face.png";
 
 export default function BibFortuna() {
   return (
@@ -10,10 +11,9 @@ export default function BibFortuna() {
       <h1>Bib Fortuna</h1>
       <dl>
         <Image
-          src="https://dummyimage.com/300"
+          src={BibFortunaFace}
           width={300}
-          height={300}
-          alt="dummy"
+          alt="Bib Fortuna"
           className={jabbastyles.right}
         />
         <dt>Name</dt>
