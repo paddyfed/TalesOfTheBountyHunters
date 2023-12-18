@@ -115,6 +115,9 @@ export default function Layout({ children }) {
                   Jabba's Palace
                 </Link>
               </li>
+              <li>
+                <Link href="/">Tales of the Bounty Hunters</Link>
+              </li>
             </ul>
           </nav>
         </section>
