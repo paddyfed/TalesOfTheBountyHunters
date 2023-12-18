@@ -2,7 +2,7 @@
 title: "Solar Update - November 2023"
 date: "2023-12-06"
 prevArticle: "2023-11-19_A-Rugby-World-Cup-4-Nations"
-nextArticle: ""
+nextArticle: "2023-12-18_Plots-Of-Jabbas-Palace"
 tags: Solar Panels - Solar Update
 ---
 
