@@ -73,3 +73,10 @@ th {
 td {
   padding: 0 0.2em;
 }
+
+/* Extra small devices (phones, 768px and down) */
+@media only screen and (max-width: 768px) {
+  nav ul {
+    gap: 0.5em;
+  }
+}

@@ -38,6 +38,9 @@ export default function Layout({ children, home }) {
               <li>
                 <Link href="/paymentsleft">Payments Left</Link>
               </li>
+              <li>
+                <Link href="/jabbaspalace">Jabba's Palace</Link>
+              </li>
             </ul>
           </nav>
           {home ? (

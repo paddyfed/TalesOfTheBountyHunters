@@ -1,0 +1,97 @@
+.main {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  grid-template-rows: auto 1fr;
+  column-gap: 2em;
+  row-gap: 1em;
+  margin: 0.5em;
+  background-color: #e4cfb8;
+}
+
+.mainbanner {
+  grid-column-start: 2;
+  background-image: url("../../public/images/Jabba_Main_Banner.png");
+  background-size: cover;
+  border-radius: 1em;
+  font-size: 3em;
+  font-weight: bold;
+  color: #e4cfb8;
+  opacity: 0.6;
+  padding-left: 0.5em;
+  height: 25vh;
+  display: flex;
+  align-items: center;
+  text-shadow: 0.1em 0.1em 0.1em black;
+}
+
+.rightmenu {
+  grid-row-start: 2;
+  background-color: #dadada;
+  padding: 0.5em;
+  border-radius: 0 2em 2em 0;
+}
+
+.leftmenu {
+  grid-row-start: 2;
+  background-color: #dadada;
+  padding: 0.5em;
+  border-radius: 2em 0 0 2em;
+}
+
+.article {
+  grid-row-start: 2;
+  background-color: #e2cbb1;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
+.left {
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 0.5em;
+}
+.right {
+  float: right;
+  margin-left: 1em;
+  margin-bottom: 0.5em;
+}
+
+.backtotop {
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+}
+
+/* Extra small devices (phones, 768px and down) */
+@media only screen and (max-width: 768px) {
+  .main {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    margin: 0.5em;
+  }
+
+  .rightmenu {
+    padding: 0.5em;
+    border-radius: 2em;
+  }
+
+  .leftmenu {
+    padding: 0.5em;
+    border-radius: 2em;
+  }
+
+  .left,
+  .right {
+    width: 100%;
+    height: 100%;
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0.5em;
+  }
+
+  .mainbanner {
+    font-size: 1.5em;
+  }
+}
