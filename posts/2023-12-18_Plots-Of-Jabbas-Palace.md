@@ -2,7 +2,7 @@
 title: "The Plots of Jabba's Palace"
 date: "2023-12-18"
 prevArticle: "2023-12-06_Solar-Update-November-2023"
-nextArticle: ""
+nextArticle: "2024-01-05_Solar-Update-December-2023"
 tags: Website - Jabba's Palace
 ---
 
