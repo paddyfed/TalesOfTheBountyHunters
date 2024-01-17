@@ -2,7 +2,7 @@
 title: "Solar Update - December 2023"
 date: "2024-01-05"
 prevArticle: "2023-12-18_Plots-Of-Jabbas-Palace"
-nextArticle: ""
+nextArticle: "2024-01-16_Christmas_Lights"
 tags: Solar Panels - Solar Update
 ---
 
