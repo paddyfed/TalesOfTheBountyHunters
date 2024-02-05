@@ -2,7 +2,7 @@
 title: "Christmas Lights"
 date: "2024-01-16"
 prevArticle: "2024-01-05_Solar-Update-December-2023"
-nextArticle: ""
+nextArticle: "2024-02-05_Solar-Update-January-2024"
 tags: Christmas - Christmas Lights
 ---
 
