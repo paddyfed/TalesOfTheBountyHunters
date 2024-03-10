@@ -2,7 +2,7 @@
 title: "Solar Update - January 2024"
 date: "2024-02-05"
 prevArticle: "2024-01-16_Christmas_Lights"
-nextArticle: ""
+nextArticle: "2024-03-10_Solar-Update-February-2024"
 tags: Solar Panels - Solar Update
 ---
 
