@@ -2,7 +2,7 @@
 title: "Solar Update - March 2024"
 date: "2024-04-09"
 prevArticle: "2024-03-10_Solar-Update-February-2024"
-nextArticle: ""
+nextArticle: "2024-05-01_Solar-Update-April-2024"
 tags: Solar Panels - Solar Update
 ---
 
