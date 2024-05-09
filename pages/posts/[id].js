@@ -1,12 +1,13 @@
-import Layout from '../../components/layout';
-import { getAllPostIds, getPostData } from '../../lib/posts';
-import Head from 'next/head';
-import TweetDateTime from '../../components/tweetdatetime';
-import Date from '../../components/date';
-import utilStyles from '../../styles/utils.module.css';
-import Link from 'next/link';
-import BlogTags from '../../components/blogtags';
-
+import Layout from "../../components/layout";
+import { getAllPostIds, getPostData } from "../../lib/posts";
+import Head from "next/head";
+import TweetDateTime from "../../components/tweetdatetime";
+import Date from "../../components/date";
+import utilStyles from "../../styles/utils.module.css";
+import Link from "next/link";
+import BlogTags from "../../components/blogtags";
+import UselessFacts from "../../components/uselessfacts";
+import TotalGeneratedExportedPerDayChart from "../../components/TotalGeneratedExportedPerDayChart";
 
 export async function getStaticProps({ params }) {
   const postData = await getPostData(params.id);
@@ -26,12 +27,14 @@ export async function getStaticPaths() {
 }
 
 export default function Post({ postData }) {
+  const chartData = {};
   return (
     <Layout>
       <Head>
         <title>{postData.title}</title>
       </Head>
-      {postData.title.startsWith('Tweet') ? (
+      <UselessFacts />
+      {postData.title.startsWith("Tweet") ? (
         // Tweets
         <>
           <article>
@@ -42,7 +45,8 @@ export default function Post({ postData }) {
             </div>
             <hr />
             <div className={utilStyles.lightText}>
-              {postData.retweets} Retweets {postData.likes} Likes</div>
+              {postData.retweets} Retweets {postData.likes} Likes
+            </div>
             <hr />
           </article>
         </>
@@ -53,21 +57,34 @@ export default function Post({ postData }) {
             <h1 className={utilStyles.headingXl}>{postData.title}</h1>
             <div className={utilStyles.lightText}>
               <Date dateString={postData.date} />
-
             </div>
             <BlogTags tagList={postData.tags} />
+            {postData.generated ? (
+              <TotalGeneratedExportedPerDayChart
+                startDate={postData.startDate}
+                endDate={postData.endDate}
+                generated={postData.generated}
+                exported={postData.exported}
+              />
+            ) : null}
             <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-
           </article>
         </>
       )}
-      
-      <div className={utilStyles.articleNavigation}>
-        {postData.prevArticle ? (<Link href={`/posts/${postData.prevArticle}`}>Previous</Link>) : (<span>Previous</span>)}
-        {<div>{postData.title}</div>}
-        {postData.nextArticle ? (<Link href={`/posts/${postData.nextArticle}`}>Next</Link>) : (<span>Next</span>)}
-      </div>
 
+      <div className={utilStyles.articleNavigation}>
+        {postData.prevArticle ? (
+          <Link href={`/posts/${postData.prevArticle}`}>Previous</Link>
+        ) : (
+          <span>Previous</span>
+        )}
+        {<div>{postData.title}</div>}
+        {postData.nextArticle ? (
+          <Link href={`/posts/${postData.nextArticle}`}>Next</Link>
+        ) : (
+          <span>Next</span>
+        )}
+      </div>
     </Layout>
   );
 }
