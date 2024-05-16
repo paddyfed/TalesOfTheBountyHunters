@@ -61,8 +61,8 @@ export default function Post({ postData }) {
             <BlogTags tagList={postData.tags} />
             {postData.generated ? (
               <TotalGeneratedExportedPerDayChart
-                startDate={postData.startDate}
-                endDate={postData.endDate}
+                month={postData.month}
+                year={postData.year}
                 generated={postData.generated}
                 exported={postData.exported}
               />

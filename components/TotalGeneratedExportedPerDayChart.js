@@ -1,15 +1,82 @@
+"use client";
+import { useRef, useEffect, useState } from "react";
+import { Chart } from "chart.js/auto";
+
 export default function TotalGeneratedExportedPerDayChart({
-  startDate,
-  endDate,
+  month,
+  year,
   exported,
   generated,
 }) {
+  const chartRef = useRef(null);
+  const [exportedData, setExportedData] = useState([]);
+  const [generatedData, setGeneratedData] = useState([]);
+
+  useEffect(() => {
+    setExportedData(exported);
+    setGeneratedData(generated);
+    if (chartRef.current) {
+      if (chartRef.current.chart) {
+        chartRef.current.chart.destroy();
+      }
+
+      const context = chartRef.current.getContext("2d");
+
+      const newChart = new Chart(context, {
+        type: "bar",
+        data: {
+          labels: getDates(parseInt(month), parseInt(year)),
+          datasets: [
+            {
+              data: generatedData,
+              label: "Generated (kWh)",
+            },
+            {
+              data: exportedData,
+              label: "Exported (kWh)",
+            },
+          ],
+        },
+        options: {
+          plugins: {
+            title: {
+              display: true,
+              text: "Total Generated/Exported Per Day",
+            },
+          },
+
+          responsive: true,
+          scales: {
+            x: {
+              stacked: true,
+              grid: {
+                display: false,
+              },
+            },
+            y: {
+              stacked: true,
+            },
+          },
+        },
+      });
+
+      chartRef.current.chart = newChart;
+    }
+  }, [exportedData]);
+
   return (
-    <b>
-      {startDate} {endDate} {exported} {generated}
-    </b>
+    <div>
+      <canvas ref={chartRef} />
+    </div>
   );
 }
+
+const getDates = (month, year) =>
+  Array.from({ length: new Date(year, month, 0).getDate() }, (_, i) =>
+    new Date(year, month - 1, i + 1).toLocaleDateString(undefined, {
+      dateStyle: "medium",
+    })
+  );
 
 {
   /* <section>

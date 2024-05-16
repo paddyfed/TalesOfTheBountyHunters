@@ -4,8 +4,8 @@ date: "2024-05-01"
 prevArticle: "2024-04-09_Solar-Update-March-2024"
 nextArticle: ""
 tags: Solar Panels - Solar Update
-startDate: "2024-04-01"
-endDate: "2024-04-30"
+month: "4"
+year: "2024"
 generated:
   - 7.109
   - 17.48
