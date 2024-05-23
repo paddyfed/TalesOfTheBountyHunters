@@ -6,7 +6,7 @@ import Date from "../../components/date";
 import utilStyles from "../../styles/utils.module.css";
 import Link from "next/link";
 import BlogTags from "../../components/blogtags";
-import TotalGeneratedExportedPerDayChart from "../../components/TotalGeneratedExportedPerDayChart";
+import TotalConsumedExportedPerDayChart from "../../components/TotalConsumedExportedPerDayChart";
 import AverageConsumedExportedImportedPerHour from "../../components/AverageConsumedExportedImportedPerHourChart";
 
 export async function getStaticProps({ params }) {
@@ -59,7 +59,7 @@ export default function Post({ postData }) {
             </div>
             <BlogTags tagList={postData.tags} />
             {postData.generated ? (
-              <TotalGeneratedExportedPerDayChart
+              <TotalConsumedExportedPerDayChart
                 month={postData.month}
                 year={postData.year}
                 generated={postData.generated}
