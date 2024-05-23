@@ -1,6 +1,8 @@
 import { Bar } from "react-chartjs-2";
 import { Chart } from "chart.js/auto";
 import { CategoryScale } from "chart.js/auto";
+import { getDates } from "../lib/getDates";
+
 export default function TotalConsumedExportedPerDayChart({
   month,
   year,
@@ -54,10 +56,3 @@ export default function TotalConsumedExportedPerDayChart({
     />
   );
 }
-
-const getDates = (month, year) =>
-  Array.from({ length: new Date(year, month, 0).getDate() }, (_, i) =>
-    new Date(year, month - 1, i + 1).toLocaleDateString(undefined, {
-      dateStyle: "medium",
-    })
-  );
