@@ -70,6 +70,39 @@ exported:
   - -2.967
   - -4.982
   - -5.542
+imported:
+  - 8.751
+  - 10.052
+  - 22.32
+  - 10.45
+  - 8.946
+  - 21.477
+  - 19.028
+  - 19.689
+  - 21.431
+  - 21.104
+  - 11.093
+  - 7.035
+  - 22.387
+  - 20.948
+  - 4.658
+  - 23.448
+  - 7.215
+  - 21.715
+  - 22.911
+  - 8.369
+  - 29.545
+  - 21.339
+  - 21.857
+  - 20.238
+  - 8.529
+  - 29.855
+  - 5.497
+  - 7.22
+  - 6.129
+  - 22.37
+  - 7.291
+
 avgConsumed:
   - 0.0000
   - 0.0000
@@ -224,19 +257,76 @@ totalExported:
   - 0
   - 0
   - 0
+consumedHome:
+  - 12.181
+  - 13.861
+  - 26.948
+  - 14.323
+  - 11.875
+  - 24.075
+  - 24.569
+  - 22.547
+  - 23.825
+  - 22.867
+  - 13.709
+  - 9.859
+  - 24.947
+  - 23.718
+  - 9.149
+  - 27.063
+  - 10.294
+  - 25.954
+  - 26.222
+  - 15.219
+  - 29.189
+  - 26.478
+  - 25.919
+  - 24.878
+  - 13.638
+  - 33.087
+  - 9.237
+  - 10.66
+  - 10.511
+  - 29.764
+  - 16.074
+
+consumedEddi:
+  - 2.094
+  - 6.981
+  - 12.523
+  - 4.192
+  - 14.003
+  - 14.131
+  - 8.498
+  - 1.593
+  - 1.422
+  - 0.342
+  - 0.604
+  - 6.276
+  - 7.663
+  - 1.032
+  - 12.28
+  - 1.873
+  - 7.66
+  - 8.102
+  - 8.708
+  - 13.8
+  - 2.145
+  - 13.543
+  - 13.573
+  - 10.939
+  - 3.589
+  - 1.149
+  - 9.479
+  - 1.81
+  - 12.343
+  - 15.062
+  - 14.285
 ---
 
 The energy exported in March was actually down slightly on February, down to 52kWh from 67kWh last month. But there was a good jump in generation as we consumed 351kWh in the month.
 
 Looking at the average and total generated per hour it seems that we are still importing energy at the same time it is being exported to the grid. I wonder if this is because we are using energy hogging appliences at these times and there is still just not enough sunlight to power them completely? So we are importing energy on days that it is not sunny and using the appliances and exporting when it is sunny but we aren't using the appliances. I think this will be something to keep an eye on over the next few months.
-
-![Bar chart showing total electricity generated per day](/images/2024_03_TotalGenerated_PerDay.png)
-
-![Bar chart showing average electricity generated per hour](/images/2024_03_AvgGenerated_PerHour.png)
-
-![Bar chart showing total electricity generated per hour](/images/2024_03_TotalGenerated_PerHour.png)
-
-![Bar chart showing total electricity consumed per day](/images/2024_03_TotalConsumed.png)
 
 | Broken Even        |          |
 | ------------------ | -------- |
