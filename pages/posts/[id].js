@@ -6,7 +6,6 @@ import Date from "../../components/date";
 import utilStyles from "../../styles/utils.module.css";
 import Link from "next/link";
 import BlogTags from "../../components/blogtags";
-import UselessFacts from "../../components/uselessfacts";
 import TotalGeneratedExportedPerDayChart from "../../components/TotalGeneratedExportedPerDayChart";
 
 export async function getStaticProps({ params }) {
@@ -33,7 +32,6 @@ export default function Post({ postData }) {
       <Head>
         <title>{postData.title}</title>
       </Head>
-      <UselessFacts />
       {postData.title.startsWith("Tweet") ? (
         // Tweets
         <>

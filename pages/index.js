@@ -3,7 +3,6 @@ import Layout, { siteTitle } from "../components/layout";
 import utilStyles from "../styles/utils.module.css";
 import { getSortedPostsData } from "../lib/posts";
 import BlogPosts from "../components/blogposts";
-import UselessFacts from "../components/uselessfacts";
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
@@ -20,7 +19,6 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
-      <UselessFacts />
       <section className={utilStyles.headingMd}>
         <p>
           An effort to bring all my different blog posts together in one place.
