@@ -6,8 +6,8 @@ import { getDates } from "../lib/getDates";
 export default function TotalConsumedExportedPerDayChart({
   month,
   year,
+  consumed,
   exported,
-  generated,
   imported,
 }) {
   Chart.register(CategoryScale);
@@ -19,7 +19,7 @@ export default function TotalConsumedExportedPerDayChart({
         // datasets is an array of objects where each object represents a set of data to display corresponding to the labels above. for brevity, we'll keep it at one object
         datasets: [
           {
-            data: generated,
+            data: consumed,
             label: "Consumed (kWh)",
           },
           {

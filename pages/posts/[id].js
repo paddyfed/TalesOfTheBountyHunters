@@ -60,11 +60,11 @@ export default function Post({ postData }) {
               <Date dateString={postData.date} />
             </div>
             <BlogTags tagList={postData.tags} />
-            {postData.generated ? (
+            {postData.consumed ? (
               <TotalConsumedExportedPerDayChart
                 month={postData.month}
                 year={postData.year}
-                generated={postData.generated}
+                consumed={postData.consumed}
                 exported={postData.exported}
                 imported={postData.imported}
               />

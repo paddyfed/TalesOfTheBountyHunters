@@ -6,7 +6,7 @@ nextArticle: ""
 tags: Solar Panels - Solar Update
 month: "4"
 year: "2024"
-generated:
+consumed:
   - 7.109
   - 17.48
   - 9.463
