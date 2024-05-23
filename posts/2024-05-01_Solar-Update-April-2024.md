@@ -68,6 +68,38 @@ exported:
   - -15.129
   - -2.395
   - -1.081
+imported:
+  - 7.547
+  - 7.234
+  - 24.053
+  - 6.821
+  - 8.377
+  - 13.86
+  - 3.752
+  - 21.95
+  - 6.898
+  - 21.285
+  - 6.561
+  - 7.442
+  - 5.471
+  - 19.379
+  - 22.77
+  - 6.389
+  - 6.583
+  - 23.733
+  - 18.93
+  - 2.149
+  - 17.044
+  - 6.525
+  - 18.765
+  - 5.367
+  - 6.618
+  - 6.687
+  - 19.053
+  - 19.54
+  - 5.956
+  - 7.541
+
 avgConsumed:
   - 0.0000
   - 0.0000
@@ -220,6 +252,68 @@ totalExported:
   - 0
   - 0
   - 0
+consumedHome:
+  - 12.238
+  - 10.918
+  - 25.925
+  - 9.849
+  - 14.716
+  - 19.805
+  - 5.612
+  - 26.048
+  - 13.147
+  - 24.782
+  - 10.29
+  - 12.514
+  - 12.898
+  - 22.718
+  - 29.003
+  - 14.407
+  - 11.483
+  - 31.022
+  - 27.099
+  - 6.539
+  - 22.014
+  - 11.9
+  - 24.128
+  - 11.384
+  - 12.97
+  - 13.445
+  - 25.916
+  - 25.653
+  - 11.712
+  - 14.119
+consumedEddi:
+  - 2.42
+  - 13.793
+  - 7.59
+  - 1.36
+  - 8.856
+  - 3.974
+  - 0.05
+  - 3.568
+  - 16.649
+  - 2.635
+  - 8.873
+  - 4.95
+  - 13.372
+  - 4.784
+  - 15.331
+  - 18.314
+  - 5.154
+  - 5.439
+  - 3.477
+  - 5.833
+  - 8.678
+  - 3.449
+  - 22.806
+  - 15.012
+  - 11.766
+  - 13.85
+  - 16.477
+  - 6.681
+  - 11.614
+  - 10.453
 ---
 
 The sun finally came to Ireland in April and I managed to get the grass cut a few times too. I have bought a new GreenWorks electric battery powered lawnmower too so I'm using the opportunity to charge the batteries when the sun is still shining. This month was the highest consumed (427kWh) and exported (187kWh) since we have had the system installed so we haven't had the need to boost the hot water this month at all.

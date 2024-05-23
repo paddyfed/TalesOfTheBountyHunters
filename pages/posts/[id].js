@@ -9,6 +9,7 @@ import BlogTags from "../../components/blogtags";
 import TotalConsumedExportedPerDayChart from "../../components/TotalConsumedExportedPerDayChart";
 import AverageConsumedExportedImportedPerHour from "../../components/AverageConsumedExportedImportedPerHourChart";
 import TotalConsumedExportedImportedPerHour from "../../components/TotalConsumedExportedImportedPerHourChart copy";
+import TotalConsumedHomePerDay from "../../components/TotalConsumedHomePerDay";
 
 export async function getStaticProps({ params }) {
   const postData = await getPostData(params.id);
@@ -65,6 +66,7 @@ export default function Post({ postData }) {
                 year={postData.year}
                 generated={postData.generated}
                 exported={postData.exported}
+                imported={postData.imported}
               />
             ) : null}
             {postData.avgConsumed ? (
@@ -79,6 +81,14 @@ export default function Post({ postData }) {
                 totalConsumed={postData.totalConsumed}
                 totalExported={postData.totalExported}
                 totalImported={postData.totalImported}
+              />
+            ) : null}
+            {postData.consumedHome ? (
+              <TotalConsumedHomePerDay
+                month={postData.month}
+                year={postData.year}
+                consumedHome={postData.consumedHome}
+                consumedEddi={postData.consumedEddi}
               />
             ) : null}
             <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
