@@ -7,6 +7,7 @@ import utilStyles from "../../styles/utils.module.css";
 import Link from "next/link";
 import BlogTags from "../../components/blogtags";
 import TotalGeneratedExportedPerDayChart from "../../components/TotalGeneratedExportedPerDayChart";
+import AverageConsumedExportedImportedPerHour from "../../components/AverageConsumedExportedImportedPerHourChart";
 
 export async function getStaticProps({ params }) {
   const postData = await getPostData(params.id);
@@ -63,6 +64,13 @@ export default function Post({ postData }) {
                 year={postData.year}
                 generated={postData.generated}
                 exported={postData.exported}
+              />
+            ) : null}
+            {postData.avgConsumed ? (
+              <AverageConsumedExportedImportedPerHour
+                avgConsumed={postData.avgConsumed}
+                avgExported={postData.avgExported}
+                avgImported={postData.avgImported}
               />
             ) : null}
             <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />

@@ -68,6 +68,81 @@ exported:
   - -15.129
   - -2.395
   - -1.081
+avgConsumed:
+  - 0.0000
+  - 0.0000
+  - 0.0020
+  - 0.0020
+  - 0.0000
+  - 0.0000
+  - 0.0214
+  - 0.1588
+  - 0.4638
+  - 1.0146
+  - 1.3721
+  - 1.6211
+  - 1.7431
+  - 1.5499
+  - 1.4842
+  - 1.4960
+  - 1.2545
+  - 1.1046
+  - 0.7026
+  - 0.2244
+  - 0.0241
+  - 0.0000
+  - 0.0000
+  - 0.0000
+avgImported:
+  - 0.4669
+  - 0.5473
+  - 2.7487
+  - 2.6686
+  - 0.4272
+  - 0.3907
+  - 0.2714
+  - 0.2213
+  - 0.0300
+  - 0.1696
+  - 0.3004
+  - 0.3011
+  - 0.3677
+  - 0.1579
+  - 0.0567
+  - 0.0611
+  - 0.1644
+  - 0.2516
+  - 0.2713
+  - 0.3913
+  - 0.3626
+  - 0.3044
+  - 0.2169
+  - 0.6603
+avgExported:
+  - 0.0000
+  - 0.0000
+  - 0.0000
+  - 0.0000
+  - 0.0000
+  - 0.0000
+  - -0.0005
+  - -0.0088
+  - -0.0403
+  - -0.1188
+  - -0.2631
+  - -0.5292
+  - -0.7217
+  - -0.9243
+  - -1.0514
+  - -1.0615
+  - -0.7941
+  - -0.5059
+  - -0.2006
+  - -0.0308
+  - -0.0002
+  - 0.0000
+  - 0.0000
+  - 0.0000
 ---
 
 The sun finally came to Ireland in April and I managed to get the grass cut a few times too. I have bought a new GreenWorks electric battery powered lawnmower too so I'm using the opportunity to charge the batteries when the sun is still shining. This month was the highest consumed (427kWh) and exported (187kWh) since we have had the system installed so we haven't had the need to boost the hot water this month at all.
