@@ -2,8 +2,6 @@ import { Bar } from "react-chartjs-2";
 import { Chart } from "chart.js/auto";
 import { CategoryScale } from "chart.js/auto";
 export default function AverageConsumedExportedImportedPerHour({
-  month,
-  year,
   avgConsumed,
   avgExported,
   avgImported,
@@ -59,7 +57,7 @@ export default function AverageConsumedExportedImportedPerHour({
         plugins: {
           title: {
             display: true,
-            text: "Average Generated/Exported/Imported Per Hour",
+            text: "Average Consumed/Exported/Imported Per Hour",
           },
         },
 
