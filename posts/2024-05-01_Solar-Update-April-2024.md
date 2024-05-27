@@ -2,7 +2,7 @@
 title: "Solar Update - April 2024"
 date: "2024-05-01"
 prevArticle: "2024-04-09_Solar-Update-March-2024"
-nextArticle: ""
+nextArticle: "2024-05-27_Chart-js-for-solar-updates"
 tags: Solar Panels - Solar Update
 month: "4"
 year: "2024"
