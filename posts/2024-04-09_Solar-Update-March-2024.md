@@ -4,19 +4,329 @@ date: "2024-04-09"
 prevArticle: "2024-03-10_Solar-Update-February-2024"
 nextArticle: "2024-05-01_Solar-Update-April-2024"
 tags: Solar Panels - Solar Update
+month: "3"
+year: "2024"
+consumed:
+  - 5.524
+  - 10.792
+  - 17.152
+  - 8.063
+  - 16.931
+  - 16.729
+  - 14.039
+  - 4.451
+  - 3.821
+  - 2.105
+  - 3.221
+  - 9.101
+  - 10.223
+  - 3.802
+  - 16.769
+  - 5.488
+  - 10.739
+  - 12.342
+  - 12.021
+  - 20.651
+  - 1.788
+  - 18.683
+  - 17.636
+  - 15.576
+  - 8.699
+  - 4.378
+  - 13.219
+  - 5.252
+  - 16.726
+  - 22.454
+  - 23.069
+exported:
+  - -0.071
+  - -1.934
+  - -1.921
+  - -0.195
+  - -4.216
+  - -1.144
+  - -2.879
+  - -0.057
+  - -0.039
+  - -0.044
+  - -0.029
+  - -0.133
+  - -0.285
+  - -0.051
+  - -2.986
+  - -0.055
+  - -1.314
+  - -0.389
+  - -0.634
+  - -6.216
+  - -2.484
+  - -4.158
+  - -3.826
+  - -1.246
+  - -0.076
+  - -0.043
+  - -2.494
+  - -0.059
+  - -2.967
+  - -4.982
+  - -5.542
+imported:
+  - 8.751
+  - 10.052
+  - 22.32
+  - 10.45
+  - 8.946
+  - 21.477
+  - 19.028
+  - 19.689
+  - 21.431
+  - 21.104
+  - 11.093
+  - 7.035
+  - 22.387
+  - 20.948
+  - 4.658
+  - 23.448
+  - 7.215
+  - 21.715
+  - 22.911
+  - 8.369
+  - 29.545
+  - 21.339
+  - 21.857
+  - 20.238
+  - 8.529
+  - 29.855
+  - 5.497
+  - 7.22
+  - 6.129
+  - 22.37
+  - 7.291
+
+avgConsumed:
+  - 0.0000
+  - 0.0000
+  - 0.0029
+  - 0.0029
+  - 0.0000
+  - 0.0000
+  - 0.0106
+  - 0.1460
+  - 0.5575
+  - 1.0196
+  - 1.2441
+  - 1.3173
+  - 1.5718
+  - 1.5004
+  - 1.5754
+  - 1.0792
+  - 0.9097
+  - 0.3290
+  - 0.0642
+  - 0.0061
+  - 0.0001
+  - 0.0000
+  - 0.0000
+  - 0.0000
+
+avgExported:
+  - 0.0000
+  - 0.0000
+  - 0.0000
+  - 0.0000
+  - 0.0000
+  - 0.0000
+  - -0.0002
+  - -0.0027
+  - -0.0098
+  - -0.0471
+  - -0.1227
+  - -0.2032
+  - -0.3523
+  - -0.3705
+  - -0.3380
+  - -0.1469
+  - -0.0670
+  - -0.0313
+  - -0.0006
+  - -0.0001
+  - 0.0000
+  - 0.0000
+  - 0.0000
+  - 0.0000
+
+avgImported:
+  - 0.5443
+  - 0.6249
+  - 3.7480
+  - 3.7482
+  - 0.5499
+  - 0.4417
+  - 0.3162
+  - 0.1400
+  - 0.0544
+  - 0.1395
+  - 0.3159
+  - 0.1672
+  - 0.2153
+  - 0.1647
+  - 0.2432
+  - 0.3775
+  - 0.5020
+  - 0.4442
+  - 0.7260
+  - 0.9089
+  - 0.4350
+  - 0.3266
+  - 0.2319
+  - 0.5547
+
+totalConsumed:
+  - 0
+  - 0
+  - 0.09
+  - 0.09
+  - 0
+  - 0
+  - 0.33
+  - 4.526
+  - 17.281
+  - 31.609
+  - 38.567
+  - 40.836
+  - 48.725
+  - 46.511
+  - 48.838
+  - 33.456
+  - 28.201
+  - 10.2
+  - 1.991
+  - 0.19
+  - 0.003
+  - 0
+  - 0
+  - 0
+totalImported:
+  - 16.873
+  - 18.746
+  - 116.189
+  - 116.193
+  - 17.048
+  - 13.694
+  - 9.802
+  - 4.339
+  - 1.686
+  - 4.323
+  - 9.794
+  - 5.182
+  - 6.675
+  - 5.106
+  - 7.538
+  - 11.702
+  - 15.561
+  - 13.77
+  - 22.506
+  - 28.175
+  - 13.484
+  - 10.124
+  - 7.19
+  - 17.197
+
+totalExported:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - -0.007
+  - -0.084
+  - -0.304
+  - -1.459
+  - -3.805
+  - -6.299
+  - -10.922
+  - -11.487
+  - -10.479
+  - -4.554
+  - -2.078
+  - -0.97
+  - -0.018
+  - -0.003
+  - 0
+  - 0
+  - 0
+  - 0
+consumedHome:
+  - 12.181
+  - 13.861
+  - 26.948
+  - 14.323
+  - 11.875
+  - 24.075
+  - 24.569
+  - 22.547
+  - 23.825
+  - 22.867
+  - 13.709
+  - 9.859
+  - 24.947
+  - 23.718
+  - 9.149
+  - 27.063
+  - 10.294
+  - 25.954
+  - 26.222
+  - 15.219
+  - 29.189
+  - 26.478
+  - 25.919
+  - 24.878
+  - 13.638
+  - 33.087
+  - 9.237
+  - 10.66
+  - 10.511
+  - 29.764
+  - 16.074
+
+consumedEddi:
+  - 2.094
+  - 6.981
+  - 12.523
+  - 4.192
+  - 14.003
+  - 14.131
+  - 8.498
+  - 1.593
+  - 1.422
+  - 0.342
+  - 0.604
+  - 6.276
+  - 7.663
+  - 1.032
+  - 12.28
+  - 1.873
+  - 7.66
+  - 8.102
+  - 8.708
+  - 13.8
+  - 2.145
+  - 13.543
+  - 13.573
+  - 10.939
+  - 3.589
+  - 1.149
+  - 9.479
+  - 1.81
+  - 12.343
+  - 15.062
+  - 14.285
 ---
 
 The energy exported in March was actually down slightly on February, down to 52kWh from 67kWh last month. But there was a good jump in generation as we consumed 351kWh in the month.
 
 Looking at the average and total generated per hour it seems that we are still importing energy at the same time it is being exported to the grid. I wonder if this is because we are using energy hogging appliences at these times and there is still just not enough sunlight to power them completely? So we are importing energy on days that it is not sunny and using the appliances and exporting when it is sunny but we aren't using the appliances. I think this will be something to keep an eye on over the next few months.
-
-![Bar chart showing total electricity generated per day](/images/2024_03_TotalGenerated_PerDay.png)
-
-![Bar chart showing average electricity generated per hour](/images/2024_03_AvgGenerated_PerHour.png)
-
-![Bar chart showing total electricity generated per hour](/images/2024_03_TotalGenerated_PerHour.png)
-
-![Bar chart showing total electricity consumed per day](/images/2024_03_TotalConsumed.png)
 
 | Broken Even        |          |
 | ------------------ | -------- |
