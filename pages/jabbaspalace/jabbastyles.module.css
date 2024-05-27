@@ -17,7 +17,7 @@
   font-weight: bold;
   color: #e4cfb8;
   opacity: 0.6;
-  padding-left: 0.5em;
+  padding-inline: 0.5em;
   height: 25vh;
   display: flex;
   align-items: center;
@@ -62,8 +62,8 @@
   bottom: 2rem;
 }
 
-/* Extra small devices (phones, 768px and down) */
-@media only screen and (max-width: 768px) {
+/* Extra small devices (phones, 780px and down) */
+@media only screen and (max-width: 780px) {
   .main {
     display: flex;
     flex-direction: column;
