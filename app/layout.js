@@ -3,6 +3,7 @@ import styles from "../components/layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 import "../styles/global.css";
+import MainNav from "./components/MainNav";
 
 const name = "Tales of the Bounty Hunters";
 
@@ -18,25 +19,7 @@ export default function Layout({ children }) {
         <body>
           <div className={styles.container}>
             <header className={styles.header}>
-              <nav>
-                <ul>
-                  <li>
-                    <Link href="/">Home</Link>
-                  </li>
-                  <li>
-                    <Link href="/year">Year</Link>
-                  </li>
-                  <li>
-                    <Link href="/tags">Tags</Link>
-                  </li>
-                  <li>
-                    <Link href="/paymentsleft">Payments Left</Link>
-                  </li>
-                  <li>
-                    <Link href="/jabbaspalace">Jabba's Palace</Link>
-                  </li>
-                </ul>
-              </nav>
+              <MainNav />
 
               <Link href="/">
                 <Image
