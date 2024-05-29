@@ -10,7 +10,7 @@
 
 .mainbanner {
   grid-column-start: 2;
-  background-image: url("../../public/images/Jabba_Main_Banner.png");
+  background-image: url("../../../public/images/Jabba_Main_Banner.png");
   background-size: cover;
   border-radius: 1em;
   font-size: 3em;

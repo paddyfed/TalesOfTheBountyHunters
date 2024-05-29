@@ -1,7 +1,7 @@
 "use client";
 
-import { PaymentsBuildBlocks } from "../components/PaymentsBuildBlocks";
-import styles from "../components/paymentsbuildblocks.module.css";
+import { PaymentsBuildBlocks } from "../../components/PaymentsBuildBlocks";
+import styles from "../../components/paymentsbuildblocks.module.css";
 
 // export async function getServerSideProps() {
 //   return { props: { today } };

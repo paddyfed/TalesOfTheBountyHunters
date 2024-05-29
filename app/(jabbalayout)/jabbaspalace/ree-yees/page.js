@@ -1,20 +1,17 @@
-import Layout, { siteTitle } from "./layout";
 import Image from "next/image";
-import jabbastyles from "./jabbastyles.module.css";
 import Link from "next/link";
-import ReeYeesBarge from "../../public/images/Jabba_Ree_Yees_Barge.jpg";
-import ReeYeesPalace from "../../public/images/Jabba_Ree_Yees_Palace.webp";
-import ReeYeesFace from "../../public/images/Jabba_ReeYees_Face.png";
-import Head from "next/head";
+import ReeYeesBarge from "../../../../public/images/Jabba_Ree_Yees_Barge.jpg";
+import ReeYeesPalace from "../../../../public/images/Jabba_Ree_Yees_Palace.webp";
+import ReeYeesFace from "../../../../public/images/Jabba_ReeYees_Face.png";
+import jabbastyles from "../jabbastyles.module.css";
+
+export const metadata = {
+  title: "Ree-Yees",
+};
 
 export default function ReeYees() {
-  const title = `${siteTitle} : Ree Yees`;
-
   return (
-    <Layout>
-      <Head>
-        <title>{title}</title>
-      </Head>
+    <>
       <h1>Ree-Yees</h1>
       <dl>
         <Image
@@ -111,23 +108,6 @@ export default function ReeYees() {
           as he was concerned he was destined, eventually, to kill Jabba.
         </dd>
       </dl>
-
-      {/* <img
-          src="reeyees_barge.jpg"
-          width="150"
-          height="150"
-          alt="Ree-Yees on Jabba's sail barge"
-          align="LEFT"
-        />
-  
-      <img
-        src="reeyees_palace.jpg"
-        width="150"
-        height="150"
-        alt="Ree-Yees in Jabba's Palace"
-        align="RIGHT"
-        valign="TOP"
-      /> */}
-    </Layout>
+    </>
   );
 }

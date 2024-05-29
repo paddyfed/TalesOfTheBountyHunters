@@ -1,20 +1,17 @@
-import Layout, { siteTitle } from "./layout";
-import DannikPic from "../../public/images/Jabba_Dannik_Pic.webp";
-import DannikCantina from "../../public/images/Jabba_Dannik_Cantina.webp";
-import DannikJerrikoFace from "../../public/images/Jabba_DannikJerriko_Face.png";
+import DannikPic from "../../../../public/images/Jabba_Dannik_Pic.webp";
+import DannikCantina from "../../../../public/images/Jabba_Dannik_Cantina.webp";
+import DannikJerrikoFace from "../../../../public/images/Jabba_DannikJerriko_Face.png";
 import Image from "next/image";
-import jabbastyles from "./jabbastyles.module.css";
 import Link from "next/link";
-import Head from "next/head";
+import jabbastyles from "../jabbastyles.module.css";
+
+export const metadata = {
+  title: "Dannik Jerriko",
+};
 
 export default function DannikJerriko() {
-  const title = `${siteTitle} : Dannik Jerriko`;
-
   return (
-    <Layout>
-      <Head>
-        <title>{title}</title>
-      </Head>
+    <>
       <h1>Dannik Jerriko</h1>
       <dl>
         <Image
@@ -111,6 +108,6 @@ export default function DannikJerriko() {
         </dd>
         <dd>Dannik's plot was destined to failure because of this.</dd>
       </dl>
-    </Layout>
+    </>
   );
 }

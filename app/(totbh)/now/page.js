@@ -6,10 +6,10 @@ import remarkParse from "remark-parse";
 import remarkRehype from "remark-rehype";
 import remarkGfm from "remark-gfm";
 import { unified } from "unified";
-import utilStyles from "../../styles/utils.module.css";
-import Date from "../../components/date";
+import utilStyles from "../../../styles/utils.module.css";
+import Date from "../../../components/date";
 
-const postsDirectory = path.join(process.cwd(), "app/now");
+const postsDirectory = path.join(process.cwd(), "app/(totbh)/now");
 
 export default async function Now() {
   const postData = await getPostData("now");

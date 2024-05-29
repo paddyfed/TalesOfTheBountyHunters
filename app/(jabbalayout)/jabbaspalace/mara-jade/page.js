@@ -1,19 +1,16 @@
-import Layout, { siteTitle } from "./layout";
 import Image from "next/image";
-import jabbastyles from "./jabbastyles.module.css";
-import MaraJadeLiveAction from "../../public/images/Jabba_Mara_Jade_Live_Action.jpg";
-import MaraJadeLiveDancer from "../../public/images/Jabba_Mara_Jade_Dancer.webp";
-import MaraJadeFace from "../../public/images/Jabba_MaraJade_Face.png";
-import Head from "next/head";
+import MaraJadeLiveAction from "../../../../public/images/Jabba_Mara_Jade_Live_Action.jpg";
+import MaraJadeLiveDancer from "../../../../public/images/Jabba_Mara_Jade_Dancer.webp";
+import MaraJadeFace from "../../../../public/images/Jabba_MaraJade_Face.png";
+import jabbastyles from "../jabbastyles.module.css";
+
+export const metadata = {
+  title: "Mara Jade",
+};
 
 export default function MaraJade() {
-  const title = `${siteTitle} : Mara Jade`;
-
   return (
-    <Layout>
-      <Head>
-        <title>{title}</title>
-      </Head>
+    <>
       <h1>Mara Jade</h1>
       <dl>
         <Image
@@ -111,6 +108,6 @@ export default function MaraJade() {
           Karrde that she gained her experience as a fighter.
         </dd>
       </dl>
-    </Layout>
+    </>
   );
 }

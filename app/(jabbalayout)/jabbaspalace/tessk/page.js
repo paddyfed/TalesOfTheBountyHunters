@@ -1,20 +1,17 @@
-import Layout, { siteTitle } from "./layout";
-import jabbastyles from "./jabbastyles.module.css";
 import Link from "next/link";
-import TesskPalace from "../../public/images/Jabba_Tessk_Luke.webp";
-import TesskPhoto from "../../public/images/Jabba_Tessk.webp";
-import TesskFace from "../../public/images/Jabba_Tessk_Face.png";
-import Head from "next/head";
+import TesskPalace from "../../../../public/images/Jabba_Tessk_Luke.webp";
+import TesskPhoto from "../../../../public/images/Jabba_Tessk.webp";
+import TesskFace from "../../../../public/images/Jabba_Tessk_Face.png";
 import Image from "next/image";
+import jabbastyles from "../jabbastyles.module.css";
+
+export const metadata = {
+  title: "Tessk",
+};
 
 export default function Tessk() {
-  const title = `${siteTitle} : Tessk`;
-
   return (
-    <Layout>
-      <Head>
-        <title>{title}</title>
-      </Head>
+    <>
       <h1>Tessk</h1>
       <dl>
         <Image
@@ -108,21 +105,6 @@ export default function Tessk() {
         </dd>
         <dd>His modified plot was destined to fail.</dd>
       </dl>
-
-      {/* <img
-        src="tessk_luke.jpg"
-        width="150"
-        height="150"
-        alt="Tessk over the shoulder of Luke Skywalker"
-        align="LEFT"
-      />
-      <img
-        src="tessk_pic.jpg"
-        width="150"
-        height="150"
-        alt="A paicture of Tessk"
-        align="RIGHT"
-      /> */}
-    </Layout>
+    </>
   );
 }
