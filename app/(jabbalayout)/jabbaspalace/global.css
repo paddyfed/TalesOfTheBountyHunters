@@ -1,0 +1,116 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: system-ui, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
+    "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  line-height: 1.6;
+  font-size: 18px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+blockquote {
+  color: blue;
+}
+
+nav {
+  width: 100%;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+  padding: 1em 0 1em 0;
+  margin: 0;
+}
+
+code {
+  background-color: #eee;
+}
+
+pre:has(code) {
+  overflow: auto;
+  background-color: #eee;
+  padding: 0.5em;
+}
+
+table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+thead {
+  background-color: gray;
+}
+
+th {
+  padding: 0 0.2em;
+}
+
+td {
+  padding: 0 0.2em;
+}
+
+/* Extra small devices (phones, 768px and down) */
+@media only screen and (max-width: 768px) {
+  nav ul {
+    gap: 0.5em;
+  }
+}
+
+body {
+  background: #e4cfb8;
+}
+
+dt {
+  font-weight: bold;
+}
+dt::after {
+  content: ": ";
+}
+dd {
+  margin-bottom: 1em;
+  margin-left: 0;
+  padding: 0;
+}
+
+dfn {
+  font-size: 0.7em;
+}
+
+dt dfn {
+  font-size: 1em;
+  font-style: normal;
+}
+
+nav ul {
+  display: block;
+}
+
+hr {
+  width: 25%;
+  border: 1px solid black;
+}

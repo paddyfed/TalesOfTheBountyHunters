@@ -1,7 +1,8 @@
-import Layout, { siteTitle } from "./layout";
+"use client";
+import Layout, { siteTitle } from "../layout";
 import Link from "next/link";
-import jabbastyles from "./jabbastyles.module.css";
 import Head from "next/head";
+import jabbastyles from "../jabbastyles.module.css";
 
 const isBrowser = () => typeof window !== "undefined"; //The approach recommended by Next.js
 
@@ -14,14 +15,11 @@ export default function OtherInfo() {
   const title = `${siteTitle} : Additional Information`;
 
   return (
-    <Layout>
-      <Head>
-        <title>{title}</title>
-      </Head>
+    <>
+      {" "}
       <button className={jabbastyles.backtotop} onClick={scrollToTop}>
         Back To Top
       </button>
-
       <h1>Additional Information</h1>
       <p>
         Here you will find some concise information on characters, locations and
@@ -205,7 +203,6 @@ export default function OtherInfo() {
         </dd>
       </dl>
       <h3>Locations</h3>
-
       <dl>
         <dt>
           <dfn id="definition-tatooine">Tatooine</dfn>
@@ -279,7 +276,6 @@ export default function OtherInfo() {
           huge cage door on top of the creature.
         </dd>
       </dl>
-
       <h3>Aliens</h3>
       <dl>
         <dt>
@@ -306,7 +302,6 @@ export default function OtherInfo() {
           such a creature exists and dismiss them as fairy tales or rumour.
         </dd>
       </dl>
-
       <h3>Vehicles</h3>
       <dl>
         <dt>
@@ -319,6 +314,6 @@ export default function OtherInfo() {
           escape.
         </dd>
       </dl>
-    </Layout>
+    </>
   );
 }
