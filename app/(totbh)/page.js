@@ -1,24 +1,13 @@
-import Head from "next/head";
-import Layout, { siteTitle } from "../components/layout";
-import utilStyles from "../styles/utils.module.css";
-import { getSortedPostsData } from "../lib/posts";
-import BlogPosts from "../components/blogposts";
+import utilStyles from "../../styles/utils.module.css";
+import { getSortedPostsData } from "../../lib/posts";
+import BlogPosts from "./components/BlogPosts";
+import Link from "next/link";
 
-export async function getStaticProps() {
+export default function Home() {
   const allPostsData = getSortedPostsData();
-  return {
-    props: {
-      allPostsData,
-    },
-  };
-}
 
-export default function Home({ allPostsData }) {
   return (
-    <Layout home>
-      <Head>
-        <title>{siteTitle}</title>
-      </Head>
+    <>
       <section className={utilStyles.headingMd}>
         <p>
           An effort to bring all my different blog posts together in one place.
@@ -26,16 +15,16 @@ export default function Home({ allPostsData }) {
         </p>
         <p>
           It was created with the help of the{" "}
-          <a
+          <Link
             href="https://nextjs.org/learn/basics/create-nextjs-app"
             target="_blank"
           >
             Next.js tutorial
-          </a>
+          </Link>
           .
         </p>
       </section>
       <BlogPosts filteredPostData={allPostsData}></BlogPosts>
-    </Layout>
+    </>
   );
 }

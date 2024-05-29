@@ -4,6 +4,7 @@ import utilStyles from "../../styles/utils.module.css";
 import Link from "next/link";
 import "../../styles/global.css";
 import MainNav from "./components/MainNav";
+import BackToHomeLink from "./components/BackToHomeLink";
 
 const name = "Tales of the Bounty Hunters";
 
@@ -39,9 +40,7 @@ export default function RootLayout({ children }) {
             </header>
             <main>{children}</main>
 
-            <div className={styles.backToHome}>
-              <Link href="/">← Back to home</Link>
-            </div>
+            <BackToHomeLink />
           </div>
         </body>
       </html>
