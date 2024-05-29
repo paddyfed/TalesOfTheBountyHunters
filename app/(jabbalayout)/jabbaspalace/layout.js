@@ -2,7 +2,13 @@ import Link from "next/link";
 import jabbastyles from "./jabbastyles.module.css";
 import "./global.css";
 
-export const siteTitle = "The Plots of Jabba's Palace";
+export const metadata = {
+  title: {
+    default: "The Plots of Jabba's Palace",
+    template: "The Plots of Jabba's Palace : %s",
+  },
+  description: "Blog for Paddy O'Hara",
+};
 
 export default function Layout({ children }) {
   return (

@@ -1,15 +1,15 @@
-import Layout, { siteTitle } from "../layout";
 import DannikPic from "../../../../public/images/Jabba_Dannik_Pic.webp";
 import DannikCantina from "../../../../public/images/Jabba_Dannik_Cantina.webp";
 import DannikJerrikoFace from "../../../../public/images/Jabba_DannikJerriko_Face.png";
 import Image from "next/image";
 import Link from "next/link";
-import Head from "next/head";
 import jabbastyles from "../jabbastyles.module.css";
 
-export default function DannikJerriko() {
-  const title = ` : Dannik Jerriko`;
+export const metadata = {
+  title: "Dannik Jerriko",
+};
 
+export default function DannikJerriko() {
   return (
     <>
       <h1>Dannik Jerriko</h1>

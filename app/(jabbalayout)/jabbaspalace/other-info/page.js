@@ -1,25 +1,14 @@
-"use client";
-import Layout, { siteTitle } from "../layout";
 import Link from "next/link";
-import Head from "next/head";
-import jabbastyles from "../jabbastyles.module.css";
+import { ScrollToTop } from "../components/ScrollToTop";
 
-const isBrowser = () => typeof window !== "undefined"; //The approach recommended by Next.js
-
-function scrollToTop() {
-  if (!isBrowser()) return;
-  window.scrollTo({ top: 0, behavior: "smooth" });
-}
+export const metadata = {
+  title: "Additional Information",
+};
 
 export default function OtherInfo() {
-  const title = `${siteTitle} : Additional Information`;
-
   return (
     <>
-      {" "}
-      <button className={jabbastyles.backtotop} onClick={scrollToTop}>
-        Back To Top
-      </button>
+      <ScrollToTop />
       <h1>Additional Information</h1>
       <p>
         Here you will find some concise information on characters, locations and

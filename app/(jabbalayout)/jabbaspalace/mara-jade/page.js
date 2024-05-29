@@ -1,14 +1,14 @@
-import Layout, { siteTitle } from "../layout";
 import Image from "next/image";
 import MaraJadeLiveAction from "../../../../public/images/Jabba_Mara_Jade_Live_Action.jpg";
 import MaraJadeLiveDancer from "../../../../public/images/Jabba_Mara_Jade_Dancer.webp";
 import MaraJadeFace from "../../../../public/images/Jabba_MaraJade_Face.png";
-import Head from "next/head";
 import jabbastyles from "../jabbastyles.module.css";
 
-export default function MaraJade() {
-  const title = ` : Mara Jade`;
+export const metadata = {
+  title: "Mara Jade",
+};
 
+export default function MaraJade() {
   return (
     <>
       <h1>Mara Jade</h1>

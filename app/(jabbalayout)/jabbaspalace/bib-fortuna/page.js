@@ -4,9 +4,11 @@ import BibFortunaPalace from "../../../../public/images/Jabba_Bib_Fortuna.jpg";
 import BibFortunaFace from "../../../../public/images/Jabba_BibFortuna_Face.png";
 import jabbastyles from "../jabbastyles.module.css";
 
-export default function BibFortuna() {
-  const title = ` : Bib Fortuna`;
+export const metadata = {
+  title: "Bib Fortuna",
+};
 
+export default function BibFortuna() {
   return (
     <>
       <h1>Bib Fortuna</h1>

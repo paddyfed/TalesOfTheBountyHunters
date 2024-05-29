@@ -1,15 +1,15 @@
-import Layout, { siteTitle } from "../layout";
 import Link from "next/link";
 import TesskPalace from "../../../../public/images/Jabba_Tessk_Luke.webp";
 import TesskPhoto from "../../../../public/images/Jabba_Tessk.webp";
 import TesskFace from "../../../../public/images/Jabba_Tessk_Face.png";
-import Head from "next/head";
 import Image from "next/image";
 import jabbastyles from "../jabbastyles.module.css";
 
-export default function Tessk() {
-  const title = `${siteTitle} : Tessk`;
+export const metadata = {
+  title: "Tessk",
+};
 
+export default function Tessk() {
   return (
     <>
       <h1>Tessk</h1>

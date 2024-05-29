@@ -1,18 +1,17 @@
-import Layout, { siteTitle } from "../layout";
 import Image from "next/image";
 import Link from "next/link";
 import ReeYeesBarge from "../../../../public/images/Jabba_Ree_Yees_Barge.jpg";
 import ReeYeesPalace from "../../../../public/images/Jabba_Ree_Yees_Palace.webp";
 import ReeYeesFace from "../../../../public/images/Jabba_ReeYees_Face.png";
-import Head from "next/head";
 import jabbastyles from "../jabbastyles.module.css";
 
-export default function ReeYees() {
-  const title = `${siteTitle} : Ree Yees`;
+export const metadata = {
+  title: "Ree-Yees",
+};
 
+export default function ReeYees() {
   return (
     <>
-      {" "}
       <h1>Ree-Yees</h1>
       <dl>
         <Image
