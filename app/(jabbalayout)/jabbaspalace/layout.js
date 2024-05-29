@@ -12,7 +12,7 @@ export const metadata = {
 
 export default function Layout({ children }) {
   return (
-    <html>
+    <html lang="en">
       <body>
         <main className={jabbastyles.main}>
           <div className={jabbastyles.mainbanner}>

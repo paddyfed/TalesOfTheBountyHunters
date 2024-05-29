@@ -3,7 +3,8 @@ import styles from "../../components/layout.module.css";
 import utilStyles from "../../styles/utils.module.css";
 import Link from "next/link";
 import "../../styles/global.css";
-import MainNav from "../components/MainNav";
+import MainNav from "./components/MainNav";
+import BackToHomeLink from "./components/BackToHomeLink";
 
 const name = "Tales of the Bounty Hunters";
 
@@ -15,7 +16,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <>
-      <html>
+      <html lang="en">
         <body>
           <div className={styles.container}>
             <header className={styles.header}>
@@ -39,9 +40,7 @@ export default function RootLayout({ children }) {
             </header>
             <main>{children}</main>
 
-            <div className={styles.backToHome}>
-              <Link href="/">← Back to home</Link>
-            </div>
+            <BackToHomeLink />
           </div>
         </body>
       </html>

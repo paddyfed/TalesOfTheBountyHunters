@@ -3,7 +3,7 @@ import Image from "next/image";
 import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
-import MainNav from "../app/components/MainNav";
+import MainNav from "../app/(totbh)/components/MainNav";
 
 const name = "Tales of the Bounty Hunters";
 export const siteTitle = "Tales of the Bounty Hunters";
