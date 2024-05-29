@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2024-05-28"
+date: "2024-05-29"
 ---
 
 ## Living in
@@ -11,6 +11,11 @@ Monaghan
 
 Not working at the minute. Currently looking for front-end web development roles and applied for a FIT apprenticeship.
 
+## Studying
+
+[UCD Professional Academy - Front-End Web Development](https://www.ucd.ie/professionalacademy/findyourcourse/front-end-web-development/)  
+[IBM SkillsBuild - Data Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/data-analyst#sb--adult-learners-journey)
+
 ## Reading
 
 ### Star Wars
@@ -19,8 +24,7 @@ The Princess and the Scoundrel by Beth Revis
 
 ### Other
 
-Listening to Foundation by Isaac Asimov on Audible.
-
+Listening to Foundation by Isaac Asimov on Audible  
 Dracula by Bram Stoker on [Dracula by Day](https://dracula-by-day.vercel.app/)
 
 ## Podcasts
