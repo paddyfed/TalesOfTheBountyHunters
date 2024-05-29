@@ -3,7 +3,7 @@ import styles from "../../components/layout.module.css";
 import utilStyles from "../../styles/utils.module.css";
 import Link from "next/link";
 import "../../styles/global.css";
-import MainNav from "../components/MainNav";
+import MainNav from "./components/MainNav";
 
 const name = "Tales of the Bounty Hunters";
 
