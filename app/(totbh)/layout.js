@@ -16,7 +16,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <>
-      <html>
+      <html lang="en">
         <body>
           <div className={styles.container}>
             <header className={styles.header}>
