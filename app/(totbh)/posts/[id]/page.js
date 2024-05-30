@@ -14,13 +14,8 @@ export async function generateStaticParams() {
   return paths;
 }
 
-async function getPost(params) {
-  const postData = await getPostData(params.id);
-  return postData;
-}
-
 export default async function Post({ params }) {
-  const postData = await getPost(params);
+  const postData = await getPostData(params.id);
   return (
     <>
       {postData.title.startsWith("Tweet") ? (
