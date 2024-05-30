@@ -9,6 +9,15 @@ import AverageConsumedExportedImportedPerHour from "../../components/AverageCons
 import TotalConsumedExportedImportedPerHour from "../../components/TotalConsumedExportedImportedPerHourChart";
 import TotalConsumedHomePerDay from "../../components/TotalConsumedHomePerDay";
 
+export async function generateMetadata({ params }) {
+  const postData = await getPostData(params.id);
+  const title = postData.title;
+
+  return {
+    title: title,
+  };
+}
+
 export async function generateStaticParams() {
   const paths = await getAllPostIds();
   return paths;

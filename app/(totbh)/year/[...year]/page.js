@@ -9,6 +9,12 @@ import Link from "next/link";
 import BlogPosts from "../../components/BlogPosts";
 import { notFound } from "next/navigation";
 
+export async function generateMetadata({ params }) {
+  return {
+    title: params.year[0],
+  };
+}
+
 export async function generateStaticParams() {
   const paths = await getAllYearsForPaths();
   return paths;

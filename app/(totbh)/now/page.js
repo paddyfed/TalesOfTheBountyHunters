@@ -11,6 +11,10 @@ import Date from "../../../components/date";
 
 const postsDirectory = path.join(process.cwd(), "app/(totbh)/now");
 
+export const metadata = {
+  title: "Now",
+};
+
 export default async function Now() {
   const postData = await getPostData("now");
 
