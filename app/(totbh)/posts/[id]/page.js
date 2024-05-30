@@ -4,10 +4,10 @@ import Date from "../../../../components/date";
 import utilStyles from "../../../../styles/utils.module.css";
 import Link from "next/link";
 import BlogTags from "../../../../components/blogtags";
-import TotalConsumedExportedPerDayChart from "../../../../components/TotalConsumedExportedPerDayChart";
-import AverageConsumedExportedImportedPerHour from "../../../../components/AverageConsumedExportedImportedPerHourChart";
-import TotalConsumedExportedImportedPerHour from "../../../../components/TotalConsumedExportedImportedPerHourChart copy";
-import TotalConsumedHomePerDay from "../../../../components/TotalConsumedHomePerDay";
+import TotalConsumedExportedPerDayChart from "../../components/TotalConsumedExportedPerDayChart";
+import AverageConsumedExportedImportedPerHour from "../../components/AverageConsumedExportedImportedPerHourChart";
+import TotalConsumedExportedImportedPerHour from "../../components/TotalConsumedExportedImportedPerHourChart";
+import TotalConsumedHomePerDay from "../../components/TotalConsumedHomePerDay";
 
 export async function generateStaticParams() {
   const paths = await getAllPostIds();
