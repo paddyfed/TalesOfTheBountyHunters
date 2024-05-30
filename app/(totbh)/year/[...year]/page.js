@@ -1,5 +1,3 @@
-import Head from "next/head";
-import Layout, { siteTitle } from "../../../../components/layout";
 import utilStyles from "../../../../styles/utils.module.css";
 import {
   getFilteredPostsData,
@@ -9,30 +7,15 @@ import {
 } from "../../../../lib/posts";
 import Link from "next/link";
 import BlogPosts from "../../../../components/blogposts";
+import { notFound } from "next/navigation";
 
 export async function generateStaticParams() {
   const paths = await getAllYearsForPaths();
-  // const paths = [
-  //         {
-  //             params: {
-  //                 year: '2001'
-  //             }
-  //         },
-  //         {
-  //             params: {
-  //                 year: '2002'
-  //             }
-  //         }
-  //     ]
-
   return paths;
 }
 
 async function getYears(params) {
-  console.log(params);
-  console.log(params.year);
   const filteredPostData = await getFilteredPostsData(params.year);
-  console.log(filteredPostData);
   return filteredPostData;
 }
 
@@ -46,15 +29,11 @@ export default async function YearsFilter({ params }) {
   const maxYear = getMaxYear();
 
   if (year.length !== 4) {
-    return {
-      notFound: true,
-    };
+    notFound();
   }
 
   if (month && (month.length !== 2 || +month > 12 || +month < 1)) {
-    return {
-      notFound: true,
-    };
+    notFound();
   }
   return (
     <>
