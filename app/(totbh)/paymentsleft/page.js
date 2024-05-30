@@ -1,18 +1,14 @@
-"use client";
-
 import { PaymentsBuildBlocks } from "../components/PaymentsBuildBlocks";
 import styles from "../components/paymentsbuildblocks.module.css";
 
-// export async function getServerSideProps() {
-//   return { props: { today } };
-// }
+export const metadata = {
+  title: "Payments Left",
+};
 
 export default function PaymentsLeft() {
-  const res = new Date();
-  const today = res.toJSON();
   return (
     <article className={styles.main}>
-      <PaymentsBuildBlocks today={today} />
+      <PaymentsBuildBlocks />
     </article>
   );
 }

@@ -1,6 +1,12 @@
 import { getAllTagsForPaths, getFilteredPostsTag } from "../../../../lib/posts";
 import BlogPosts from "../../components/BlogPosts";
 
+export async function generateMetadata({ params }) {
+  return {
+    title: decodeURIComponent(params.tag),
+  };
+}
+
 export async function generateStaticParams() {
   const paths = getAllTagsForPaths();
 

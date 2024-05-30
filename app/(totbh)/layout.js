@@ -9,7 +9,10 @@ import BackToHomeLink from "./components/BackToHomeLink";
 const name = "Tales of the Bounty Hunters";
 
 export const metadata = {
-  title: name,
+  title: {
+    default: name,
+    template: `${name} : %s`,
+  },
   description: "Blog for Paddy O'Hara",
 };
 

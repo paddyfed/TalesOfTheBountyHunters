@@ -2,6 +2,10 @@ import utilStyles from "../../../styles/utils.module.css";
 import Link from "next/link";
 import { getAllTags } from "../../../lib/posts";
 
+export const metadata = {
+  title: "Posts by Tags",
+};
+
 export default function Tags() {
   const allTagsData = getAllTags();
   return (

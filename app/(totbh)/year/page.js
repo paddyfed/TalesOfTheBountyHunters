@@ -2,6 +2,10 @@ import utilStyles from "../../../styles/utils.module.css";
 import { getAllYearsForStaticProps } from "../../../lib/posts";
 import Link from "next/link";
 
+export const metadata = {
+  title: "Posts by Year",
+};
+
 export default function YearsIndex() {
   const allYears = getAllYearsForStaticProps();
   return (

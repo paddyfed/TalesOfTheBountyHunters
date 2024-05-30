@@ -1,3 +1,4 @@
+"use client";
 import styles from "./paymentsbuildblocks.module.css";
 
 const payments = [
@@ -87,7 +88,8 @@ const styleClassses = {
   2026: styles.c2026,
 };
 
-export function PaymentsBuildBlocks({ today }) {
+export function PaymentsBuildBlocks() {
+  const today = new Date();
   const result = payments.map((x) => {
     const d = new Date(x.payDate);
     const n = new Date(today);
