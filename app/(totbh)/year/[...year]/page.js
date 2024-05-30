@@ -14,13 +14,8 @@ export async function generateStaticParams() {
   return paths;
 }
 
-async function getYears(params) {
-  const filteredPostData = await getFilteredPostsData(params.year);
-  return filteredPostData;
-}
-
 export default async function YearsFilter({ params }) {
-  const filteredPostData = await getYears(params);
+  const filteredPostData = await getFilteredPostsData(params.year);
   const year = params.year[0];
   const month = params.year[1];
   const prevYear = +year - 1;
