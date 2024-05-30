@@ -1,10 +1,11 @@
 ---
 title: "Fridge Magnet: Nerja"
 date: "2010-08-12"
-prevArticle: '2010-08-08_back-to-wexford'
-nextArticle: '2010-08-15_tá-mé-ag-pissed-agus-tá-mé-ag-fucking-retardo'
+prevArticle: "2010-08-08_back-to-wexford"
+nextArticle: "2010-08-15_ta-me-ag-pissed-agus-ta-me-ag-fucking-retardo"
 tags: TotBH - Fridge - Fridge Magnet
 ---
+
 Here's the first in a new section here on TotBH...Fridge Magnets.
 
 Neil started off the fridge magnet craze a few years ago. Every time someone went away on holidays they had to bring back a fridge magnet for everyone and so the collection started. I've now decided to document each magnet that I get starting with this one.
