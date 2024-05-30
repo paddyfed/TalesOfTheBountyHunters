@@ -8,8 +8,8 @@ export async function generateStaticParams() {
 }
 
 export default async function Tags({ params }) {
-  const tag = params.tag;
-  console.log(tag);
+  // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/decodeURIComponent
+  const tag = decodeURIComponent(params.tag);
   const filteredPostData = await getFilteredPostsTag(tag);
   //   console.log(params);
   //   console.log(filteredPostData);
