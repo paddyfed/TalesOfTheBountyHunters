@@ -11,8 +11,7 @@ export default async function Tags({ params }) {
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/decodeURIComponent
   const tag = decodeURIComponent(params.tag);
   const filteredPostData = await getFilteredPostsTag(tag);
-  //   console.log(params);
-  //   console.log(filteredPostData);
+
   return (
     <>
       <BlogPosts heading={tag} filteredPostData={filteredPostData}></BlogPosts>
