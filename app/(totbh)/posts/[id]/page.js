@@ -1,39 +1,28 @@
-import Layout from "../../components/layout";
-import { getAllPostIds, getPostData } from "../../lib/posts";
-import Head from "next/head";
-import TweetDateTime from "../../components/tweetdatetime";
-import Date from "../../components/date";
-import utilStyles from "../../styles/utils.module.css";
+import { getAllPostIds, getPostData } from "../../../../lib/posts";
+import TweetDateTime from "../../../../components/tweetdatetime";
+import Date from "../../../../components/date";
+import utilStyles from "../../../../styles/utils.module.css";
 import Link from "next/link";
-import BlogTags from "../../components/blogtags";
-import TotalConsumedExportedPerDayChart from "../../components/TotalConsumedExportedPerDayChart";
-import AverageConsumedExportedImportedPerHour from "../../components/AverageConsumedExportedImportedPerHourChart";
-import TotalConsumedExportedImportedPerHour from "../../components/TotalConsumedExportedImportedPerHourChart copy";
-import TotalConsumedHomePerDay from "../../components/TotalConsumedHomePerDay";
+import BlogTags from "../../../../components/blogtags";
+import TotalConsumedExportedPerDayChart from "../../../../components/TotalConsumedExportedPerDayChart";
+import AverageConsumedExportedImportedPerHour from "../../../../components/AverageConsumedExportedImportedPerHourChart";
+import TotalConsumedExportedImportedPerHour from "../../../../components/TotalConsumedExportedImportedPerHourChart copy";
+import TotalConsumedHomePerDay from "../../../../components/TotalConsumedHomePerDay";
 
-export async function getStaticProps({ params }) {
+export async function generateStaticParams() {
+  const paths = await getAllPostIds();
+  return paths;
+}
+
+async function getPost(params) {
   const postData = await getPostData(params.id);
-  return {
-    props: {
-      postData,
-    },
-  };
+  return postData;
 }
 
-export async function getStaticPaths() {
-  const paths = getAllPostIds();
-  return {
-    paths,
-    fallback: false,
-  };
-}
-
-export default function Post({ postData }) {
+export default async function Post({ params }) {
+  const postData = await getPost(params);
   return (
-    <Layout>
-      <Head>
-        <title>{postData.title}</title>
-      </Head>
+    <>
       {postData.title.startsWith("Tweet") ? (
         // Tweets
         <>
@@ -108,6 +97,6 @@ export default function Post({ postData }) {
           <span>Next</span>
         )}
       </div>
-    </Layout>
+    </>
   );
 }
