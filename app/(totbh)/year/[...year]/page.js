@@ -6,7 +6,7 @@ import {
   getMaxYear,
 } from "../../../../lib/posts";
 import Link from "next/link";
-import BlogPosts from "../../../../components/blogposts";
+import BlogPosts from "../../components/BlogPosts";
 import { notFound } from "next/navigation";
 
 export async function generateStaticParams() {
