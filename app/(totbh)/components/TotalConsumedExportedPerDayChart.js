@@ -1,13 +1,15 @@
+"use client";
 import { Bar } from "react-chartjs-2";
 import { Chart } from "chart.js/auto";
 import { CategoryScale } from "chart.js/auto";
-import { getDates } from "../lib/getDates";
+import { getDates } from "../../../lib/getDates";
 
-export default function TotalConsumedHomePerDay({
+export default function TotalConsumedExportedPerDayChart({
   month,
   year,
-  consumedHome,
-  consumedEddi,
+  consumed,
+  exported,
+  imported,
 }) {
   Chart.register(CategoryScale);
 
@@ -18,12 +20,16 @@ export default function TotalConsumedHomePerDay({
         // datasets is an array of objects where each object represents a set of data to display corresponding to the labels above. for brevity, we'll keep it at one object
         datasets: [
           {
-            data: consumedHome,
-            label: "Home (kWh)",
+            data: consumed,
+            label: "Consumed (kWh)",
           },
           {
-            label: "Eddi (kWh)",
-            data: consumedEddi,
+            data: imported,
+            label: "Imported (kWh)",
+          },
+          {
+            label: "Exported (kWh)",
+            data: exported,
           },
         ],
       }}
@@ -31,7 +37,7 @@ export default function TotalConsumedHomePerDay({
         plugins: {
           title: {
             display: true,
-            text: "Total Consumed Home/Eddi",
+            text: "Total Consumed/Imported/Exported Per Day",
           },
         },
 
