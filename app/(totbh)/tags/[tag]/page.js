@@ -1,4 +1,4 @@
-import { getAllTagsForPaths, getFilteredPostsTag } from "../../../../lib/posts";
+import { getAllTagsForPaths, getFilteredPostsTag } from "../../utils/posts";
 import BlogPosts from "../../components/BlogPosts";
 
 export async function generateMetadata({ params }) {

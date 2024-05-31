@@ -1,6 +1,6 @@
 import utilStyles from "../utils.module.css";
 import Link from "next/link";
-import { getAllTags } from "../../../lib/posts";
+import { getAllTags } from "../utils/posts";
 
 export const metadata = {
   title: "Posts by Tags",

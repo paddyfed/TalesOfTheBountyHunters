@@ -1,6 +1,4 @@
-import { getAllPostIds, getPostData } from "../../../../lib/posts";
-import utilStyles from "../../utils.module.css";
-import Link from "next/link";
+import { getAllPostIds, getPostData } from "../../utils/posts";
 import TweetPost from "../../components/TweetPost";
 import RegularPost from "../../components/RegularPost";
 import PostNextPrevLink from "../../components/PostNextPrevLink";

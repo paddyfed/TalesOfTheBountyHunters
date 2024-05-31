@@ -1,5 +1,5 @@
 import utilStyles from "../utils.module.css";
-import { getAllYearsForStaticProps } from "../../../lib/posts";
+import { getAllYearsForStaticProps } from "../utils/posts";
 import Link from "next/link";
 
 export const metadata = {
