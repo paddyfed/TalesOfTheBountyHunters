@@ -4,7 +4,7 @@ import {
   getAllYearsForPaths,
   getMinYear,
   getMaxYear,
-} from "../../../../lib/posts";
+} from "../../utils/posts";
 import Link from "next/link";
 import BlogPosts from "../../components/BlogPosts";
 import { notFound } from "next/navigation";
