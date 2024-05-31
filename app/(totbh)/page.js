@@ -1,4 +1,4 @@
-import utilStyles from "../../styles/utils.module.css";
+import utilStyles from "./utils.module.css";
 import { getSortedPostsData } from "../../lib/posts";
 import BlogPosts from "./components/BlogPosts";
 import Link from "next/link";
