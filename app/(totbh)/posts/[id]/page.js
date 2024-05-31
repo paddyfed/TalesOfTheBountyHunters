@@ -1,13 +1,9 @@
 import { getAllPostIds, getPostData } from "../../../../lib/posts";
-import TweetDateTime from "../../components/TweetDateTime";
-import DisplayDate from "../../components/DisplayDate";
 import utilStyles from "../../utils.module.css";
 import Link from "next/link";
-import BlogTags from "../../components/BlogTags";
-import TotalConsumedExportedPerDayChart from "../../components/TotalConsumedExportedPerDayChart";
-import AverageConsumedExportedImportedPerHour from "../../components/AverageConsumedExportedImportedPerHourChart";
-import TotalConsumedExportedImportedPerHour from "../../components/TotalConsumedExportedImportedPerHourChart";
-import TotalConsumedHomePerDay from "../../components/TotalConsumedHomePerDay";
+import TweetPost from "../../components/TweetPost";
+import RegularPost from "../../components/RegularPost";
+import PostNextPrevLink from "../../components/PostNextPrevLink";
 
 export async function generateMetadata({ params }) {
   const postData = await getPostData(params.id);
@@ -29,78 +25,17 @@ export default async function Post({ params }) {
     <>
       {postData.title.startsWith("Tweet") ? (
         // Tweets
-        <>
-          <article>
-            <BlogTags tagList={postData.tags} />
-            <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-            <div className={utilStyles.lightText}>
-              <TweetDateTime dateString={postData.date} />
-            </div>
-            <hr />
-            <div className={utilStyles.lightText}>
-              {postData.retweets} Retweets {postData.likes} Likes
-            </div>
-            <hr />
-          </article>
-        </>
+        <TweetPost postData={postData} />
       ) : (
         // Blog Posts
-        <>
-          <article>
-            <h1 className={utilStyles.headingXl}>{postData.title}</h1>
-            <div className={utilStyles.lightText}>
-              <DisplayDate dateString={postData.date} />
-            </div>
-            <BlogTags tagList={postData.tags} />
-            {postData.consumed ? (
-              <TotalConsumedExportedPerDayChart
-                month={postData.month}
-                year={postData.year}
-                consumed={postData.consumed}
-                exported={postData.exported}
-                imported={postData.imported}
-              />
-            ) : null}
-            {postData.avgConsumed ? (
-              <AverageConsumedExportedImportedPerHour
-                avgConsumed={postData.avgConsumed}
-                avgExported={postData.avgExported}
-                avgImported={postData.avgImported}
-              />
-            ) : null}
-            {postData.totalConsumed ? (
-              <TotalConsumedExportedImportedPerHour
-                totalConsumed={postData.totalConsumed}
-                totalExported={postData.totalExported}
-                totalImported={postData.totalImported}
-              />
-            ) : null}
-            {postData.consumedHome ? (
-              <TotalConsumedHomePerDay
-                month={postData.month}
-                year={postData.year}
-                consumedHome={postData.consumedHome}
-                consumedEddi={postData.consumedEddi}
-              />
-            ) : null}
-            <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-          </article>
-        </>
+        <RegularPost postData={postData} />
       )}
 
-      <div className={utilStyles.articleNavigation}>
-        {postData.prevArticle ? (
-          <Link href={`/posts/${postData.prevArticle}`}>Previous</Link>
-        ) : (
-          <span>Previous</span>
-        )}
-        {<div>{postData.title}</div>}
-        {postData.nextArticle ? (
-          <Link href={`/posts/${postData.nextArticle}`}>Next</Link>
-        ) : (
-          <span>Next</span>
-        )}
-      </div>
+      <PostNextPrevLink
+        nextArticle={postData.nextArticle}
+        prevArticle={postData.prevArticle}
+        title={postData.title}
+      />
     </>
   );
 }
