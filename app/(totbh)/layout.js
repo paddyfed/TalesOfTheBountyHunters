@@ -1,8 +1,8 @@
 import Image from "next/image";
-import styles from "../../components/layout.module.css";
-import utilStyles from "../../styles/utils.module.css";
+import styles from "./layout.module.css";
+import utilStyles from "./utils.module.css";
 import Link from "next/link";
-import "../../styles/global.css";
+import "./global.css";
 import MainNav from "./components/MainNav";
 import BackToHomeLink from "./components/BackToHomeLink";
 

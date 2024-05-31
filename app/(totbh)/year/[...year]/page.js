@@ -1,4 +1,4 @@
-import utilStyles from "../../../../styles/utils.module.css";
+import utilStyles from "../../utils.module.css";
 import {
   getFilteredPostsData,
   getAllYearsForPaths,

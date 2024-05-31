@@ -6,8 +6,8 @@ import remarkParse from "remark-parse";
 import remarkRehype from "remark-rehype";
 import remarkGfm from "remark-gfm";
 import { unified } from "unified";
-import utilStyles from "../../../styles/utils.module.css";
-import Date from "../../../components/date";
+import utilStyles from "../utils.module.css";
+import DisplayDate from "../components/DisplayDate";
 
 const postsDirectory = path.join(process.cwd(), "app/(totbh)/now");
 
@@ -22,7 +22,7 @@ export default async function Now() {
     <>
       <h1 className={utilStyles.headingXl}>{postData.title}</h1>
       <div className={utilStyles.lightText}>
-        Last Updated: <Date dateString={postData.date} />
+        Last Updated: <DisplayDate dateString={postData.date} />
       </div>
       <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }}></div>
     </>

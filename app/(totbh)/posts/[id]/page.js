@@ -1,9 +1,9 @@
 import { getAllPostIds, getPostData } from "../../../../lib/posts";
-import TweetDateTime from "../../../../components/tweetdatetime";
-import Date from "../../../../components/date";
-import utilStyles from "../../../../styles/utils.module.css";
+import TweetDateTime from "../../components/TweetDateTime";
+import DisplayDate from "../../components/DisplayDate";
+import utilStyles from "../../utils.module.css";
 import Link from "next/link";
-import BlogTags from "../../../../components/blogtags";
+import BlogTags from "../../components/BlogTags";
 import TotalConsumedExportedPerDayChart from "../../components/TotalConsumedExportedPerDayChart";
 import AverageConsumedExportedImportedPerHour from "../../components/AverageConsumedExportedImportedPerHourChart";
 import TotalConsumedExportedImportedPerHour from "../../components/TotalConsumedExportedImportedPerHourChart";
@@ -49,7 +49,7 @@ export default async function Post({ params }) {
           <article>
             <h1 className={utilStyles.headingXl}>{postData.title}</h1>
             <div className={utilStyles.lightText}>
-              <Date dateString={postData.date} />
+              <DisplayDate dateString={postData.date} />
             </div>
             <BlogTags tagList={postData.tags} />
             {postData.consumed ? (

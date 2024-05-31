@@ -1,6 +1,6 @@
 import Link from "next/link";
-import utilStyles from "../../../styles/utils.module.css";
-import Date from "../../../components/date";
+import utilStyles from "../utils.module.css";
+import DisplayDate from "../components/DisplayDate";
 
 export default function BlogPosts({ heading, filteredPostData }) {
   return (
@@ -20,7 +20,7 @@ export default function BlogPosts({ heading, filteredPostData }) {
                 <Link href={`/posts/${id}`}>{title}</Link>
                 <br />
                 <small className={utilStyles.lightText}>
-                  <Date dateString={date} />
+                  <DisplayDate dateString={date} />
                 </small>
               </li>
             ))}
