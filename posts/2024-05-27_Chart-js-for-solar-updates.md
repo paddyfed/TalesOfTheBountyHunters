@@ -2,7 +2,7 @@
 title: "Using Chart.js for the Solar Updates"
 date: "2024-05-27"
 prevArticle: "2024-05-01_Solar-Update-April-2024"
-nextArticle: ""
+nextArticle: "2024-06-10_Solar-Update-May-2024"
 tags: Solar Update - Blog - Website - Chart.js
 ---
 
