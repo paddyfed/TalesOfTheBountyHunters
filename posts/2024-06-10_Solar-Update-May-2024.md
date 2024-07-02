@@ -328,7 +328,7 @@ consumedEddi:
   - 18.284
 ---
 
-A bit of a jump in kWh consumed for May and a small drop in kWh Imported and from memory May wasn't as sunny as April but I guess it was just about the same. The extra hours of sunshine in the afternoons is likely helping out too. There was a reduction in energy exported so we must be using the energy better this month than last too.
+A bit of a jump in kWh consumed (572kWh) for May and a small drop in kWh Imported (113kWh) and from memory May wasn't as sunny as April but I guess it was just about the same. The extra hours of sunshine in the afternoons is likely helping out too. There was a reduction in energy exported so we must be using the energy better this month than last too.
 
 We are just back from holidays and I had the Eddi turned off for that duration so I expect a big jump in export next month.
 
