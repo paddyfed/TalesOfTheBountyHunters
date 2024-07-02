@@ -323,7 +323,7 @@ consumedEddi:
   - 12.119
 ---
 
-As expected there is a big jump in exported totals this month as I had turned off the Edi while we were on holidays. Overall there were 500kWh consumed and 213kWh exported for a total of 713kWh in June. This was slightly higher than last month which came in at 685kWh. This is probably the apex of the generation for the year as we are well into the summer now. June was quite wet and the first few days of July haven't been all that bright either.
+As expected there is a big jump in exported totals this month as I had turned off the Edi while we were on holidays. Overall there were 500kWh consumed and 213kWh exported for a total of 713kWh in June. This was slightly higher than last month which came in at 685kWh. This is probably the apex of the generation for the year as we are well into the summer now. June was quite wet and the first few days of July haven't been all that bright either. The few days away gives us a look at the "passive" energy that the house is producing. From the Consumed and Imported figures of those days the house passive energy usage is just under 3.5kWh per day of which 1.3kWh is imported. That is approximatly 145 watts per hour.
 
 Only two months left until we have had the system in for 12 months and then we can start comparing year on year.
 
