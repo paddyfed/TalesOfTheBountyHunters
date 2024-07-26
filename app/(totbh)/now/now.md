@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2024-06-24"
+date: "2024-07-26"
 ---
 
 ## Living in
@@ -13,10 +13,13 @@ Not working at the minute. Currently looking for front-end web development roles
 
 ## Studying
 
-### Current 
+### Current
+
 [UCD Professional Academy - Front-End Web Development](https://www.ucd.ie/professionalacademy/findyourcourse/front-end-web-development/)  
+The last session of this course was this week and we have two weeks to submit our project.
 
 ### Completed
+
 [IBM SkillsBuild - Data Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/data-analyst#sb--adult-learners-journey)
 
 ## Reading
@@ -27,12 +30,12 @@ The Princess and the Scoundrel by Beth Revis
 
 ### Other
 
-Listening to Foundation by Isaac Asimov on Audible  
+Listening to Foundation and Empire by Isaac Asimov on Audible  
 Dracula by Bram Stoker on [Dracula by Day](https://dracula-by-day.vercel.app/)
 
 ## Podcasts
 
-Dungeons and Daddies. I started listening to this podcast when my son was being born and I've gone back to the start of this again in the last few months. Currently on Season 1 Episode 67 - Mortal Wombat.
+Dungeons and Daddies. I started listening to this podcast when my son was being born and I've gone back to the start of this again in the last few months. Currently on Season 2 Episode 15 - California Pizza Kombat.
 
 ## Personal projects
 
