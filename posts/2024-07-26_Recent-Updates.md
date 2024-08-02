@@ -2,7 +2,7 @@
 title: "Some recent updates"
 date: "2024-07-26"
 prevArticle: "2024-07-02_Solar-Update-June-2024"
-nextArticle: ""
+nextArticle: "2024-08-02_Solar-Update-July-2024"
 tags: Blog - Work
 ---
 
