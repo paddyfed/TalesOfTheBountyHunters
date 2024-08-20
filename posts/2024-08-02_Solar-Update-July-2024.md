@@ -2,7 +2,7 @@
 title: "Solar Update - July 2024"
 date: "2024-08-02"
 prevArticle: "2024-07-26_Recent-Updates"
-nextArticle: ""
+nextArticle: "2024-08-20_On-The-Job-Hunt"
 tags: Solar Panels - Solar Update
 month: "7"
 year: "2024"
