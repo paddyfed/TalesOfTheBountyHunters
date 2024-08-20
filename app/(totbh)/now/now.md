@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2024-07-26"
+date: "2024-08-20"
 ---
 
 ## Living in
@@ -16,7 +16,7 @@ Not working at the minute. Currently looking for front-end web development roles
 ### Current
 
 [UCD Professional Academy - Front-End Web Development](https://www.ucd.ie/professionalacademy/findyourcourse/front-end-web-development/)  
-The last session of this course was this week and we have two weeks to submit our project.
+I submitted my [movie site project](https://paddyfed.github.io/movies-movies-movies) for the web development course and am awaiting the results.
 
 ### Completed
 
@@ -26,7 +26,8 @@ The last session of this course was this week and we have two weeks to submit ou
 
 ### Star Wars
 
-The Princess and the Scoundrel by Beth Revis
+The Princess and the Scoundrel by Beth Revis  
+Star Wars - Kanan written by Greg Weisman
 
 ### Other
 
@@ -35,10 +36,10 @@ Dracula by Bram Stoker on [Dracula by Day](https://dracula-by-day.vercel.app/)
 
 ## Podcasts
 
-Dungeons and Daddies. I started listening to this podcast when my son was being born and I've gone back to the start of this again in the last few months. Currently on Season 2 Episode 15 - California Pizza Kombat.
+Dungeons and Daddies. I started listening to this podcast when my son was being born and I've gone back to the start of this again in the last few months. Currently on Season 2 Episode 21 - Finding Forest Her.
 
 ## Personal projects
 
 The last few personal projects I worked on were this [Star Wars Bookcase](https://star-wars-bookcase.vercel.app/) and the [Dracula by Day](https://dracula-by-day.vercel.app/) site. This is the first year I've been following the Dracula story on a day-by-day basis.
 
-I have started on a [movie site project](https://paddyfed.github.io/movies-movies-movies) for the web development course. Hosted on GitHub pages but I might move it to Vercel after the course is over.
+I have completed and submitted a [movie site project](https://paddyfed.github.io/movies-movies-movies) for the web development course. Hosted on GitHub pages but I might move it to Vercel after the course is over.
