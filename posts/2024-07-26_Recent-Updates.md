@@ -14,7 +14,7 @@ The team eventually got through it and released Compliance Tracker in version 11
 
 Of course this does mean I have been out of work for a while but I have been trying to keep myself busy. My passion has always been web/software development and I think those roles would suit me far better than an analyst role would. I have made a number of project sites to help me learn new things like Next.js and Astro/Svelte. I have been attending a UCD Professional Academy course in Front End Web Development too, which is now sadly coming to an end.
 
-I'm not sure what the future will bring. I have allied for a FIT apprenticeship in software development and have allied for one or two jobs since. I may decide to go back to college to freshen up my education section of the CV. In the meantime there's plenty of jobs to be done around the house too.
+I'm not sure what the future will bring. I have applied for a FIT apprenticeship in software development and have applied for one or two jobs since. I may decide to go back to college to freshen up my education section of the CV. In the meantime there's plenty of jobs to be done around the house too.
 
 I have created a ["Now"](/now) page [(nownownow.com)](https://nownownow.com/about) on the site to track what I have been up to lately but I may still add posts like this from time-to-time as the Now page doesn't keep a history of events.
 
