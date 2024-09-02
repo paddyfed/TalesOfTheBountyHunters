@@ -2,7 +2,7 @@
 title: "On the job hunt"
 date: "2024-08-20"
 prevArticle: "2024-08-02_Solar-Update-July-2024"
-nextArticle: ""
+nextArticle: "2024-09-02_Solar-Update-August-2024"
 tags: Blog - Work
 ---
 
