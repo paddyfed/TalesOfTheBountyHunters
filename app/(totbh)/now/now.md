@@ -15,11 +15,13 @@ Not working at the minute. Currently looking for front-end web development roles
 
 ### Current
 
+None
+
 ### Completed
 
-[IBM SkillsBuild - Data Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/data-analyst#sb--adult-learners-journey)  
 [UCD Professional Academy - Front-End Web Development](https://www.ucd.ie/professionalacademy/findyourcourse/front-end-web-development/)  
 Result from my project was a Distinction
+[IBM SkillsBuild - Data Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/data-analyst#sb--adult-learners-journey)
 
 ## Reading
 
