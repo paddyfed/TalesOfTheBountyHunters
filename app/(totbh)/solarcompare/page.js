@@ -1,5 +1,8 @@
 "use client";
-import Chart from "react-apexcharts";
+import dynamic from "next/dynamic";
+
+// https://dev.to/vvo/how-to-solve-window-is-not-defined-errors-in-react-and-next-js-5f97
+const Chart = dynamic(() => import("react-apexcharts"), { ssr: false });
 
 export default function SolarCompare() {
   const options = {
