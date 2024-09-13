@@ -4,10 +4,9 @@ import dynamic from "next/dynamic";
 // https://dev.to/vvo/how-to-solve-window-is-not-defined-errors-in-react-and-next-js-5f97
 const Chart = dynamic(() => import("react-apexcharts"), { ssr: false });
 
-export default function SolarCompare() {
+export default function EnergyByYearChart() {
   const options = {
     chart: {
-      type: "bar",
       stacked: true,
     },
     xaxis: {
@@ -43,9 +42,6 @@ export default function SolarCompare() {
     },
     dataLabels: {
       enabled: false,
-      style: {
-        fontSize: "8px",
-      },
     },
     legend: {
       position: "top",
@@ -256,11 +252,5 @@ export default function SolarCompare() {
       ],
     },
   ];
-
-  return (
-    <>
-      <h1>Hello</h1>
-      <Chart options={options} series={series} type="bar" />
-    </>
-  );
+  return <Chart options={options} series={series} type="bar" />;
 }
