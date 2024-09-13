@@ -1,6 +1,10 @@
 import Link from "next/link";
 import EnergyByYearChart from "../components/EnergyByYearChart";
 
+export const metadata = {
+  title: "Energy by Year",
+};
+
 export default function SolarCompare() {
   return (
     <>
