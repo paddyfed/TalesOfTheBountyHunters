@@ -16,6 +16,12 @@ export default function MainNav() {
           <Link href="/now">Now</Link>
         </li>
         <li>
+          <Link href="/tags/Solar%20Update">Solar Updates</Link>
+        </li>
+        <li>
+          <Link href="/energybyyear">Energy by Year</Link>
+        </li>
+        <li>
           <Link href="/paymentsleft">Payments Left</Link>
         </li>
         <li>
