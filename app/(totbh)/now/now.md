@@ -9,7 +9,7 @@ Monaghan
 
 ## Working in
 
-Not working at the minute. Currently looking for front-end web development roles and applied for a FIT apprenticeship. Also thinking of applying to a Digital Media course in Monaghan Institute
+Not working at the minute. Currently looking for front-end web development roles and applied for a FIT apprenticeship. Will be starting a Digital Media traineeship in Monaghan Institute on Monday 16th September.
 
 ## Studying
 
@@ -20,14 +20,14 @@ None
 ### Completed
 
 [UCD Professional Academy - Front-End Web Development](https://www.ucd.ie/professionalacademy/findyourcourse/front-end-web-development/)  
-Result from my project was a Distinction
+Result from my project was a Distinction  
 [IBM SkillsBuild - Data Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/data-analyst#sb--adult-learners-journey)
 
 ## Reading
 
 ### Star Wars
 
-The Princess and the Scoundrel by Beth Revis  
+The High Republic: Race to Crashpoint Tower by Daniel José Older  
 Star Wars (2015) written by Jason Aaron, Darth Vader (2015) written by Kieron Gillen  
 I'm getting back into reading the canon comics recently and am using [this guide](https://www.starwarsnewsnet.com/2024/01/a-star-wars-marvel-comics-reading-guide.html) to help with the reading order
 
@@ -38,7 +38,16 @@ Dracula by Bram Stoker on [Dracula by Day](https://dracula-by-day.vercel.app/)
 
 ## Podcasts
 
-Dungeons and Daddies. I started listening to this podcast when my son was being born and I've gone back to the start of this again in the last few months. Currently on Season 2 Episode 24 - Spider-Boyz: Homecoming.
+Dungeons and Daddies. Currently on Season 2 Episode 35 - Apollo Four Teens.  
+The Rest is Entertainment
+
+## Watching
+
+### TV
+
+Star Trek: Deep Space Nine  
+Star Trek: Voyager  
+Cobra Kai
 
 ## Personal projects
 
