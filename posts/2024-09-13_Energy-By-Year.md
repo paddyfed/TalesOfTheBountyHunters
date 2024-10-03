@@ -2,7 +2,7 @@
 title: "Energy by Year"
 date: "2024-09-13"
 prevArticle: "2024-09-02_Solar-Update-August-2024"
-nextArticle: ""
+nextArticle: "2024-10-03_Solar-Update-September-2024"
 tags: Blog - Solar Update - ApexCharts - Chart.js - Traineeship
 ---
 
