@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2024-09-13"
+date: "2024-10-03"
 ---
 
 ## Living in
@@ -9,13 +9,13 @@ Monaghan
 
 ## Working in
 
-Not working at the minute. Currently looking for front-end web development roles and applied for a FIT apprenticeship. Will be starting a Digital Media traineeship in Monaghan Institute on Monday 16th September.
+Not working at the minute. I have started a Digital Media and Marketing course in Monaghan Institute
 
 ## Studying
 
 ### Current
 
-None
+Level 5 Traineeship – Digital Marketing - QQI Level 5 Multimedia Production
 
 ### Completed
 
@@ -38,8 +38,10 @@ Dracula by Bram Stoker on [Dracula by Day](https://dracula-by-day.vercel.app/)
 
 ## Podcasts
 
-Dungeons and Daddies. Currently on Season 2 Episode 35 - Apollo Four Teens.  
+Dungeons and Daddies. Currently on Season 2 Episode 45 - Hell or High Father.  
 The Rest is Entertainment
+Lunchtime with Michael Fry
+Harry Hill's "Are We There Yet?"
 
 ## Watching
 
@@ -47,7 +49,7 @@ The Rest is Entertainment
 
 Star Trek: Deep Space Nine  
 Star Trek: Voyager  
-Cobra Kai
+Only Murders in the Building
 
 ## Personal projects
 
