@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2024-10-03"
+date: "2024-11-07"
 ---
 
 ## Living in
@@ -9,7 +9,7 @@ Monaghan
 
 ## Working in
 
-Not working at the minute. I have started a Digital Media and Marketing course in Monaghan Institute
+Not working at the minute
 
 ## Studying
 
@@ -27,20 +27,16 @@ Result from my project was a Distinction
 
 ### Star Wars
 
-The High Republic: Race to Crashpoint Tower by Daniel José Older  
-Star Wars (2015) written by Jason Aaron, Darth Vader (2015) written by Kieron Gillen  
-I'm getting back into reading the canon comics recently and am using [this guide](https://www.starwarsnewsnet.com/2024/01/a-star-wars-marvel-comics-reading-guide.html) to help with the reading order
+None
 
 ### Other
 
-Listening to Foundation and Empire by Isaac Asimov on Audible  
-Dracula by Bram Stoker on [Dracula by Day](https://dracula-by-day.vercel.app/)
+Listening to Foundation and Empire by Isaac Asimov on Audible
 
 ## Podcasts
 
 Dungeons and Daddies. Currently on Season 2 Episode 45 - Hell or High Father.  
-The Rest is Entertainment
-Lunchtime with Michael Fry
+The Rest is Entertainment  
 Harry Hill's "Are We There Yet?"
 
 ## Watching
@@ -49,7 +45,8 @@ Harry Hill's "Are We There Yet?"
 
 Star Trek: Deep Space Nine  
 Star Trek: Voyager  
-Only Murders in the Building
+Only Murders in the Building  
+Taskmaster
 
 ## Personal projects
 
