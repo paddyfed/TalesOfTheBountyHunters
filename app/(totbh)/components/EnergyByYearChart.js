@@ -28,7 +28,7 @@ export default function EnergyByYearChart() {
           { title: "Aug", cols: 2 },
           { title: "Sep", cols: 2 },
           { title: "Oct", cols: 2 },
-          { title: "Nov", cols: 1 },
+          { title: "Nov", cols: 2 },
           { title: "Dec", cols: 1 },
         ],
       },
@@ -120,6 +120,10 @@ export default function EnergyByYearChart() {
           x: "2023",
           y: 205.711,
         },
+        {
+          x: "2024",
+          y: 146.536,
+        },
 
         {
           x: "2023",
@@ -194,6 +198,10 @@ export default function EnergyByYearChart() {
           x: "2023",
           y: 18.557,
         },
+        {
+          x: "2024",
+          y: 4.308,
+        },
 
         {
           x: "2023",
@@ -267,6 +275,10 @@ export default function EnergyByYearChart() {
         {
           x: "2023",
           y: 361.32,
+        },
+        {
+          x: "2024",
+          y: 581.971,
         },
 
         {

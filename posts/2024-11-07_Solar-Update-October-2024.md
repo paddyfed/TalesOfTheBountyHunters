@@ -2,7 +2,7 @@
 title: "Solar Update - October 2024"
 date: "2024-11-07"
 prevArticle: "2024-10-03_Solar-Update-September-2024"
-nextArticle: ""
+nextArticle: "2024-12-13_Solar-Update-November-2024"
 tags: Solar Panels - Solar Update
 month: "10"
 year: "2024"
