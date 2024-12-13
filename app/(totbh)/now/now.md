@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2024-11-07"
+date: "2024-12-13"
 ---
 
 ## Living in
@@ -27,7 +27,7 @@ Result from my project was a Distinction
 
 ### Star Wars
 
-None
+Back reading the Star Wars comics from Marvel
 
 ### Other
 
@@ -35,7 +35,7 @@ Listening to Foundation and Empire by Isaac Asimov on Audible
 
 ## Podcasts
 
-Dungeons and Daddies. Currently on Season 2 Episode 45 - Hell or High Father.  
+Dungeons and Daddies. Have finally caught up and am now waiting for the next episode to be released.  
 The Rest is Entertainment  
 Harry Hill's "Are We There Yet?"
 
@@ -45,8 +45,8 @@ Harry Hill's "Are We There Yet?"
 
 Star Trek: Deep Space Nine  
 Star Trek: Voyager  
-Only Murders in the Building  
-Taskmaster
+Cobra Kai
+Only Murders in the Building
 
 ## Personal projects
 
