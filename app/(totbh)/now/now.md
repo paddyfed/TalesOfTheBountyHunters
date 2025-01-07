@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2024-12-13"
+date: "2025-01-07"
 ---
 
 ## Living in
@@ -35,7 +35,7 @@ Listening to Foundation and Empire by Isaac Asimov on Audible
 
 ## Podcasts
 
-Dungeons and Daddies. Have finally caught up and am now waiting for the next episode to be released.  
+Dungeons and Daddies  
 The Rest is Entertainment  
 Harry Hill's "Are We There Yet?"
 
@@ -44,9 +44,7 @@ Harry Hill's "Are We There Yet?"
 ### TV
 
 Star Trek: Deep Space Nine  
-Star Trek: Voyager  
-Cobra Kai
-Only Murders in the Building
+Star Trek: Voyager
 
 ## Personal projects
 
