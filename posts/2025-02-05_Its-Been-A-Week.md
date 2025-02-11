@@ -2,7 +2,7 @@
 title: "It's been a week"
 date: "2025-02-05"
 prevArticle: "2025-01-16_Christmas_Lights-2024"
-nextArticle: ""
+nextArticle: "2025-02-11_Solar-Update-January-2025"
 tags: Storm - Storm Éowyn
 ---
 
