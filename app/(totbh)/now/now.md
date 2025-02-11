@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2025-01-07"
+date: "2025-02-11"
 ---
 
 ## Living in
@@ -31,13 +31,15 @@ Back reading the Star Wars comics from Marvel
 
 ### Other
 
-Listening to Foundation and Empire by Isaac Asimov on Audible
+Listening to Second Foundation by Isaac Asimov on Audible
 
 ## Podcasts
 
 Dungeons and Daddies  
 The Rest is Entertainment  
-Harry Hill's "Are We There Yet?"
+Harry Hill's "Are We There Yet?"  
+Desert Island Dicks  
+RHLSTP
 
 ## Watching
 
