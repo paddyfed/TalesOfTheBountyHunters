@@ -2,7 +2,7 @@
 title: "Christmas Lights in 2024"
 date: "2025-01-16"
 prevArticle: "2025-01-07_Solar-Update-December-2024"
-nextArticle: "2025-02-05 Its-Been-A-Week"
+nextArticle: "2025-02-05_Its-Been-A-Week"
 tags: Christmas - Christmas Lights
 ---
 
