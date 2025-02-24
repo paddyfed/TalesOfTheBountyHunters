@@ -3,21 +3,26 @@
 import { useState } from "react";
 
 export default function GroupCalculator() {
-  const [n, setN] = useState(18);
-  const [maxGroupSize, setMaxGroupSize] = useState(5);
-  const [minGroupSize, setMinGroupSize] = useState(4);
+  const [n, setN] = useState();
+  const [maxGroupSize, setMaxGroupSize] = useState();
+  const [minGroupSize, setMinGroupSize] = useState();
 
   let groupsOfMax = Math.floor(n / maxGroupSize); // Maximize groups of max size
   let remainder = n % maxGroupSize;
+  let groupsOfMin = 0;
 
-  if (remainder < minGroupSize && remainder > 0) {
-    // Adjust by converting one max group into smaller groups
+  while (remainder > 0 && remainder < minGroupSize && groupsOfMax > 0) {
+    // Keep adjusting by converting max groups into smaller groups until remainder is usable
+    console.log("loop 1", remainder, maxGroupSize);
     groupsOfMax--;
-    remainder += maxGroupSize;
+    remainder = remainder + maxGroupSize;
+    console.log("loop 2", remainder, maxGroupSize);
   }
 
-  let groupsOfMin =
-    remainder >= minGroupSize ? Math.floor(remainder / minGroupSize) : 0;
+  while (remainder >= minGroupSize) {
+    remainder -= minGroupSize;
+    groupsOfMin++;
+  }
 
   return (
     <>
@@ -30,7 +35,7 @@ export default function GroupCalculator() {
             name="participants"
             id="participants"
             value={n}
-            onChange={(e) => setN(e.target.value)}
+            onChange={(e) => setN(parseInt(e.target.value))}
           />
         </p>
 
@@ -41,7 +46,10 @@ export default function GroupCalculator() {
             name="maxGroup"
             id="maxGroup"
             value={maxGroupSize}
-            onChange={(e) => setMaxGroupSize(parseInt(e.target.value))}
+            onChange={(e) => {
+              setMaxGroupSize(parseInt(e.target.value));
+              setMinGroupSize(parseInt(e.target.value - 1));
+            }}
           />
         </p>
       </form>
