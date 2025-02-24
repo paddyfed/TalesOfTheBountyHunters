@@ -1,13 +1,19 @@
 "use client";
 
 import { useSearchParams } from "next/navigation";
+import { useState } from "react";
 
 export default function GroupCalculator() {
   const searchParams = useSearchParams();
 
-  const n = searchParams.get("participants") ?? 18;
-  const maxGroupSize = searchParams.get("maxGroup") ?? 5;
-  const minGroupSize = searchParams.get("maxGroup") - 1 ?? 4;
+  const [n, setN] = useState(searchParams.get("participants") ?? 18);
+  const [maxGroupSize, setMaxGroupSize] = useState(
+    parseInt(searchParams.get("maxGroup")) ?? 5
+  );
+  const [minGroupSize, setMinGroupSize] = useState(
+    parseInt(searchParams.get("maxGroup")) - 1 ?? 4
+  );
+
   let groupsOfMax = Math.floor(n / maxGroupSize); // Maximize groups of max size
   let remainder = n % maxGroupSize;
 
@@ -22,8 +28,21 @@ export default function GroupCalculator() {
 
   return (
     <>
-      Groups of {maxGroupSize}: {groupsOfMax}, Groups of {minGroupSize}:{" "}
-      {groupsOfMin}
+      <form>
+        <h1> Our Form </h1>
+        <label htmlFor="title">Participants</label>
+        <input type="text" name="participants" id="participants" />
+
+        <label htmlFor="body">Max Group Size</label>
+        <input type="text" name="maxGroup" id="maxGroup" />
+        <input type="submit" value="Submit" />
+      </form>
+      <p>
+        <strong>Groups of {maxGroupSize} - </strong> {groupsOfMax}
+      </p>
+      <p>
+        <strong>Groups of {minGroupSize} - </strong> {groupsOfMin}
+      </p>
     </>
   );
 }
