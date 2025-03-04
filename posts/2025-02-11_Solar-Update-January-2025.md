@@ -2,7 +2,7 @@
 title: "Solar Update - January 2025"
 date: "2025-02-11"
 prevArticle: "2025-02-05_Its-Been-A-Week"
-nextArticle: ""
+nextArticle: "2025-03-04_Solar-Update-February-2025"
 tags: Solar Panels - Solar Update - Storm Éowyn
 month: "01"
 year: "2025"
