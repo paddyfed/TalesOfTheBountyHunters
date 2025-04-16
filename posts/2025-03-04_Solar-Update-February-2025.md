@@ -2,7 +2,7 @@
 title: "Solar Update - February 2025"
 date: "2025-03-04"
 prevArticle: "2025-02-11_Solar-Update-January-2025"
-nextArticle: ""
+nextArticle: "2025-04-16_Solar-Update-March-2025"
 tags: Solar Panels - Solar Update - Storm Éowyn
 month: "02"
 year: "2025"
