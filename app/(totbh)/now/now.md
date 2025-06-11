@@ -15,12 +15,17 @@ Not working at the minute
 
 ### Current
 
-Level 5 Traineeship – Digital Marketing - QQI Level 5 Multimedia Production
+None at the minute. I hope to go back to Monaghan Institute to complete the Level 6 in Media Production
 
 ### Completed
 
-[UCD Professional Academy - Front-End Web Development](https://www.ucd.ie/professionalacademy/findyourcourse/front-end-web-development/)  
-Result from my project was a Distinction  
+Level 5 Traineeship – Digital Marketing - QQI Level 5 Multimedia Production  
+[Adobe Certified Professional in Graphic Design & Illustration Using Adobe Illustrator](https://www.credly.com/earner/earned/badge/5d609c62-bdd1-4497-bd80-f6f13e15e832)  
+[Adobe Certified Professional in Digital Video Using Adobe Premiere Pro](https://www.credly.com/earner/earned/badge/b7b7bdc9-316c-4c07-ac99-978532cc7ce8)  
+[Adobe Certified Professional in Visual Design Using Adobe Photoshop](https://www.credly.com/earner/earned/badge/c2f8fab8-14f7-4f11-a932-bd6758af7acf)  
+[Adobe Certified Professional in Visual Design](https://www.credly.com/earner/earned/badge/7d0d4ad0-b413-4bfe-a980-6d6a5a9da6f2)  
+[Adobe Certified Professional in Video Design](https://www.credly.com/earner/earned/badge/20b0e37d-d516-4050-a2df-573876fe4465)  
+[UCD Professional Academy - Front-End Web Development](https://www.ucd.ie/professionalacademy/findyourcourse/front-end-web-development/) Result from my project was a Distinction  
 [IBM SkillsBuild - Data Fundamentals](https://skillsbuild.org/adult-learners/explore-learning/data-analyst#sb--adult-learners-journey)
 
 ## Reading

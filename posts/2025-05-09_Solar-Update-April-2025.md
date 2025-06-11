@@ -2,7 +2,7 @@
 title: "Solar Update - April 2025"
 date: "2025-05-09"
 prevArticle: "2025-04-16_Solar-Update-March-2025"
-nextArticle: ""
+nextArticle: "2025-06-11_Solar-Update-May-2025"
 tags: Solar Panels - Solar Update
 month: "04"
 year: "2025"
