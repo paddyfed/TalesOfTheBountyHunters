@@ -9,7 +9,7 @@ Monaghan
 
 ## Working in
 
-Not working at the minute
+Starting a 4-6 week contract with CMETB as an Instructional Designer
 
 ## Studying
 
@@ -36,7 +36,7 @@ Back reading the Star Wars comics from Marvel
 
 ### Other
 
-Listening to Mythos by Stephen Fry on Audible
+Listening to Heroes by Stephen Fry on Audible
 
 ## Podcasts
 
@@ -49,7 +49,6 @@ RHLSTP
 
 ### TV
 
-Star Trek: Deep Space Nine  
 Star Trek: Voyager
 
 ## Personal projects
