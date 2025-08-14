@@ -4,6 +4,7 @@
 const nextConfig = {
   /* config options here */
   output: "standalone",
+  allowedDevOrigins: ["local-origin.dev", "*.local-origin.dev"],
 };
 
 module.exports = nextConfig;

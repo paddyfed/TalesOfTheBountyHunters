@@ -3,7 +3,8 @@ import TweetPost from "../../components/TweetPost";
 import RegularPost from "../../components/RegularPost";
 import PostNextPrevLink from "../../components/PostNextPrevLink";
 
-export async function generateMetadata({ params }) {
+export async function generateMetadata(props) {
+  const params = await props.params;
   const postData = await getPostData(params.id);
   const title = postData.title;
 
@@ -17,18 +18,18 @@ export async function generateStaticParams() {
   return paths;
 }
 
-export default async function Post({ params }) {
+export default async function Post(props) {
+  const params = await props.params;
   const postData = await getPostData(params.id);
   return (
     <>
       {postData.title.startsWith("Tweet") ? (
         // Tweets
-        <TweetPost postData={postData} />
+        (<TweetPost postData={postData} />)
       ) : (
         // Blog Posts
-        <RegularPost postData={postData} />
+        (<RegularPost postData={postData} />)
       )}
-
       <PostNextPrevLink
         nextArticle={postData.nextArticle}
         prevArticle={postData.prevArticle}

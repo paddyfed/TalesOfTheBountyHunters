@@ -9,7 +9,8 @@ import Link from "next/link";
 import BlogPosts from "../../components/BlogPosts";
 import { notFound } from "next/navigation";
 
-export async function generateMetadata({ params }) {
+export async function generateMetadata(props) {
+  const params = await props.params;
   return {
     title: params.year[0],
   };
@@ -20,7 +21,8 @@ export async function generateStaticParams() {
   return paths;
 }
 
-export default async function YearsFilter({ params }) {
+export default async function YearsFilter(props) {
+  const params = await props.params;
   const filteredPostData = await getFilteredPostsData(params.year);
   const year = params.year[0];
   const month = params.year[1];
