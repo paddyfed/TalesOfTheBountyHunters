@@ -9,7 +9,7 @@ Monaghan
 
 ## Working in
 
-Starting a 4-6 week contract with CMETB as an Instructional Designer
+4-6 week contract with CMETB as an Instructional Designer
 
 ## Studying
 
@@ -19,7 +19,7 @@ None at the minute. I hope to go back to Monaghan Institute to complete the Leve
 
 ### Completed
 
-Level 5 Traineeship – Digital Marketing - QQI Level 5 Multimedia Production  
+Level 5 Traineeship - Digital Marketing - QQI Level 5 Multimedia Production  
 [Adobe Certified Professional in Graphic Design & Illustration Using Adobe Illustrator](https://www.credly.com/earner/earned/badge/5d609c62-bdd1-4497-bd80-f6f13e15e832)  
 [Adobe Certified Professional in Digital Video Using Adobe Premiere Pro](https://www.credly.com/earner/earned/badge/b7b7bdc9-316c-4c07-ac99-978532cc7ce8)  
 [Adobe Certified Professional in Visual Design Using Adobe Photoshop](https://www.credly.com/earner/earned/badge/c2f8fab8-14f7-4f11-a932-bd6758af7acf)  
@@ -36,7 +36,7 @@ Back reading the Star Wars comics from Marvel
 
 ### Other
 
-Listening to Heroes by Stephen Fry on Audible
+Listening to Troy by Stephen Fry on Audible
 
 ## Podcasts
 
