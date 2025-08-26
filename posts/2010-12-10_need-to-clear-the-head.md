@@ -2,7 +2,7 @@
 title: "Need to clear the head"
 date: "2010-12-10"
 prevArticle: '2010-12-03_christening-in-dublin-and-more-snow'
-nextArticle: '2013-01-10_tweet-2013-01-10-20-55-35'
+nextArticle: '2010-12-16_Funerals-The-missing-week'
 tags: Sick - TotBH - Birthday - Low Spirits
 ---
 Saturday: It was the day of Elaines party. She headed to town early and we got the house ready. We then went to town ourselves to pick up the cake and pick up a few other things before heading back home. Elaine was a bit upset cause her real party had to be called off but when a few of her friends arrived at the house it was all right, the cake was a big help too. We watched a slide-show of old photos and then brought out the cake and we had a bit of karaoke in the front room before everyone went home to bed.
