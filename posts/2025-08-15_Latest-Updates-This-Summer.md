@@ -1,8 +1,8 @@
 ---
 title: "Latest updates this summer"
 date: "2025-08-15"
-prevArticle: "2025-08-14_Solar-Update-July-2025"
-nextArticle: ""
+prevArticle: "2025-08-15_Latest-Updates-This-Summer"
+nextArticle: "2025-08-26_Public-Speaking"
 tags: Updates - Summer - Job - Welfare
 ---
 
