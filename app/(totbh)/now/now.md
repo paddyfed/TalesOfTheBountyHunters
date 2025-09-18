@@ -9,13 +9,13 @@ Monaghan
 
 ## Working in
 
-4-6 week contract with CMETB as an Instructional Designer
+CMETB as an Instructional Designer (2 days a week)
 
 ## Studying
 
 ### Current
 
-None at the minute. I hope to go back to Monaghan Institute to complete the Level 6 in Media Production
+Monaghan Institute, Level 6 Media Production
 
 ### Completed
 
@@ -36,14 +36,15 @@ Back reading the Star Wars comics from Marvel
 
 ### Other
 
-Listening to Troy by Stephen Fry on Audible
+Listening to Odyssey by Stephen Fry on Audible
 
 ## Podcasts
 
 Dungeons and Daddies  
 The Rest is Entertainment  
-Harry Hill's "Are We There Yet?"  
-RHLSTP
+RHLSTP  
+Dig-It  
+How to steal a penguin
 
 ## Watching
 
