@@ -1,7 +1,7 @@
 ---
 title: "Public Speaking"
 date: "2025-08-26"
-prevArticle: "2025-08-14_Solar-Update-July-2025"
+prevArticle: "2025-08-15_Latest-Updates-This-Summer"
 nextArticle: "2025-09-18_Solar-Update-August-2025"
 tags: Updates - Summer - Job
 ---
