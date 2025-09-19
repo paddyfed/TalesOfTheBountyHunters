@@ -30,13 +30,8 @@ export default async function Post(props) {
   const postData = await getPostData(params.year, postsDirectory);
   return (
     <>
-      {postData.title.startsWith("Tweet") ? (
-        // Tweets
-        <TweetPost postData={postData} />
-      ) : (
-        // Blog Posts
-        <RegularPost postData={postData} />
-      )}
+      <RegularPost postData={postData} />
+
       <Link href="/college">Back to College</Link>
     </>
   );
