@@ -1,10 +1,9 @@
 import path from "path";
-
 import { getAllPostIds, getPostData } from "../../utils/posts";
 import TweetPost from "../../components/TweetPost";
 import RegularPost from "../../components/RegularPost";
 import Link from "next/link";
-import PostNextPrevLink from "../../components/PostNextPrevLink";
+import { allCollegeYears } from "../page";
 
 const postsDirectory = path.join(process.cwd(), "app/(totbh)/college");
 
@@ -19,8 +18,11 @@ export async function generateMetadata(props) {
 }
 
 export async function generateStaticParams() {
-  const paths = await getAllPostIds();
-  return paths;
+  return allCollegeYears.map((item) => ({
+    years: item.slug,
+  }));
+  // const paths = await getAllPostIds();
+  // return paths;
 }
 
 export default async function Post(props) {
