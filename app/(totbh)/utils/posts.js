@@ -9,8 +9,8 @@ import { unified } from "unified";
 
 const postsDirectory = path.join(process.cwd(), "posts");
 
-function readPostFile(fileName) {
-  const fullPath = path.join(postsDirectory, fileName);
+function readPostFile(fileName, directory = postsDirectory) {
+  const fullPath = path.join(directory, fileName);
   const fileContents = fs.readFileSync(fullPath, "utf8");
   return matter(fileContents);
 }
@@ -96,8 +96,8 @@ export function getAllYearsForPaths() {
   }));
 }
 
-export async function getPostData(id) {
-  const matterResult = readPostFile(`${id}.md`);
+export async function getPostData(id, directory = postsDirectory) {
+  const matterResult = readPostFile(`${id}.md`, directory);
   const processedContent = await unified()
     .use(remarkParse)
     .use(remarkGfm)
