@@ -25,6 +25,9 @@ export default function MainNav() {
           <Link href="/paymentsleft">Payments Left</Link>
         </li>
         <li>
+          <Link href="/college">College</Link>
+        </li>
+        <li>
           <Link href="/jabbaspalace">Jabba's Palace</Link>
         </li>
       </ul>
