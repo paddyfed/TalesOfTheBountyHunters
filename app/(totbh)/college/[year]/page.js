@@ -19,7 +19,7 @@ export async function generateMetadata(props) {
 
 export async function generateStaticParams() {
   return allCollegeYears.map((item) => ({
-    years: item.slug,
+    year: item.slug,
   }));
   // const paths = await getAllPostIds();
   // return paths;
