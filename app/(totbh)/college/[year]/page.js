@@ -1,6 +1,5 @@
 import path from "path";
-import { getAllPostIds, getPostData } from "../../utils/posts";
-import TweetPost from "../../components/TweetPost";
+import { getPostData } from "../../utils/posts";
 import RegularPost from "../../components/RegularPost";
 import Link from "next/link";
 import { allCollegeYears } from "../page";

@@ -16,9 +16,8 @@ export const allCollegeYears = [
 export default async function College() {
   return (
     <>
-      <h1 className={utilStyles.headingXl}>Hi</h1>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-        <h2 className={utilStyles.headingLg}>Tags</h2>
+        <h2 className={utilStyles.headingLg}>College</h2>
         <ul className={`${utilStyles.list}`}>
           {allCollegeYears.map((item, index) => {
             return (
