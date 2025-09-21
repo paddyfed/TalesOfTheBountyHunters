@@ -1,5 +1,4 @@
 import utilStyles from "../utils.module.css";
-import DisplayDate from "../components/DisplayDate";
 import Link from "next/link";
 
 export const metadata = {
