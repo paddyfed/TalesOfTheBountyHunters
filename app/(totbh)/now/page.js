@@ -1,11 +1,5 @@
-import fs from "fs";
 import path from "path";
-import matter from "gray-matter";
-import rehypeStringify from "rehype-stringify";
-import remarkParse from "remark-parse";
-import remarkRehype from "remark-rehype";
-import remarkGfm from "remark-gfm";
-import { unified } from "unified";
+import { getPostData } from "../utils/posts";
 import utilStyles from "../utils.module.css";
 import DisplayDate from "../components/DisplayDate";
 
@@ -16,7 +10,7 @@ export const metadata = {
 };
 
 export default async function Now() {
-  const postData = await getPostData("now");
+  const postData = await getPostData("now", postsDirectory);
 
   return (
     <>
@@ -27,24 +21,4 @@ export default async function Now() {
       <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }}></div>
     </>
   );
-}
-
-async function getPostData(id) {
-  const fullPath = path.join(postsDirectory, `${id}.md`);
-  const fileContents = fs.readFileSync(fullPath, "utf8");
-
-  // Use gray-matter to parse the post metadata section
-  const matterResult = matter(fileContents);
-
-  // Use remark to convert markdown into HTML string
-  const processedContent = await unified()
-    .use(remarkParse)
-    .use(remarkGfm)
-    .use(remarkRehype)
-    .use(rehypeStringify)
-    .process(matterResult.content);
-
-  const contentHtml = processedContent.toString();
-  // Combine the data with the id
-  return { contentHtml, ...matterResult.data };
 }
