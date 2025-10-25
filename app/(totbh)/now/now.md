@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2025-00-25"
+date: "2025-10-25"
 ---
 
 ## Living in
