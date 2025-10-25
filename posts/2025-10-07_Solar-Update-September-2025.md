@@ -2,7 +2,7 @@
 title: "Solar Update - September 2025"
 date: "2025-10-07"
 prevArticle: "2025-09-18_Solar-Update-August-2025"
-nextArticle: ""
+nextArticle: "2025-10-25_Manic-Months"
 tags: Solar Panels - Solar Update
 month: "09"
 year: "2025"

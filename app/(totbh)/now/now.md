@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2025-09-21"
+date: "2025-00-25"
 ---
 
 ## Living in
@@ -34,10 +34,6 @@ Level 5 Traineeship - Digital Marketing - QQI Level 5 Multimedia Production
 
 Back reading the Star Wars comics from Marvel
 
-### Other
-
-Listening to Odyssey by Stephen Fry on Audible
-
 ## Podcasts
 
 Dungeons and Daddies  
@@ -50,7 +46,7 @@ How to steal a penguin
 
 ### TV
 
-Star Trek: Voyager
+Nothing
 
 ## Personal projects
 
