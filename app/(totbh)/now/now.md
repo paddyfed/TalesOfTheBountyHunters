@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2025-10-25"
+date: "2025-11-05"
 ---
 
 ## Living in
@@ -46,7 +46,7 @@ How to steal a penguin
 
 ### TV
 
-Nothing
+Star Trek Enterprise
 
 ## Personal projects
 

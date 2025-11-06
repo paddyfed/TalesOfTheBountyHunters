@@ -2,7 +2,7 @@
 title: "Manic Months"
 date: "2025-10-25"
 prevArticle: "2025-10-07_Solar-Update-September-2025"
-nextArticle: ""
+nextArticle: "2025-11-06_Solar-Update-October-2025"
 tags: Updates - Job - Business  - Snap and Code - New Computer
 ---
 
