@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2025-11-05"
+date: "2025-12-02"
 ---
 
 ## Living in
@@ -39,7 +39,6 @@ Back reading the Star Wars comics from Marvel
 Dungeons and Daddies  
 The Rest is Entertainment  
 RHLSTP  
-Dig-It  
 How to steal a penguin
 
 ## Watching
