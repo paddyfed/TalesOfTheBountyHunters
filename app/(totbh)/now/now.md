@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2025-12-02"
+date: "2026-01-07"
 ---
 
 ## Living in
@@ -46,6 +46,7 @@ How to steal a penguin
 ### TV
 
 Star Trek Enterprise
+The Boys
 
 ## Personal projects
 

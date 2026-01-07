@@ -2,7 +2,7 @@
 title: "Solar Update - November 2025"
 date: "2025-12-02"
 prevArticle: "2025-11-06_Solar-Update-October-2025"
-nextArticle: ""
+nextArticle: "2026-01-07_Solar-Update-December-2025"
 tags: Solar Panels - Solar Update
 month: "11"
 year: "2025"
