@@ -18,7 +18,7 @@ export default function EnergyByYearChart() {
           fontWeight: 700,
         },
         groups: [
-          { title: "Jan", cols: 2 },
+          { title: "Jan", cols: 3 },
           { title: "Feb", cols: 2 },
           { title: "Mar", cols: 2 },
           { title: "Apr", cols: 2 },
@@ -63,6 +63,10 @@ export default function EnergyByYearChart() {
         {
           x: "2025",
           y: 131.124,
+        },
+        {
+          x: "2026",
+          y: 161.428,
         },
 
         {
@@ -194,6 +198,10 @@ export default function EnergyByYearChart() {
           x: "2025",
           y: 3.749,
         },
+        {
+          x: "2026",
+          y: 6.023,
+        },
 
         {
           x: "2024",
@@ -321,6 +329,10 @@ export default function EnergyByYearChart() {
         {
           x: "2025",
           y: 463.275,
+        },
+        {
+          x: "2026",
+          y: 715.877,
         },
 
         {

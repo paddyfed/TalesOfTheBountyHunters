@@ -10,6 +10,7 @@ export default function TotalConsumedHomePerDay({
   year,
   consumedHome,
   consumedEddi,
+  consumedZappiGLO,
 }) {
   Chart.register(CategoryScale);
 
@@ -27,13 +28,17 @@ export default function TotalConsumedHomePerDay({
             label: "Eddi (kWh)",
             data: consumedEddi,
           },
+          {
+            label: "Zappi GLO (kWh)",
+            data: consumedZappiGLO,
+          },
         ],
       }}
       options={{
         plugins: {
           title: {
             display: true,
-            text: "Total Consumed Home/Eddi",
+            text: "Total Consumed Home/Eddi/Zappi GLO",
           },
         },
 

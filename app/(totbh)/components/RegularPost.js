@@ -43,6 +43,7 @@ export default function RegularPost({ postData }) {
           year={postData.year}
           consumedHome={postData.consumedHome}
           consumedEddi={postData.consumedEddi}
+          consumedZappiGLO={postData.consumedZappiGLO}
         />
       ) : null}
       <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
