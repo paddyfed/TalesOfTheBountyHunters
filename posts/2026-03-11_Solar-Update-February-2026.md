@@ -2,7 +2,7 @@
 title: "Solar Update - February 2026"
 date: "2026-03-11"
 prevArticle: "2026-02-05_Solar-Update-January-2026"
-nextArticle: ""
+nextArticle: "2026-04-02_Solar-Update-March-2026"
 tags: Solar Panels - Solar Update
 month: "02"
 year: "2026"
