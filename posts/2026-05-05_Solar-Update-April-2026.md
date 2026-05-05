@@ -1,0 +1,371 @@
+---
+title: "Solar Update - April 2026"
+date: "2026-05-05"
+prevArticle: "2026-05-03_Nearly-Done"
+nextArticle: ""
+tags: Solar Panels - Solar Update
+month: "04"
+year: "2026"
+consumed:
+  - 13.453
+  - 10.568
+  - 22.379
+  - 6.949
+  - 11.111
+  - 2.193
+  - 1.826
+  - 1.685
+  - 1.782
+  - 2.482
+  - 19.998
+  - 19.802
+  - 22.418
+  - 9.29
+  - 17.969
+  - 16.25
+  - 19.959
+  - 26.695
+  - 23.865
+  - 21.171
+  - 17.918
+  - 26.124
+  - 33.28
+  - 27.841
+  - 23.477
+  - 24.376
+  - 13.175
+  - 23.251
+  - 30.088
+  - 26.332
+
+imported:
+  - 18.882
+  - 18.85
+  - 7.631
+  - 14.369
+  - 22.576
+  - 21.858
+  - 3.4
+  - 3.43
+  - 3.887
+  - 5.014
+  - 22.168
+  - 10.012
+  - 5.398
+  - 17.733
+  - 4.1
+  - 21.461
+  - 17.185
+  - 5.653
+  - 22.25
+  - 6.663
+  - 16.619
+  - 3.652
+  - 17.504
+  - 3.432
+  - 17.965
+  - 20.319
+  - 3.707
+  - 17.626
+  - 30.367
+  - 3.96
+
+exported:
+  - -1.644
+  - -0.207
+  - -1.602
+  - -0.198
+  - -15.613
+  - -9.131
+  - -15.147
+  - -17.612
+  - -18.871
+  - -8.905
+  - -4.148
+  - -4.922
+  - -2.026
+  - -0.096
+  - -4.778
+  - -2.451
+  - -5.94
+  - -5.637
+  - -2.405
+  - -3.919
+  - -1.504
+  - -7.454
+  - -5.598
+  - -11.213
+  - -3.725
+  - -2.275
+  - -0.315
+  - -2.502
+  - -10.313
+  - -7.948
+
+avgConsumed:
+  - 0
+  - 0
+  - 0.0032
+  - 0.0031
+  - 0.0004
+  - 0.0003
+  - 0.0236
+  - 0.1854
+  - 0.576
+  - 1.2739
+  - 1.7878
+  - 1.78
+  - 1.8049
+  - 1.8973
+  - 1.9052
+  - 1.9678
+  - 1.7637
+  - 1.2618
+  - 0.772
+  - 0.2331
+  - 0.0175
+  - 0
+  - 0
+  - 0
+
+avgImported:
+  - 0.2796
+  - 0.3461
+  - 3.5275
+  - 3.8062
+  - 0.8278
+  - 0.5554
+  - 0.2657
+  - 0.1137
+  - 0.087
+  - 0.1203
+  - 0.1283
+  - 0.0682
+  - 0.2871
+  - 0.1568
+  - 0.1093
+  - 0.0408
+  - 0.1801
+  - 0.2047
+  - 0.1724
+  - 0.203
+  - 0.4989
+  - 0.4052
+  - 0.2539
+  - 0.2845
+
+avgExported:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - -0.0009
+  - -0.0162
+  - -0.071
+  - -0.1319
+  - -0.3503
+  - -0.6884
+  - -0.8543
+  - -1.0101
+  - -1.1514
+  - -0.8071
+  - -0.4972
+  - -0.217
+  - -0.1231
+  - -0.0177
+  - -0.0001
+  - 0
+  - 0
+  - 0
+
+totalConsumed:
+  - 0
+  - 0
+  - 0.095
+  - 0.094
+  - 0.011
+  - 0.01
+  - 0.709
+  - 5.562
+  - 17.279
+  - 38.218
+  - 53.634
+  - 53.401
+  - 54.146
+  - 56.919
+  - 57.156
+  - 59.034
+  - 52.91
+  - 37.854
+  - 23.159
+  - 6.992
+  - 0.524
+  - 0
+  - 0
+  - 0
+
+totalImported:
+  - 8.389
+  - 10.384
+  - 105.824
+  - 114.186
+  - 24.833
+  - 16.662
+  - 7.97
+  - 3.41
+  - 2.609
+  - 3.609
+  - 3.848
+  - 2.047
+  - 8.613
+  - 4.705
+  - 3.279
+  - 1.223
+  - 5.402
+  - 6.14
+  - 5.173
+  - 6.089
+  - 14.966
+  - 12.157
+  - 7.617
+  - 8.536
+
+totalExported:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - -0.026
+  - -0.486
+  - -2.131
+  - -3.958
+  - -10.508
+  - -20.651
+  - -25.628
+  - -30.303
+  - -34.541
+  - -24.213
+  - -14.917
+  - -6.51
+  - -3.693
+  - -0.532
+  - -0.002
+  - 0
+  - 0
+  - 0
+
+consumedHome:
+  - 10.663
+  - 10.975
+  - 14.272
+  - 9.5
+  - 13.838
+  - 6.661
+  - 5.227
+  - 5.115
+  - 5.669
+  - 7.495
+  - 13.224
+  - 10.342
+  - 14.658
+  - 10.336
+  - 7.561
+  - 13.049
+  - 8.038
+  - 12.217
+  - 19.017
+  - 12.027
+  - 8.961
+  - 9.022
+  - 9.3
+  - 7.118
+  - 11.594
+  - 19.259
+  - 8.995
+  - 11.61
+  - 9.333
+  - 9.94
+
+consumedEddi:
+  - 8.255
+  - 5.545
+  - 5.423
+  - 3.208
+  - 3.789
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 5.877
+  - 14.525
+  - 11.525
+  - 5.538
+  - 14.119
+  - 11.148
+  - 15.992
+  - 14.111
+  - 9.628
+  - 15.522
+  - 12.363
+  - 20.754
+  - 18.587
+  - 23.636
+  - 14.014
+  - 10.397
+  - 7.887
+  - 17.142
+  - 25.265
+  - 20.35
+
+consumedZappiGLO:
+  - 13.415
+  - 12.896
+  - 10.316
+  - 8.614
+  - 16.056
+  - 17.387
+  - 0
+  - 0
+  - 0
+  - 0
+  - 23.066
+  - 4.945
+  - 1.63
+  - 11.151
+  - 0.392
+  - 13.511
+  - 13.116
+  - 6.022
+  - 17.471
+  - 0.282
+  - 13.213
+  - 0
+  - 22.897
+  - 0.516
+  - 15.834
+  - 15.041
+  - 0
+  - 12.126
+  - 25.858
+  - 0
+---
+
+It seems as though the data for the last few days of March are gone. Its been a month and it hasn't updated so I can only assume it won't ever be updated, which is a bit of a shame but nothing we can do about it. We were on holiday during April so the imported and consumed totals for those days can be clearly seen, along with the extra export totals. this was because I turned off the Eddi while we were away as there would be no point in heating the water while we were gone.
+
+The passive energy that the house uses would appear to be 5.2 kWh which is higher than it was during our last holiday which happened to be in April as well. I think this was due to us forgetting to turn off a heater in Patrick's room while we were away. It is set to turn on for a few hours during the night and just before going to bed. It is on a low heat at 16&deg; which means it doesn't come on at its highest level but it would appear that it is roughly 2 kWh to run a day. Now because it's on at night it doesn't cost too much and it only runs for an hour at the expensive time, but it is interesting to note these things.
+
+For this month then our total consumed was 518 kWh with 178 kWh exported. This is a total of 696kWh generated by the panels. Imports were 388 kWh.
+
+| Broken Even        |           |
+| ------------------ | --------- |
+| kWh Consumed       | 11162.559 |
+| kWh Exported       | 2646.221  |
+| Total kWh Produced | 13808.78  |
+| Price per kWh      | €0.82     |
+
+Paddy
