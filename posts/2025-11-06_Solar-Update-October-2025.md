@@ -330,11 +330,11 @@ consumedEddi:
 
 Very poor month in October for generation which is reflected in the electric bill for the past two months. 206 kWh was consumed with only 11kWh exported. This is a total of 217kWh generated. The import remains high because of the car charging to get to work. Not much more to say really. We are firmly in the dark months now that the time has changed and it won't be long until 2026.
 
-| Broken Even        |           |
-| ------------------ | --------- |
-| kWh Consumed       | 9656.721  |
-| kWh Exported       | 2330.848  |
-| Total kWh Produced | 11987.569 |
-| Price per kWh      | €0.95     |
+| Broken Even        |            |
+| ------------------ | ---------- |
+| kWh Consumed       | 9,656.721  |
+| kWh Exported       | 2,330.848  |
+| Total kWh Produced | 11,987.569 |
+| Price per kWh      | €0.95      |
 
 Paddy

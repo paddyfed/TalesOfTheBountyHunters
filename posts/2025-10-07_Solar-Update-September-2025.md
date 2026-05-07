@@ -325,11 +325,11 @@ consumedEddi:
 
 This September was a little down on the previous two years. 419kWh was consumed and only 55kWh exported. This gives a total of around 475 kWh generated. Last year it was 526 kWh and 514 kWh the year before that. Import totals remain high at 534 kWh again due to car charging over night. In fact I have been charging the car between 2am and 5am just to give me that extra cushion in range coming into the winter. I will need to change the EV charger soon as the one I have will lose it's 'smart' capabilities in November. I will look to get a Zappi I think as it will integrate with the existing Eddi and MyEnergi app.
 
-| Broken Even        |           |
-| ------------------ | --------- |
-| kWh Consumed       | 9450.258  |
-| kWh Exported       | 2319.668  |
-| Total kWh Produced | 11769.926 |
-| Price per kWh      | €0.96     |
+| Broken Even        |            |
+| ------------------ | ---------- |
+| kWh Consumed       | 9,450.258  |
+| kWh Exported       | 2,319.668  |
+| Total kWh Produced | 11,769.926 |
+| Price per kWh      | €0.96      |
 
 Paddy

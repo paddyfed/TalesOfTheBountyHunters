@@ -330,11 +330,11 @@ consumedEddi:
 
 We now have the solar panels a full two years and I see by my 'break even' calculation that we have reached the €1 per kWh price. This would be only the second full August totals that we have so the first time we can compare the totals. It is roughly the same in terms of generation, only slightly up from last year. 550kWh consumed, 106kWh exported for roughly 656kWh generated this month. The imported total is again much higher than last year at 525kWh. Most of that is charging the car between 2am and 4am.
 
-| Broken Even        |           |
-| ------------------ | --------- |
-| kWh Consumed       | 9030.679  |
-| kWh Exported       | 2264.167  |
-| Total kWh Produced | 11294.846 |
-| Price per kWh      | €1.00     |
+| Broken Even        |            |
+| ------------------ | ---------- |
+| kWh Consumed       | 9,030.679  |
+| kWh Exported       | 2,264.167  |
+| Total kWh Produced | 11,294.846 |
+| Price per kWh      | €1.00      |
 
 Paddy

@@ -332,11 +332,11 @@ A bit of a jump in kWh consumed (572kWh) for May and a small drop in kWh Importe
 
 We are just back from holidays and I had the Eddi turned off for that duration so I expect a big jump in export next month.
 
-| Broken Even        |          |
-| ------------------ | -------- |
-| kWh Consumed       | 2875.323 |
-| kWh Exported       | 645.37   |
-| Total kWh Produced | 3520.693 |
-| Price per kWh      | €3.21    |
+| Broken Even        |           |
+| ------------------ | --------- |
+| kWh Consumed       | 2,875.323 |
+| kWh Exported       | 645.37    |
+| Total kWh Produced | 3,520.693 |
+| Price per kWh      | €3.21     |
 
 Paddy

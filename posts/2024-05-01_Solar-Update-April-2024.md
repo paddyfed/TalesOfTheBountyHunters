@@ -320,11 +320,11 @@ The sun finally came to Ireland in April and I managed to get the grass cut a fe
 
 There has been a big jump in the price per kWh this month. It's €3.99 per kWh at the minute but there's still some time to go before it comes down to the current price per kWh import fee which is €0.35.
 
-| Broken Even        |          |
-| ------------------ | -------- |
-| kWh Consumed       | 2303.246 |
-| kWh Exported       | 532.014  |
-| Total kWh Produced | 2835.26  |
-| Price per kWh      | €3.99    |
+| Broken Even        |           |
+| ------------------ | --------- |
+| kWh Consumed       | 2,303.246 |
+| kWh Exported       | 532.014   |
+| Total kWh Produced | 2,835.26  |
+| Price per kWh      | €3.99     |
 
 Paddy

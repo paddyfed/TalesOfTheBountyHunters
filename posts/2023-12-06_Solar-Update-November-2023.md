@@ -327,11 +327,11 @@ consumedEddi:
 
 The price per kWh continues to lower.
 
-| Broken Even        |          |
-| ------------------ | -------- |
-| kWh Consumed       | 1037.814 |
-| kWh Exported       | 193.349  |
-| Total kWh Produced | 1231.163 |
-| Price per kWh      | €9.19    |
+| Broken Even        |           |
+| ------------------ | --------- |
+| kWh Consumed       | 1,037.814 |
+| kWh Exported       | 193.349   |
+| Total kWh Produced | 1,231.163 |
+| Price per kWh      | €9.19     |
 
 Paddy

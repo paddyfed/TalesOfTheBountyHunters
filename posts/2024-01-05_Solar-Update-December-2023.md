@@ -330,11 +330,11 @@ consumedEddi:
 
 No big surprise that the generation in December has gone to just 98kWh with 11kWh exported. Just about half of tht export was from one day. You can also see the continued use of charging the car between 2 and 4 am. We just got our latest bill and the difference in charging at this time is significant. On our old tarriff of 36c per kWh, the car charging would have cost €51.84. The new tarriff has only cost €15.91 so significant savings there.
 
-| Broken Even        |          |
-| ------------------ | -------- |
-| kWh Consumed       | 1136.254 |
-| kWh Exported       | 204.591  |
-| Total kWh Produced | 1340.845 |
-| Price per kWh      | €8.44    |
+| Broken Even        |           |
+| ------------------ | --------- |
+| kWh Consumed       | 1,136.254 |
+| kWh Exported       | 204.591   |
+| Total kWh Produced | 1,340.845 |
+| Price per kWh      | €8.44     |
 
 Paddy

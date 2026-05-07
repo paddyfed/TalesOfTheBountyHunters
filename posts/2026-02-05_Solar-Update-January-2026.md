@@ -365,11 +365,29 @@ Finally got the Zappi GLO installed so I had to do a bit of re-organising of the
 
 The Zappi has recorded 105 kWh going into the car this month. This is just from the 24th onwards when the charger was installed. There was some charging coming from the solar panels at one stage.
 
-| Broken Even        |           |
-| ------------------ | --------- |
-| kWh Consumed       | 10127.606 |
-| kWh Exported       | 2356.689  |
-| Total kWh Produced | 12484.295 |
-| Price per kWh      | €0.91     |
+| Broken Even        |            |
+| ------------------ | ---------- |
+| kWh Consumed       | 10,127.606 |
+| kWh Exported       | 2,356.689  |
+| Total kWh Produced | 12,484.295 |
+| Price per kWh      | €0.91      |
+
+# 2025 Totals
+
+| Year & Month | Consumed (kWh) | Exported (kWh) | Imported (kWh) | Eddi (kWh)    | Home (kWh)    |
+| ------------ | -------------- | -------------- | -------------- | ------------- | ------------- |
+| 2025 Jan     | 131.124        | 3.75           | 462.619        | 91.61         | 505.622       |
+| 2025 Feb     | 228.4          | 27.38          | 498.877        | 167.244       | 560.046       |
+| 2025 Mar     | 398.393        | 65.61          | 492.623        | 295.802       | 595.232       |
+| 2025 Apr     | 472.932        | 284.01         | 344.878        | 331.985       | 485.826       |
+| 2025 May     | 687.746        | 258.05         | 328.098        | 509.096       | 506.736       |
+| 2025 Jun     | 590.238        | 126.54         | 408.553        | 400.25        | 598.544       |
+| 2025 Jul     | 558.514        | 133.62         | 454.206        | 351.244       | 661.478       |
+| 2025 Aug     | 550.279        | 106.50         | 525.076        | 374.975       | 700.37        |
+| 2025 Sept    | 419.579        | 55.50          | 534.527        | 293.729       | 660.382       |
+| 2025 Oct     | 206.463        | 11.18          | 557.267        | 123.298       | 640.424       |
+| 2025 Nov     | 197.317        | 10.47          | 587.802        | 140.507       | 644.607       |
+| 2025 Dec     | 112.14         | 9.35           | 767.891        | 84.137        | 795.909       |
+| **Total**    | **4,553.125**  | **1,091.96**   | **5,962.417**  | **3,163.877** | **7,355.176** |
 
 Paddy

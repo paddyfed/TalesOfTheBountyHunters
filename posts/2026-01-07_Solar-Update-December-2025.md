@@ -330,11 +330,11 @@ consumedEddi:
 
 This year was our highest total consumed and exported for December probably due to a few days with very little cloud cover. It was 112kWh consumed and 9kWh exported for a grand total of 121kWh, beating last year by 30kWh. The bad news is the import amount was very high at 768kWh. Again most of this was charging the car but I've also taken to charging between 2am and 7am. This is because there were a few times I was on the borderline for getting home from Cavan in the cold weather so I've been keeping the car at 100%. I've very little control over the charging at the minute too as the EO app finally stopped working. I've not been able to get the Zappi Glo installed yet.
 
-| Broken Even        |           |
-| ------------------ | --------- |
-| kWh Consumed       | 9966.178  |
-| kWh Exported       | 2350.666  |
-| Total kWh Produced | 12316.844 |
-| Price per kWh      | €0.92     |
+| Broken Even        |            |
+| ------------------ | ---------- |
+| kWh Consumed       | 9,966.178  |
+| kWh Exported       | 2,350.666  |
+| Total kWh Produced | 12,316.844 |
+| Price per kWh      | €0.92      |
 
 Paddy

@@ -330,11 +330,11 @@ consumedEddi:
 
 July seems comparible to May this year in terms of the totals. There were 561kWh consumed and 115kWh exported, totalling 676kWh for the month. So this probably means we are on the downward slope of the year at this stage. That is unless we get a bright/sunny August.
 
-| Broken Even        |         |
-| ------------------ | ------- |
-| kWh Consumed       | 3936.52 |
-| kWh Exported       | 974.35  |
-| Total kWh Produced | 4910.87 |
-| Price per kWh      | €2.31   |
+| Broken Even        |          |
+| ------------------ | -------- |
+| kWh Consumed       | 3,936.52 |
+| kWh Exported       | 974.35   |
+| Total kWh Produced | 4,910.87 |
+| Price per kWh      | €2.31    |
 
 Paddy

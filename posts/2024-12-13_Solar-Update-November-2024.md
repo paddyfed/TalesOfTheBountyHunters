@@ -327,11 +327,11 @@ This November seems to be the poorest in terms of generation since we've had the
 
 We will see next month if last years low of 98kWh for December 2023 can be beaten.
 
-| Broken Even        |         |
-| ------------------ | ------- |
-| kWh Consumed       | 5323.92 |
-| kWh Exported       | 1256.90 |
-| Total kWh Produced | 6580.82 |
-| Price per kWh      | €1.72   |
+| Broken Even        |          |
+| ------------------ | -------- |
+| kWh Consumed       | 5,323.92 |
+| kWh Exported       | 1,256.90 |
+| Total kWh Produced | 6,580.82 |
+| Price per kWh      | €1.72    |
 
 Paddy

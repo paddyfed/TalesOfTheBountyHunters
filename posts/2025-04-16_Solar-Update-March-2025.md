@@ -330,11 +330,11 @@ consumedEddi:
 
 March has seen the weather turn a bit of a corner. Certainly much better than last month and even better than March 2024. We consumed 398kWh and exported 65kWh for a total of 464kWh generated for the month. Beating last years total of 404kWh. The imported total was 492kWh which is nearly bang on the same as last year.
 
-| Broken Even        |         |
-| ------------------ | ------- |
-| kWh Consumed       | 6170.97 |
-| kWh Exported       | 1355.44 |
-| Total kWh Produced | 7526.41 |
-| Price per kWh      | €1.51   |
+| Broken Even        |          |
+| ------------------ | -------- |
+| kWh Consumed       | 6,170.97 |
+| kWh Exported       | 1,355.44 |
+| Total kWh Produced | 7,526.41 |
+| Price per kWh      | €1.51    |
 
 Paddy

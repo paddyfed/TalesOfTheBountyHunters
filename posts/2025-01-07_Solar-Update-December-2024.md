@@ -330,11 +330,11 @@ consumedEddi:
 
 December did not improve over November totals in fact this December is now the lowest totals for generation we have had. Only 89kWh was consumed and only 2kWh was exported. This is down by about 20kWh from the same month last year. The imported total was also the highest we have recorded at 662kWh but this could also be attributed to charging the car more regularly in the cold weather.
 
-| Broken Even        |         |
-| ------------------ | ------- |
-| kWh Consumed       | 5413.05 |
-| kWh Exported       | 1258.71 |
-| Total kWh Produced | 6671.76 |
-| Price per kWh      | €1.70   |
+| Broken Even        |          |
+| ------------------ | -------- |
+| kWh Consumed       | 5,413.05 |
+| kWh Exported       | 1,258.71 |
+| Total kWh Produced | 6,671.76 |
+| Price per kWh      | €1.70    |
 
 Paddy

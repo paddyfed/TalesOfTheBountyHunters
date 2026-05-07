@@ -325,11 +325,11 @@ consumedEddi:
 
 Wasn't a bad month this November, all things considered. It was comparable to two years ago and it wasn't far off last month for totals. There was 197kWh consumed with 10kWh exported so a total of 207kWh generated. 587kWh was the imported total. I have bought a Zappi charge but I've not been able to get it installed just yet. The EO app still appears to be working but I have set the timer on the car to only charge between 2am and 4am so that I don't get caught out when the charger finally does go dumb. I think it was supposed to be at the end of November, but maybe they've just not done the cutoff yet. I'm really having to charge the car virtually every day at this stage as my commute twice a week is 40km to Cavan and then back and with the cold weather the charge just doesn't go as far.
 
-| Broken Even        |           |
-| ------------------ | --------- |
-| kWh Consumed       | 9854.038  |
-| kWh Exported       | 2341.317  |
-| Total kWh Produced | 12195.355 |
-| Price per kWh      | €0.93     |
+| Broken Even        |            |
+| ------------------ | ---------- |
+| kWh Consumed       | 9,854.038  |
+| kWh Exported       | 2,341.317  |
+| Total kWh Produced | 12,195.355 |
+| Price per kWh      | €0.93      |
 
 Paddy

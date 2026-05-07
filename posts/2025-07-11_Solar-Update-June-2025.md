@@ -325,11 +325,11 @@ consumedEddi:
 
 Bit of a mixed result for this June. It keeps the theme of this summer where we get some good days and then seemingly a week or two of just rain. The results weren't as good as May but still on par with last June if not a few kWh above. We generated 590kWh and exported 127kWh for a total of 717kWh. Our imported total was still quite high at 409kWh mainly due to charging the car at night though. Our electric bill came out just the other day too and between 8 May and 7 July, we imported 148kWh during the day tariff and 499kWh on the Nightboost between 2 and 4 am. This ended up being roughly the same price with the day total (€49.34) being just a little higher than the Nightboost (€48.15). This just demonstrates how much savings you can get from these overnight tariffs.
 
-| Broken Even        |         |
-| ------------------ | ------- |
-| kWh Consumed       | 7921.89 |
-| kWh Exported       | 2024.05 |
-| Total kWh Produced | 9945.93 |
-| Price per kWh      | €1.14   |
+| Broken Even        |          |
+| ------------------ | -------- |
+| kWh Consumed       | 7,921.89 |
+| kWh Exported       | 2,024.05 |
+| Total kWh Produced | 9,945.93 |
+| Price per kWh      | €1.14    |
 
 Paddy

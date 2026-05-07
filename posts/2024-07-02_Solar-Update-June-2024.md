@@ -327,11 +327,11 @@ As expected there is a big jump in exported totals this month as I had turned of
 
 Only two months left until we have had the system in for 12 months and then we can start comparing year on year.
 
-| Broken Even        |         |
-| ------------------ | ------- |
-| kWh Consumed       | 3375.48 |
-| kWh Exported       | 858.67  |
-| Total kWh Produced | 4234.15 |
-| Price per kWh      | €2.68   |
+| Broken Even        |          |
+| ------------------ | -------- |
+| kWh Consumed       | 3,375.48 |
+| kWh Exported       | 858.67   |
+| Total kWh Produced | 4,234.15 |
+| Price per kWh      | €2.68    |
 
 Paddy

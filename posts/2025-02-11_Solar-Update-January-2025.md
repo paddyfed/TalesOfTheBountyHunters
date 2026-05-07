@@ -334,11 +334,11 @@ An interesting quirk of this month is the presence of Storm Éowyn which knocked
 
 This all means that the totals for this month are short on where they should be but there's not much we can do about that. There was 131kWh consumed with 3.75kWh exported which gives a grand total of 135kWh generated in the month. We imported 463kWh.
 
-| Broken Even        |         |
-| ------------------ | ------- |
-| kWh Consumed       | 5544.18 |
-| kWh Exported       | 1262.46 |
-| Total kWh Produced | 6806.63 |
-| Price per kWh      | €1.67   |
+| Broken Even        |          |
+| ------------------ | -------- |
+| kWh Consumed       | 5,544.18 |
+| kWh Exported       | 1,262.46 |
+| Total kWh Produced | 6,806.63 |
+| Price per kWh      | €1.67    |
 
 Paddy

@@ -320,11 +320,11 @@ consumedEddi:
 
 Energy generated in February has gone up as expeted over January, helped by a couple of sunny days in the middle of the month. We also got our latest bill which is for €99.08 between 4 January and 4 March 2024. This does include a Government subsidy of €150 though so it should really be about €250. We also managed to export about 67kWh back to the grid.
 
-| Broken Even        |          |
-| ------------------ | -------- |
-| kWh Consumed       | 1524.626 |
-| kWh Exported       | 292.008  |
-| Total kWh Produced | 1816.634 |
-| Price per kWh      | €6.23    |
+| Broken Even        |           |
+| ------------------ | --------- |
+| kWh Consumed       | 1,524.626 |
+| kWh Exported       | 292.008   |
+| Total kWh Produced | 1,816.634 |
+| Price per kWh      | €6.23     |
 
 Paddy

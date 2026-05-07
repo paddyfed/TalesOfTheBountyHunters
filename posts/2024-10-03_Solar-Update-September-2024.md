@@ -327,11 +327,11 @@ September gives us our first time that we can compare a full months generation t
 
 This month also is the first time the price per kWh has dropped below €2. There's still a few years to go before it'll be below the current price of €0.35 per kWh.
 
-| Broken Even        |         |
-| ------------------ | ------- |
-| kWh Consumed       | 4884.94 |
-| kWh Exported       | 1188.91 |
-| Total kWh Produced | 6073.85 |
-| Price per kWh      | €1.87   |
+| Broken Even        |          |
+| ------------------ | -------- |
+| kWh Consumed       | 4,884.94 |
+| kWh Exported       | 1,188.91 |
+| Total kWh Produced | 6,073.85 |
+| Price per kWh      | €1.87    |
 
 Paddy

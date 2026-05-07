@@ -330,11 +330,11 @@ consumedEddi:
 
 This May has ended up with the highest totals we have ever generated from our panels to date. It will be interesting to see how that might translate to electricity bills when the next one comes around. We consumed 688kWh, exported 258kWh, and imported 328kWh. That gives us a generation of 946kWh for the month. in fact, the consumed total was higher than the consumed and exported total for the [same month last year](/posts/2024-06-10_Solar-Update-May-2024).
 
-| Broken Even        |         |
-| ------------------ | ------- |
-| kWh Consumed       | 7331.65 |
-| kWh Exported       | 1897.51 |
-| Total kWh Produced | 9229.15 |
-| Price per kWh      | €1.23   |
+| Broken Even        |          |
+| ------------------ | -------- |
+| kWh Consumed       | 7,331.65 |
+| kWh Exported       | 1,897.51 |
+| Total kWh Produced | 9,229.15 |
+| Price per kWh      | €1.23    |
 
 Paddy

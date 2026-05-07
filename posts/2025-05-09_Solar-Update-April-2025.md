@@ -327,11 +327,11 @@ There were some really good days in April, I think the hottest April temperature
 
 We were on our holidays in Disneyland Paris between 22nd and 25th April which showed that the passive energy used by the house is just under 3 kWh per day which is slightly down from the last time we were on holidays in June 2024. That equates to roughly 121 watts per hour.
 
-| Broken Even        |         |
-| ------------------ | ------- |
-| kWh Consumed       | 6643.90 |
-| kWh Exported       | 1639.45 |
-| Total kWh Produced | 8283.36 |
-| Price per kWh      | €1.37   |
+| Broken Even        |          |
+| ------------------ | -------- |
+| kWh Consumed       | 6,643.90 |
+| kWh Exported       | 1,639.45 |
+| Total kWh Produced | 8,283.36 |
+| Price per kWh      | €1.37    |
 
 Paddy

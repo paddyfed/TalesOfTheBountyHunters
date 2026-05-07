@@ -330,11 +330,11 @@ consumedEddi:
 
 October this year seemed to be a quiet one. There were a few sunny days alright but mostly I remember it being quite dull at times. The last week seems especially dull. However the consumed and exported totals are very similar to last October. This year there were 292 kWh consumed and 64 kWh exported, so about 356 kWh generated. The import figures have taken a bit of a jump as it was 458 kWh this month. Again most of that is due to the car being used to go to and from college every day. Still our electric bill wasn't too bad this time around but that was helped by the energy subsidy of €125 being applied this time.
 
-| Broken Even        |         |
-| ------------------ | ------- |
-| kWh Consumed       | 5177.39 |
-| kWh Exported       | 1252.59 |
-| Total kWh Produced | 6429.98 |
-| Price per kWh      | €1.76   |
+| Broken Even        |          |
+| ------------------ | -------- |
+| kWh Consumed       | 5,177.39 |
+| kWh Exported       | 1,252.59 |
+| Total kWh Produced | 6,429.98 |
+| Price per kWh      | €1.76    |
 
 Paddy

@@ -347,11 +347,11 @@ Had the Zappi Glo for just over a month now and I'm happy with it so far. It's a
 
 Consumption this month is roughly the same as January at 162kWh with 681kWh imported. It is of course a shorter month by a few days. Export was a bit better than last month at 13kWh but down on last year which was 27kWh.
 
-| Broken Even        |           |
-| ------------------ | --------- |
-| kWh Consumed       | 10290.287 |
-| kWh Exported       | 2370.213  |
-| Total kWh Produced | 12660.5   |
-| Price per kWh      | €0.90     |
+| Broken Even        |            |
+| ------------------ | ---------- |
+| kWh Consumed       | 10,290.287 |
+| kWh Exported       | 2,370.213  |
+| Total kWh Produced | 12,660.5   |
+| Price per kWh      | €0.90      |
 
 Paddy

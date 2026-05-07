@@ -369,11 +369,11 @@ So I will have to keep an eye on that. But it's hard now to compare with other t
 
 If the data ever gets updated then I will update this post.
 
-| Broken Even        |           |
-| ------------------ | --------- |
-| kWh Consumed       | 10644.852 |
-| kWh Exported       | 2468.122  |
-| Total kWh Produced | 13112.974 |
-| Price per kWh      | €0.87     |
+| Broken Even        |            |
+| ------------------ | ---------- |
+| kWh Consumed       | 10,644.852 |
+| kWh Exported       | 2,468.122  |
+| Total kWh Produced | 13,112.974 |
+| Price per kWh      | €0.87      |
 
 Paddy

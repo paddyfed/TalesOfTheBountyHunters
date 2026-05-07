@@ -332,11 +332,11 @@ We can see the days starting to draw in as the generation is down in October to 
 
 The price per kWh continues to lower.
 
-| Broken Even        |          |
-| ------------------ | -------- |
-| kWh Consumed       | 832.103  |
-| kWh Exported       | 174.792  |
-| Total kWh Produced | 1006.895 |
-| Price per kWh      | €11.24   |
+| Broken Even        |           |
+| ------------------ | --------- |
+| kWh Consumed       | 832.103   |
+| kWh Exported       | 174.792   |
+| Total kWh Produced | 1,006.895 |
+| Price per kWh      | €11.24    |
 
 Paddy

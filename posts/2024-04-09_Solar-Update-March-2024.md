@@ -328,11 +328,11 @@ The energy exported in March was actually down slightly on February, down to 52k
 
 Looking at the average and total generated per hour it seems that we are still importing energy at the same time it is being exported to the grid. I wonder if this is because we are using energy hogging appliences at these times and there is still just not enough sunlight to power them completely? So we are importing energy on days that it is not sunny and using the appliances and exporting when it is sunny but we aren't using the appliances. I think this will be something to keep an eye on over the next few months.
 
-| Broken Even        |          |
-| ------------------ | -------- |
-| kWh Consumed       | 1876.07  |
-| kWh Exported       | 344.477  |
-| Total kWh Produced | 2220.547 |
-| Price per kWh      | €5.10    |
+| Broken Even        |           |
+| ------------------ | --------- |
+| kWh Consumed       | 1,876.07  |
+| kWh Exported       | 344.477   |
+| Total kWh Produced | 2,220.547 |
+| Price per kWh      | €5.10     |
 
 Paddy

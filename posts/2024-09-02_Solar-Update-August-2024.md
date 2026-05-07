@@ -332,11 +332,11 @@ Our first full August with the panels has given us comparable totals to June and
 
 As this is now a full year that we have had the panels I want to start doing a comparison to the previous years totals. But rather than lump all in to the one post I might create a separate post for these comparisons but I will see how it goes. I might come back and update this post instead. Going by my calculations, over the last 12 months (September 2023 to August 2024) we have generated 5419.80kWh which is a good bit better than the yearly estimate of 4897kWh. We will have to see what our calendar generation is by the end of the year.
 
-| Broken Even        |         |
-| ------------------ | ------- |
-| kWh Consumed       | 4441.38 |
-| kWh Exported       | 1106.36 |
-| Total kWh Produced | 5547.74 |
-| Price per kWh      | €2.05   |
+| Broken Even        |          |
+| ------------------ | -------- |
+| kWh Consumed       | 4,441.38 |
+| kWh Exported       | 1,106.36 |
+| Total kWh Produced | 5,547.74 |
+| Price per kWh      | €2.05    |
 
 Paddy
