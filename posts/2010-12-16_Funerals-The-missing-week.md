@@ -2,11 +2,11 @@
 title: "Funerals - The missing week"
 date: "2010-12-16"
 prevArticle: "2010-12-10_need-to-clear-the-head"
-nextArticle: "2013-01-10_tweet-2013-01-10-20-55-35"
+nextArticle: "2010-12-21_Decorating-The-missing-week-part-2"
 tags: Sick - TotBH - Funeral - Low Spirits
 ---
 
-> I found this post while going through some old files on my computer so I decided to add it into the blog. This was added on 26 August 2025
+> I found this post while going through some old files on my computer so I decided to add it into the blog. This was added on 26 August 2025.
 
 Saturday: I was in work all day as I was making up for missing out on Monday and Tuesday. Neil was staying in the West so we headed over there to get changed and then headed to the Seasons. Ben and Adam were there already and we had a few drinks while we waited for the others to arrive. We had some finger food and exchanged presents, I got a hat and smelly stuff from Amy. We had a few more drinks and went over to Mexx, with our complimentary passes! I left a bit early as I was very drunk and I even had to get a lift home as there were no taxis!
 
