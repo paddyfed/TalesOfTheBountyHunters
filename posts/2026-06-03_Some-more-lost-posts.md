@@ -2,7 +2,7 @@
 title: "Some more lost posts"
 date: "2026-06-03"
 prevArticle: "2026-05-05_Solar-Update-April-2026"
-nextArticle: ""
+nextArticle: "2026-06-04_Solar-Update-May-2026"
 tags: Updates - TOTBH
 ---
 
