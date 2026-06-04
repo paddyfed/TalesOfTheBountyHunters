@@ -1,15 +1,16 @@
 ---
 title: "Ouch...what a bad start to the new year!!"
 date: "2010-01-04"
-prevArticle: '2009-12-28_the-christmas-round-up'
-nextArticle: '2010-01-05_i-just-dont-care-anymore'
+prevArticle: "2009-12-28_the-christmas-round-up"
+nextArticle: "2010-01-05_i-just-dont-care-anymore"
 tags: Sick - Rock Band - TotBH - Hospital - Nights In - Gaming
 ---
+
 The week started off so well as on Tuesday I headed over to Paulas house after work with a Chinese and a promise of watching 'Blades of Glory' on the TV. That all worked out fantastically and Paula left me in for work on Wednesday. I was working late but I didn't mind too much as Ryan was supposed to be coming down for a visit and I was going to head home for a bit of craic. We didn't get any word from him so I stayed in the flat instead. Paula did head out with Martina and Elaine though I wasn't in the mood for a night out.
 
 So Thursday, New Years Eve, I had to go to work again but I did head in early and bought beer for that night. It all went well and I headed back to the flat to get a shower and Adam had already packed up the XBOX and Rock Band stuff. We headed out to Pamelas with Paula but just as I went to take the beer out of the car, disaster! Something twinged my back and I was in agony! I basically was on the floor for the first hour and couldn't move much after that either!
 
-Everybody else had a good time though. They basically played the Wii for hours and wee Stephen was brilliant at it! I did get to have a few races of 'Mario Kart' but that was about it. We did manage to get a countdown and everybody clinked for the new year. I had thought when Shelly came back from work that Rock Band might get an airing but everyone else was happy to play the Wii. SO they had a few rounds of tennis and boxing instead. Eventually we headed back to Paulas house and I slept in her bed as it was a firm mattress compared to the couch.
+Everybody else had a good time though. They basically played the Wii for hours and wee Stephen was brilliant at it! I did get to have a few races of 'Mario Kart' but that was about it. We did manage to get a countdown and everybody clinked for the new year. I had thought when Shelly came back from work that Rock Band might get an airing but everyone else was happy to play the Wii. So they had a few rounds of tennis and boxing instead. Eventually we headed back to Paulas house and I slept in her bed as it was a firm mattress compared to the couch.
 
 Next morning, New Years Day, I woke up in agony and nearly passed out in the bathroom as I started laughing and the pain was excruciating! Paula came down to me and helped me get back to bed and I eventually fell back to sleep. When I woke up again, after having five dreams about being ok, Ger took us to the hospital to get checked out. They couldn't see anything wrong so they sent us to Cavan. Mum and Dad took us up and after waiting five hours in A&E they decided that there wasn't anything wrong and that it would work out in a few days. We headed home, had some pizza and Paula stayed the night.
 

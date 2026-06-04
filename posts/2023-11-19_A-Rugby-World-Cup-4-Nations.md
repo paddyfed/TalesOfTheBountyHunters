@@ -6,7 +6,7 @@ nextArticle: "2023-12-06_Solar-Update-November-2023"
 tags: Rugby - World Cup - Ireland - France - New Zealand - South Africa - Six Nations - Four Nations
 ---
 
-Now that the disappointment of Ireland's elimination at the 2023 Rugby World Cup has mostly gone, there was something that I noticed after the Semi Finals were over. The way that the draw was conducted, althoguh leaving a very lopsided halves, it also meant that the top 4 ranked teams in the world pretty much all played each other over that month period. The exception was Ireland did not get a chance to play France. This made me think, what would a 4 nations tournament table look like if we take these recent results into account. So I decided to tot it all up.
+Now that the disappointment of Ireland's elimination at the 2023 Rugby World Cup has mostly gone, there was something that I noticed after the Semi Finals were over. The way that the draw was conducted, although leaving a very lopsided halves, it also meant that the top 4 ranked teams in the world pretty much all played each other over that month period. The exception was Ireland did not get a chance to play France. This made me think, what would a 4 nations tournament table look like if we take these recent results into account. So I decided to tot it all up.
 
 The four teams of course are Ireland, France, New Zealand, and South Africa. Ireland entered the World Cup ranked number one and had high hopes to finally break their Quarter Final duck. The 2019 champions South Africa were their main opponent in their group. While France and New Zealand were set to open the tournament at the Stade de France in Paris.
 
@@ -15,6 +15,7 @@ First we have to deal with the fact that Ireland did not play France so I've tak
 ## Ireland (32) - (19) France
 
 **11th February 2023**
+
 A 4-try win for Ireland gives them a great start in the competition and a full 5 points. No bonus points for France leaves them at the bottom of the table.
 
 | Pos | Team         | Pld | W   | D   | L   | PF  | PA  | Diff | Tries | BP  | Pts |

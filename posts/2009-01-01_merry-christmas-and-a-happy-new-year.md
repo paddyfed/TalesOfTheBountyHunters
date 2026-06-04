@@ -1,10 +1,11 @@
 ---
 title: "Merry Christmas and  a Happy New Year"
 date: "2009-01-01"
-prevArticle: '2008-12-12_a-bit-to-catch-up-on'
-nextArticle: '2009-01-07_come-with-us-now-on-a-journey-through-time-and-space'
+prevArticle: "2008-12-12_a-bit-to-catch-up-on"
+nextArticle: "2009-01-07_come-with-us-now-on-a-journey-through-time-and-space"
 tags: Blog - TotBH - Nights Out - Hospital - Work - Gaming
 ---
+
 Yes so it's been ages since I've updated and a lot has happened so this will be a long one. The thing is though I won't really be able to remember everything so you'lll have to bear with me. So the last time I updated it was Friday 12th of December so I guess I'll go from there...
 
 Saturday 13th December: We went for a few drinks in the Pig with Stephanie and Adam. Martina joined us a bit later too along with her new man Gerard. I also saw Sorcha and Sinead and was talking to them for a while. After the Pig, who have started opening the doors to the cold in order to clear the bar, we went back to Stephanie's house for a few more drinks.
@@ -23,9 +24,9 @@ Friday 19th December: I didn't do much today even though I was at work for a few
 
 Saturday 20th December: Again I felt terrible for most of the day. I spent most of my time in bed with a temperature of 102 degrees. It was especially crap as this was the first weekend since Paula finished her exams and I couldn't go anywhere.
 
-Sunday 21st December: Stayed in bed for most of the day again but at least the temperature had dropped to just over 100 degrees. This was definitely the worst flu that I'd had for years. Usually I#m able to get over them in about a day but this one was persistant.
+Sunday 21st December: Stayed in bed for most of the day again but at least the temperature had dropped to just over 100 degrees. This was definitely the worst flu that I'd had for years. Usually I#m able to get over them in about a day but this one was persistent.
 
-Monday 22nd December: Had to call in sick to work as I was still feeling bad. The temperature had dropped again to 98 but I wouldn't have been much use in the shop. I also missed a little work get together in the Pig which was crap but there wasn't much I could do about it. I did feel alot better that evening so I was able to go to work the next day.
+Monday 22nd December: Had to call in sick to work as I was still feeling bad. The temperature had dropped again to 98 but I wouldn't have been much use in the shop. I also missed a little work get together in the Pig which was crap but there wasn't much I could do about it. I did feel a lot better that evening so I was able to go to work the next day.
 
 Tuesday 23rd December: In the morning I had my last physio appointment in Monaghan ever, so I was happy about that. No more trying top keep appointments and I'm happy to say that I never missed one. The finger is improving all the time. It's still quite stiff and a bit sore at times but hopefully it'll continue to get better. I was at work after that for the rest of the day and I've noted that it was a very busy day.
 
@@ -47,6 +48,6 @@ Wednesday 31st December: Today we went to Blaney for a bit of bowling. It was Me
 
 Thursday 1st January: So I woke up in Carliles at about four in the afternoon and got a lift home from Bob. I went straight to bed and watched a DVD, although I did fall asleep in the middle of it. After that I just recovered from the nice hangover and tried to fix my phone which is still trying to send some text messages from New Years Eve. The boys, Charlotte and Andrea all went home today too so the house is a bit empty now.
 
-So that's everything since the last time that I updated. I'm still coughing a bit but I am feeling alot better. The agenda for the weekend is to go to Paula's aunt's house for dinner and then a few pints afterwards. Saturday there's no plans yet but we might go out for a few drinks. Sunday I might head to Dublin as we're going to the Mighty Boosh on Monday so that'll be good. I had thought of giving up this Blog as it'd been so long since I updated. Plus my PC is on the blink again so it's more difficult to get on the net these days. I think it's the power pack that's giving problems this time so it's just one more thing to be replaced.
+So that's everything since the last time that I updated. I'm still coughing a bit but I am feeling a lot better. The agenda for the weekend is to go to Paula's aunt's house for dinner and then a few pints afterwards. Saturday there's no plans yet but we might go out for a few drinks. Sunday I might head to Dublin as we're going to the Mighty Boosh on Monday so that'll be good. I had thought of giving up this Blog as it'd been so long since I updated. Plus my PC is on the blink again so it's more difficult to get on the net these days. I think it's the power pack that's giving problems this time so it's just one more thing to be replaced.
 
 Paddy.

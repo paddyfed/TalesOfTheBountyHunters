@@ -1,13 +1,14 @@
 ---
 title: "The Blues are back in town"
 date: "2009-09-12"
-prevArticle: '2009-09-04_back-to-letterkenny'
-nextArticle: '2009-09-22_staff-parties-are-always-better-with-rock-band'
+prevArticle: "2009-09-04_back-to-letterkenny"
+nextArticle: "2009-09-22_staff-parties-are-always-better-with-rock-band"
 tags: TotBH - World Cup Qualifiers - Cinema - Nights Out - Blues Festival - GAA - Football
 ---
+
 ![Adam Jebbs cake](/images/P9040249.JPG "The infamous clock cake")
 
-We went to Deerys for Adam Jebbs 30th and it was a really nice night, the cake was especially funny. We stayed for a few drinks downstairs but most people were working or gettting up early the next day so we didn't stay long. Saturday was the second night of the Blues Festival but it was the [Ireland and Cyprus match](http://www.rte.ie/sport/2009/0905/ireland_cyprus_.html) that took centre stage. We watched it in the Pig and Landers and Carlile were there with Lorraine and Marie. After that we went to McKennas for one but it was too packed. It's the busiest I'd seen it in years! We went down to the Marquee then and we met up with Gavin, Sorcha and Paul. Headed home in the wee hours of the morning.
+We went to Deerys for Adam Jebbs 30th and it was a really nice night, the cake was especially funny. We stayed for a few drinks downstairs but most people were working or getting up early the next day so we didn't stay long. Saturday was the second night of the Blues Festival but it was the [Ireland and Cyprus match](http://www.rte.ie/sport/2009/0905/ireland_cyprus_.html) that took centre stage. We watched it in the Pig and Landers and Carlile were there with Lorraine and Marie. After that we went to McKennas for one but it was too packed. It's the busiest I'd seen it in years! We went down to the Marquee then and we met up with Gavin, Sorcha and Paul. Headed home in the wee hours of the morning.
 
 On Sunday I got up and headed home for my dinner only to find out that all of Dad's ones were coming over. So we had our dinner, watched a bit of [the Hurling final](http://www.rte.ie/sport/gaa/championship/2009/0906/kilkenny_tipperary_.html?gaa) and then Paula came over for a bit. I introduced her to a few of Dad's ones and then we headed into town. She said that it was very obvious that Eithne sticks up for me anyway. We were meeting Gavin and Sorcha in the Pig and then we headed to the Poc to listen to a few other bands and generally chatting about geeky stuff. We then headed down towards the marquee via Mizzonis but it was closed when we got there and the guy on the door was being a bit of a prick. So that was the end of the night so we headed back to the flat.
 
