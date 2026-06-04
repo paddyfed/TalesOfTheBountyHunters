@@ -1,11 +1,12 @@
 ---
 title: "It was put on the fridge - Part 2"
 date: "2008-10-16"
-prevArticle: '2008-10-14_computers-dinner-more-computers-and-hospitals'
-nextArticle: '2008-10-21_8-days-to-go'
+prevArticle: "2008-10-14_computers-dinner-more-computers-and-hospitals"
+nextArticle: "2008-10-21_8-days-to-go"
 tags: TotBH - Fridge - Hospital - Video
 ---
-Yes it's time for the second part of our series on phrases that were put on the fridge. And again this also gives me the opportunity to let you know that I have now completed all the old posts in my Australian blog for [October](/years/2007/10), [November](/years/2007/11) and [December](/years/2007/12) and I'll soon be starting on the 2008 entries.. Also the hospital appointment that I had on Tuesday went well and 'The Claw' will be officially off on the 29th of October, exactly two months since the incident. So on to the phrase...
+
+Yes it's time for the second part of our series on phrases that were put on the fridge. And again this also gives me the opportunity to let you know that I have now completed all the old posts in my Australian blog for [October](/year/2007/10), [November](/year/2007/11) and [December](/year/2007/12) and I'll soon be starting on the 2008 entries.. Also the hospital appointment that I had on Tuesday went well and 'The Claw' will be officially off on the 29th of October, exactly two months since the incident. So on to the phrase...
 
 ![Ou est mon chien](/images/P1240324.JPG "Ou est mon chien?")
 
