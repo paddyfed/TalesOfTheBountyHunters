@@ -2,7 +2,7 @@
 title: "Solar Update - May 2026"
 date: "2026-06-04"
 prevArticle: "2026-06-03_Some-more-lost-posts"
-nextArticle: ""
+nextArticle: "2026-07-01_Solar-Update-June-2026"
 tags: Solar Panels - Solar Update
 month: "05"
 year: "2026"
