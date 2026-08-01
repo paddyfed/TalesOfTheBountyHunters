@@ -1,7 +1,7 @@
 ---
 title: "Solar Update - July 2026"
 date: "2026-08-01"
-prevArticle: "2026-07-01_Solar-Update-June-2026"
+prevArticle: "2026-07-29_Marvel-Rewatch-for-Doomsday-X-2"
 nextArticle: ""
 tags: Solar Panels - Solar Update
 month: "07"

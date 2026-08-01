@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2026-03-11"
+date: "2026-08-01"
 ---
 
 ## Living in
@@ -15,10 +15,11 @@ CMETB as an Instructional Designer (2 days a week)
 
 ### Current
 
-Monaghan Institute, Level 6 Media Production
+None
 
 ### Completed
 
+Level 6 Creative Media - QQI Level 6 Advanced Digital Media Production
 Level 5 Traineeship - Digital Marketing - QQI Level 5 Multimedia Production  
 [Adobe Certified Professional in Graphic Design & Illustration Using Adobe Illustrator](https://www.credly.com/earner/earned/badge/5d609c62-bdd1-4497-bd80-f6f13e15e832)  
 [Adobe Certified Professional in Digital Video Using Adobe Premiere Pro](https://www.credly.com/earner/earned/badge/b7b7bdc9-316c-4c07-ac99-978532cc7ce8)  
@@ -43,9 +44,9 @@ How to steal a penguin
 
 ## Watching
 
-### TV
+### Movies
 
-Nothing at the minute
+Trying to watch all the Marvel movies and TV series for Doomsday in December
 
 ## Personal projects
 
