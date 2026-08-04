@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - X2 (2003)"
 date: "2026-07-29"
 prevArticle: "2026-07-27_Marvel-Rewatch-for-Doomsday-Spider-Man"
-nextArticle: "2026-08-01_Solar-Update-July-2026"
+nextArticle: "2026-08-01_Marvel-Rewatch-for-Doomsday-Spider-Man-2"
 tags: Doomsday - Rewatch - Marvel - 20th Century Fox - X-Men
 ---
 
