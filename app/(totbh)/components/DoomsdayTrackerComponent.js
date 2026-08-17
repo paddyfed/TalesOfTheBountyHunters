@@ -336,7 +336,12 @@ const moviesToWatch = [
 ];
 
 function SortMoviesByReleaseYear(movies) {
-  return movies.sort((a, b) => (a.release > b.release ? 1 : -1));
+  return movies.sort((a, b) => {
+    if (a.release > b.release) return 1;
+    if (a.release < b.release) return -1;
+    if (a.title > b.title) return 1;
+    if (a.title < b.title) return -1;
+  });
 }
 
 function LinkTitle({ title, url }) {
