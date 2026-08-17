@@ -79,7 +79,7 @@ const months = [
   "December",
 ];
 
-const styleClassses = {
+const styleClasses = {
   2021: styles.c2021,
   2022: styles.c2022,
   2023: styles.c2023,
@@ -99,7 +99,7 @@ export function PaymentsBuildBlocks() {
         <section
           id={x.number}
           key={x.number}
-          className={`${styles.section} ${styleClassses[d.getFullYear()]}`}
+          className={`${styles.section} ${styleClasses[d.getFullYear()]}`}
         >
           <div>{x.number}</div>
           <div className={`${styles.date}`}>
@@ -112,7 +112,7 @@ export function PaymentsBuildBlocks() {
         <section
           id={x.number}
           key={x.number}
-          className={`${styles.section}  ${styleClassses[d.getFullYear()]}`}
+          className={`${styles.section}  ${styleClasses[d.getFullYear()]}`}
         >
           <div className={`${styles.done}`}>&times;</div>
           <div className={`${styles.date}`}>
