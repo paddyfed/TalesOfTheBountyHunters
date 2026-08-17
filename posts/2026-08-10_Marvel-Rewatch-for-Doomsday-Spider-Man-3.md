@@ -1,8 +1,8 @@
 ---
 title: "Marvel Rewatch for Doomsday - Spider-Man 3 (2007)"
-date: "2026-08-05"
+date: "2026-08-10"
 prevArticle: "2026-08-05_Marvel-Rewatch-for-Doomsday-X-men-last-stand"
-nextArticle: ""
+nextArticle: "2026-08-12_Marvel-Rewatch-for-Doomsday-Ironman"
 tags: Doomsday - Rewatch - Marvel - Sony Pictures - Spider-Man
 ---
 
