@@ -58,7 +58,14 @@ const moviesToWatch = [
     dateSeen: "2026-08-12",
     url: "2026-08-12_Marvel-Rewatch-for-Doomsday-Ironman",
   },
-  { id: 8, title: "The Incredible Hulk", week: "2", release: "2008-06-13" },
+  {
+    id: 8,
+    title: "The Incredible Hulk",
+    week: "2",
+    release: "2008-06-13",
+    dateSeen: "2026-08-17",
+    url: "2026-08-17_Marvel-Rewatch-for-Doomsday-Incredible-Hulk",
+  },
   {
     id: 9,
     title: "X-Men Origins: Wolverine",
