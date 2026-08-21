@@ -2,7 +2,7 @@
 title: "Doomsday Tracker"
 date: "2026-08-18"
 prevArticle: "2026-08-17_Marvel-Rewatch-for-Doomsday-Incredible-Hulk"
-nextArticle: ""
+nextArticle: "2026-08-18_Marvel-Rewatch-for-Doomsday-X-men-origins-wolverine"
 tags: Doomsday - Rewatch - Marvel - MCU
 ---
 

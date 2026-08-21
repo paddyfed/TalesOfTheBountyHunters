@@ -71,6 +71,8 @@ const moviesToWatch = [
     title: "X-Men Origins: Wolverine",
     week: "2",
     release: "2009-05-01",
+    dateSeen: "2026-08-18",
+    url: "2026-08-18_Marvel-Rewatch-for-Doomsday-X-men-origins-wolverine",
   },
   { id: 10, title: "Iron Man 2", week: "2", release: "2010-05-07" },
   { id: 11, title: "Thor", week: "3", release: "2011-05-06" },
