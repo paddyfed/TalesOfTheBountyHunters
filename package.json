@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@js-temporal/polyfill": "^0.5.1",
     "apexcharts": "^5.10.6",
     "chart.js": "^4.5.0",
     "date-fns": "^2.29.3",
