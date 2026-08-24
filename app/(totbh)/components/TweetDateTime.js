@@ -1,8 +1,9 @@
-import { parseISO, format } from "date-fns";
+import { Temporal } from "@js-temporal/polyfill";
 
 export default function TweetDateTime({ dateString }) {
-  const date = parseISO(dateString);
-  return (
-    <time dateTime={dateString}>{format(date, "h:mm a · LLLL d, yyyy")}</time>
-  );
+  const date = Temporal.PlainDateTime.from(dateString).toLocaleString("en-IE", {
+    dateStyle: "medium",
+    timeStyle: "full",
+  });
+  return <time dateTime={dateString}>{date}</time>;
 }
