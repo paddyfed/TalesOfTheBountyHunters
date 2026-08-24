@@ -1,6 +1,20 @@
+import { Temporal } from "@js-temporal/polyfill";
+
 export const getDates = (month, year) =>
-  Array.from({ length: new Date(year, month, 0).getDate() }, (_, i) =>
-    new Date(year, month - 1, i + 1).toLocaleDateString(undefined, {
-      dateStyle: "medium",
-    })
+  Array.from(
+    {
+      length: Temporal.PlainDate.from({
+        year: year,
+        month: month,
+        day: 1,
+      }).daysInMonth,
+    },
+    (_, i) =>
+      Temporal.PlainDate.from({
+        year: year,
+        month: month,
+        day: i + 1,
+      }).toLocaleString("en-IE", {
+        dateStyle: "medium",
+      }),
   );
