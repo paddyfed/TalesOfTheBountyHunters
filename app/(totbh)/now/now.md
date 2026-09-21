@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2026-08-01"
+date: "2026-09-21"
 ---
 
 ## Living in
@@ -9,7 +9,7 @@ Monaghan
 
 ## Working in
 
-CMETB as an Instructional Designer (2 days a week)
+CMETB as an Instructional Designer (2 days a week) and with Youth Services (2 days a week)
 
 ## Studying
 
@@ -41,12 +41,13 @@ Dungeons and Daddies
 The Rest is Entertainment  
 RHLSTP  
 How to steal a penguin
+Lunchtime with Michael Fry
 
 ## Watching
 
 ### Movies
 
-Trying to watch all the Marvel movies and TV series for Doomsday in December
+Trying to watch all the Marvel movies and TV series for Doomsday in December - [Doomsday Tracker](/doomsday-tracker)
 
 ## Personal projects
 
