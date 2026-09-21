@@ -147,16 +147,16 @@ export default function EnergyByYearChart() {
           y: 493.645,
         },
         {
-          x: "2023",
-          y: 118.271,
-        },
-        {
           x: "2024",
           y: 504.859,
         },
         {
           x: "2025",
           y: 550.279,
+        },
+        {
+          x: "2026",
+          y: 429.841,
         },
         {
           x: "2023",
@@ -300,12 +300,8 @@ export default function EnergyByYearChart() {
           y: 133.62,
         },
         {
-          x: "2025",
+          x: "2026",
           y: 321.79,
-        },
-        {
-          x: "2023",
-          y: 9.667,
         },
         {
           x: "2024",
@@ -314,6 +310,10 @@ export default function EnergyByYearChart() {
         {
           x: "2025",
           y: 106.5,
+        },
+        {
+          x: "2026",
+          y: 143.311,
         },
         {
           x: "2023",
@@ -460,16 +460,16 @@ export default function EnergyByYearChart() {
           y: 319.93,
         },
         {
-          x: "2023",
-          y: 51.146,
-        },
-        {
           x: "2024",
           y: 366.583,
         },
         {
           x: "2025",
           y: 525.076,
+        },
+        {
+          x: "2026",
+          y: 357.554,
         },
         {
           x: "2023",
