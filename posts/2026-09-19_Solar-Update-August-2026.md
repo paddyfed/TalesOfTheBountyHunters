@@ -2,7 +2,7 @@
 title: "Solar Update - August 2026"
 date: "2026-09-19"
 prevArticle: "2026-09-07_Marvel-Rewatch-for-Doomsday-X-men-first-class"
-nextArticle: ""
+nextArticle: "2026-09-25_Marvel-Rewatch-for-Doomsday-Captain-America-first-avenger"
 tags: Solar Panels - Solar Update
 month: "08"
 year: "2026"
