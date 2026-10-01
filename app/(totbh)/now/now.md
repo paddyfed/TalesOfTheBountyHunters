@@ -1,6 +1,6 @@
 ---
 title: "Now"
-date: "2026-09-21"
+date: "2026-10-01"
 ---
 
 ## Living in
@@ -40,14 +40,15 @@ Back reading the Star Wars comics from Marvel
 Dungeons and Daddies  
 The Rest is Entertainment  
 RHLSTP  
-How to steal a penguin
+How to steal a penguin  
 Lunchtime with Michael Fry
 
 ## Watching
 
 ### Movies
 
-Trying to watch all the Marvel movies and TV series for Doomsday in December - [Doomsday Tracker](/doomsday-tracker)
+Trying to watch all the Marvel movies and TV series for Doomsday in December - [Doomsday Tracker](/doomsday-tracker)  
+I'm a bit behind the schedule.
 
 ## Personal projects
 

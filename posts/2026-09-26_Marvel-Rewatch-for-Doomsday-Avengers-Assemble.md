@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - Avengers (2012)"
 date: "2026-09-26"
 prevArticle: "2026-09-25_Marvel-Rewatch-for-Doomsday-Captain-America-first-avenger"
-nextArticle: ""
+nextArticle: "2026-09-30_Marvel-Rewatch-for-Doomsday-The-Amazing-Spider-Man"
 tags: Doomsday - Rewatch - Marvel - MCU - Avengers
 ---
 
