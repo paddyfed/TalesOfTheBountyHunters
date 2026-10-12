@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - The Wolverine (2013)"
 date: "2026-10-01"
 prevArticle: "2026-10-01_Marvel-Rewatch-for-Doomsday-Ironman-3"
-nextArticle: ""
+nextArticle: "2026-10-03_Marvel-Rewatch-for-Doomsday-Thor-the-dark-world"
 tags: Doomsday - Rewatch - Marvel - 20th Century Fox - X-Men
 ---
 
