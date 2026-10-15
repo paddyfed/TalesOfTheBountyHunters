@@ -1,8 +1,8 @@
 ---
 title: "Solar Update - September 2026"
 date: "2026-10-12"
-prevArticle: "2026-10-10_Marvel-Rewatch-for-Doomsday-X-men-days-of-future-past"
-nextArticle: ""
+prevArticle: "2026-10-12_Marvel-Rewatch-for-Doomsday-guardians-of-the-galaxy"
+nextArticle: "2026-10-13_Marvel-Rewatch-for-Doomsday-Avengers-age-of-ultron"
 tags: Solar Panels - Solar Update
 month: "09"
 year: "2026"

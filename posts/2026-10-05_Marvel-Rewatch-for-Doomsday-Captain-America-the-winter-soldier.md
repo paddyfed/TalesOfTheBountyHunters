@@ -1,5 +1,5 @@
 ---
-title: "Marvel Rewatch for Doomsday - Captain America: The Winter Soldier (2011)"
+title: "Marvel Rewatch for Doomsday - Captain America: The Winter Soldier (2014)"
 date: "2026-10-05"
 prevArticle: "2026-10-03_Marvel-Rewatch-for-Doomsday-Thor-the-dark-world"
 nextArticle: "2026-10-10_Marvel-Rewatch-for-Doomsday-The-Amazing-Spider-Man-2"

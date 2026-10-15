@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - X-Men Days of Future Past (2014)"
 date: "2026-10-10"
 prevArticle: "2026-10-10_Marvel-Rewatch-for-Doomsday-The-Amazing-Spider-Man-2"
-nextArticle: ""
+nextArticle: "2026-10-12_Marvel-Rewatch-for-Doomsday-guardians-of-the-galaxy"
 tags: Doomsday - Rewatch - Marvel - 20th Century Fox - X-Men
 ---
 
