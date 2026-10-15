@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - Avengers: Age of Ultron (2015)"
 date: "2026-10-13"
 prevArticle: "2026-10-12_Solar-Update-September-2026"
-nextArticle: ""
+nextArticle: "2026-10-14_Marvel-Rewatch-for-Doomsday-ant-man"
 tags: Doomsday - Rewatch - Marvel - MCU - Avengers
 ---
 
