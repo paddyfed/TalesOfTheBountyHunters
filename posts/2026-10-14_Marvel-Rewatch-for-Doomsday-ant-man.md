@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - Ant-Man (2015)"
 date: "2026-10-14"
 prevArticle: "2026-10-13_Marvel-Rewatch-for-Doomsday-Avengers-age-of-ultron"
-nextArticle: ""
+nextArticle: "2026-10-15_Marvel-Rewatch-for-Doomsday-Deadpool"
 tags: Doomsday - Rewatch - Marvel - MCU - Ant-Man
 ---
 
