@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - X-Men Apocalypse (2016)"
 date: "2026-10-18"
 prevArticle: "2026-10-16_Marvel-Rewatch-for-Doomsday-Captain-America-civil-war"
-nextArticle: ""
+nextArticle: "2026-10-19_Marvel-Rewatch-for-Doomsday-doctor-strange"
 tags: Doomsday - Rewatch - Marvel - 20th Century Fox - X-Men
 ---
 
