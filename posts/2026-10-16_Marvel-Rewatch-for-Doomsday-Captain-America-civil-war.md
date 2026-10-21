@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - Captain America: Civil War (2016)"
 date: "2026-10-16"
 prevArticle: "2026-10-15_Marvel-Rewatch-for-Doomsday-Deadpool"
-nextArticle: ""
+nextArticle: "2026-10-18_Marvel-Rewatch-for-Doomsday-X-men-apocalypse"
 tags: Doomsday - Rewatch - Marvel - MCU - Captain America
 ---
 
