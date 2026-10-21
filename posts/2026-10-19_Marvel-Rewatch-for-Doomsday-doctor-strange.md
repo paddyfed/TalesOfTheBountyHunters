@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - Doctor Strange (2016)"
 date: "2026-10-19"
 prevArticle: "2026-10-18_Marvel-Rewatch-for-Doomsday-X-men-apocalypse"
-nextArticle: ""
+nextArticle: "2026-10-20_Marvel-Rewatch-for-Doomsday-Logan"
 tags: Doomsday - Rewatch - Marvel - MCU - Doctor Strange
 ---
 
