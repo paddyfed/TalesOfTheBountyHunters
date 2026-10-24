@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - Spider-Man Homecoming (2017)"
 date: "2026-10-24"
 prevArticle: "2026-10-21_Marvel-Rewatch-for-Doomsday-guardians-of-the-galaxy-vol-2"
-nextArticle: ""
+nextArticle: "2026-10-24_Marvel-Rewatch-for-Doomsday-Thor-ragnarok"
 tags: Doomsday - Rewatch - Marvel - Sony Pictures - Spider-Man
 ---
 
