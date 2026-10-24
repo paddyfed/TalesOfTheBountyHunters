@@ -240,6 +240,8 @@ const moviesToWatch = [
     title: "Guardians of the Galaxy Vol. 2",
     week: "6",
     release: "2017-05-05",
+    dateSeen: "2026-10-21",
+    url: "2026-10-21_Marvel-Rewatch-for-Doomsday-guardians-of-the-galaxy-vol-2",
   },
   { id: 31, title: "Spider-Man: Homecoming", week: "7", release: "2017-07-07" },
   { id: 32, title: "Thor: Ragnarok", week: "7", release: "2017-11-03" },
