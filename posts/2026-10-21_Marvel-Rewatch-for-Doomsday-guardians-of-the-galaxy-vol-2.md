@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - Guardians of the Galaxy Vol. 2 (2017)"
 date: "2026-10-21"
 prevArticle: "2026-10-20_Marvel-Rewatch-for-Doomsday-Logan"
-nextArticle: ""
+nextArticle: "2026-10-24_Marvel-Rewatch-for-Doomsday-spider-man-homecoming"
 tags: Doomsday - Rewatch - Marvel - MCU - Guardians of the Galaxy
 ---
 
