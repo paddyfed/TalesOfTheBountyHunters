@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - Black Panther (2018)"
 date: "2026-10-26"
 prevArticle: "2026-10-24_Marvel-Rewatch-for-Doomsday-Thor-ragnarok"
-nextArticle: ""
+nextArticle: "2026-10-27_Marvel-Rewatch-for-Doomsday-Avengers-infinity-war"
 tags: Doomsday - Rewatch - Marvel - MCU - Black Panther
 ---
 
