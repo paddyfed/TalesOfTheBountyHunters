@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - Deadpool 2 (2018)"
 date: "2026-10-27"
 prevArticle: "2026-10-27_Marvel-Rewatch-for-Doomsday-Avengers-infinity-war"
-nextArticle: ""
+nextArticle: "2026-10-28_Marvel-Rewatch-for-Doomsday-ant-man-and-the-wasp"
 tags: Doomsday - Rewatch - Marvel - 20th Century Fox - X-Men - Deadpool
 ---
 
