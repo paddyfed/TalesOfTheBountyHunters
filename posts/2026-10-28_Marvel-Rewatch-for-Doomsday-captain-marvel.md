@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - Captain Marvel (2019)"
 date: "2026-10-28"
 prevArticle: "2026-10-28_Marvel-Rewatch-for-Doomsday-ant-man-and-the-wasp"
-nextArticle: ""
+nextArticle: "2026-10-31_Marvel-Rewatch-for-Doomsday-Avengers-endgame"
 tags: Doomsday - Rewatch - Marvel - MCU - Captain Marvel
 ---
 
