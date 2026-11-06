@@ -2,7 +2,7 @@
 title: "Marvel Rewatch for Doomsday - Avengers: Endgame (2019)"
 date: "2026-10-31"
 prevArticle: "2026-10-28_Marvel-Rewatch-for-Doomsday-captain-marvel"
-nextArticle: ""
+nextArticle: "2026-11-05_Marvel-Rewatch-for-Doomsday-01-X-men-dark-phoenix"
 tags: Doomsday - Rewatch - Marvel - MCU - Avengers
 ---
 
